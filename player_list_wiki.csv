@@ -1,0 +1,369 @@
+,Rank,Player,Club(s),Season,Percent
+0,1.0,Lionel Messi,Barcelona,2018-2019,24.360795454545457
+1,2.0,Virgil van Dijk,Liverpool,2018-2019,24.11221590909091
+2,3.0,Cristiano Ronaldo,Juventus,2018-2019,16.90340909090909
+3,4.0,Sadio Mané,Liverpool,2018-2019,12.322443181818182
+4,5.0,Mohamed Salah,Liverpool,2018-2019,6.3210227272727275
+5,6.0,Kylian Mbappé,Paris Saint-Germain,2018-2019,3.1605113636363638
+6,7.0,Alisson,Liverpool,2018-2019,2.3792613636363638
+7,8.0,Robert Lewandowski,Bayern Munich,2018-2019,1.5625
+8,9.0,Bernardo Silva,Manchester City,2018-2019,1.455965909090909
+9,10.0,Riyad Mahrez,Manchester City,2018-2019,1.171875
+10,11.0,Frenkie de Jong,Ajax Barcelona,2018-2019,1.1008522727272727
+11,12.0,Raheem Sterling,Manchester City,2018-2019,1.065340909090909
+12,13.0,Eden Hazard,Chelsea Real Madrid,2018-2019,0.8877840909090909
+13,14.0,Kevin De Bruyne,Manchester City,2018-2019,0.4971590909090909
+14,15.0,Matthijs de Ligt,Ajax Juventus,2018-2019,0.4616477272727273
+15,16.0,Sergio Agüero,Manchester City,2018-2019,0.4261363636363636
+16,17.0,Roberto Firmino,Liverpool,2018-2019,0.390625
+17,18.0,Antoine Griezmann,Atlético Madrid Barcelona,2018-2019,0.31960227272727276
+18,19.0,Trent Alexander-Arnold,Liverpool,2018-2019,0.2840909090909091
+19,20.0,Pierre-Emerick Aubameyang,Arsenal,2018-2019,0.17755681818181818
+20,20.0,Dušan Tadić,Ajax,2018-2019,0.17755681818181818
+21,22.0,Son Heung-min,Tottenham Hotspur,2018-2019,0.14204545454545456
+22,23.0,Hugo Lloris,Tottenham Hotspur,2018-2019,0.1065340909090909
+23,24.0,Kalidou Koulibaly,Napoli,2018-2019,0.07102272727272728
+24,24.0,Marc-André ter Stegen,Barcelona,2018-2019,0.07102272727272728
+25,26.0,Karim Benzema,Real Madrid,2018-2019,0.03551136363636364
+26,26.0,Georginio Wijnaldum,Liverpool,2018-2019,0.03551136363636364
+27,28.0,João Félix,Benfica Atlético Madrid,2018-2019,0.0
+28,28.0,Marquinhos,Paris Saint-Germain,2018-2019,0.0
+29,28.0,Donny van de Beek,Ajax,2018-2019,0.0
+30,1.0,Luka Modrić,Real Madrid,2017-2018,26.12768910478834
+31,2.0,Cristiano Ronaldo,Real Madrid Juventus,2017-2018,16.585704371963914
+32,3.0,Antoine Griezmann,Atlético Madrid,2017-2018,14.36502428868841
+33,4.0,Kylian Mbappé,Paris Saint-Germain,2017-2018,12.040249826509369
+34,5.0,Lionel Messi,Barcelona,2017-2018,9.715475364330327
+35,6.0,Mohamed Salah,Liverpool,2017-2018,6.5232477446217905
+36,7.0,Raphaël Varane,Real Madrid,2017-2018,4.198473282442748
+37,8.0,Eden Hazard,Chelsea,2017-2018,4.1290770298403885
+38,9.0,Kevin De Bruyne,Manchester City,2017-2018,1.0062456627342125
+39,10.0,Harry Kane,Tottenham Hotspur,2017-2018,0.8674531575294934
+40,11.0,N'Golo Kanté,Chelsea,2017-2018,0.8327550312283136
+41,12.0,Neymar,Paris Saint-Germain,2017-2018,0.659264399722415
+42,13.0,Luis Suárez,Barcelona,2017-2018,0.5898681471200555
+43,14.0,Thibaut Courtois,Chelsea Real Madrid,2017-2018,0.4163775156141568
+44,15.0,Paul Pogba,Manchester United,2017-2018,0.31228313671061764
+45,16.0,Sergio Agüero,Manchester City,2017-2018,0.24288688410825815
+46,17.0,Gareth Bale,Real Madrid,2017-2018,0.2081887578070784
+47,17.0,Karim Benzema,Real Madrid,2017-2018,0.2081887578070784
+48,19.0,Roberto Firmino,Liverpool,2017-2018,0.13879250520471895
+49,19.0,Ivan Rakitić,Barcelona,2017-2018,0.13879250520471895
+50,19.0,Sergio Ramos,Real Madrid,2017-2018,0.13879250520471895
+51,22.0,Edinson Cavani,Paris Saint-Germain,2017-2018,0.1040943789035392
+52,22.0,Sadio Mané,Liverpool,2017-2018,0.1040943789035392
+53,22.0,Marcelo,Real Madrid,2017-2018,0.1040943789035392
+54,25.0,Alisson,Roma Liverpool,2017-2018,0.06939625260235947
+55,25.0,Mario Mandžukić,Juventus,2017-2018,0.06939625260235947
+56,25.0,Jan Oblak,Atlético Madrid,2017-2018,0.06939625260235947
+57,28.0,Diego Godín,Atlético Madrid,2017-2018,0.03469812630117974
+58,29.0,Isco,Real Madrid,2017-2018,0.0
+59,29.0,Hugo Lloris,Tottenham Hotspur,2017-2018,0.0
+60,1.0,Kaká,Milan,2006-2007,30.838530838530836
+61,2.0,Cristiano Ronaldo,Manchester United,2006-2007,19.196119196119195
+62,3.0,Lionel Messi,Barcelona,2006-2007,17.671517671517673
+63,4.0,Didier Drogba,Chelsea,2006-2007,7.484407484407485
+64,5.0,Andrea Pirlo,Milan,2006-2007,2.8413028413028414
+65,6.0,Ruud van Nistelrooy,Real Madrid,2006-2007,2.7027027027027026
+66,7.0,Zlatan Ibrahimović,Internazionale,2006-2007,2.148302148302148
+67,8.0,Cesc Fàbregas,Arsenal,2006-2007,1.8711018711018712
+68,9.0,Robinho,Real Madrid,2006-2007,1.6632016632016633
+69,10.0,Francesco Totti,Roma,2006-2007,1.386001386001386
+70,11.0,Frédéric Kanouté,Sevilla,2006-2007,1.3167013167013166
+71,12.0,Ronaldinho,Barcelona,2006-2007,1.2474012474012475
+72,13.0,Steven Gerrard,Liverpool,2006-2007,1.178101178101178
+73,14.0,Juan Román Riquelme,Villarreal Boca Juniors,2006-2007,1.0395010395010396
+74,15.0,Dani Alves,Sevilla,2006-2007,0.9702009702009702
+75,16.0,Filippo Inzaghi,Milan,2006-2007,0.8316008316008316
+76,17.0,Franck Ribéry,Marseille Bayern Munich,2006-2007,0.693000693000693
+77,18.0,Paolo Maldini,Milan,2006-2007,0.5544005544005544
+78,19.0,Gianluigi Buffon,Juventus,2006-2007,0.4851004851004851
+79,19.0,Petr Čech,Chelsea,2006-2007,0.4851004851004851
+80,19.0,Gennaro Gattuso,Milan,2006-2007,0.4851004851004851
+81,19.0,Thierry Henry,Arsenal Barcelona,2006-2007,0.4851004851004851
+82,19.0,Clarence Seedorf,Milan,2006-2007,0.4851004851004851
+83,24.0,Fabio Cannavaro,Real Madrid,2006-2007,0.3465003465003465
+84,24.0,Michael Essien,Chelsea,2006-2007,0.3465003465003465
+85,26.0,Wayne Rooney,Manchester United,2006-2007,0.2772002772002772
+86,27.0,Iker Casillas,Real Madrid,2006-2007,0.2079002079002079
+87,27.0,Rogério Ceni,São Paulo,2006-2007,0.2079002079002079
+88,29.0,Younis Mahmoud,Al-Gharafa,2006-2007,0.1386001386001386
+89,30.0,Guillermo Ochoa,América,2006-2007,0.0693000693000693
+90,30.0,Dimitar Berbatov,Tottenham Hotspur,2006-2007,0.0693000693000693
+91,30.0,Samuel Eto'o,Barcelona,2006-2007,0.0693000693000693
+92,30.0,Ryan Giggs,Manchester United,2006-2007,0.0693000693000693
+93,30.0,Carlos Tevez,West Ham United Manchester United,2006-2007,0.0693000693000693
+94,30.0,Robin van Persie,Arsenal,2006-2007,0.0693000693000693
+95,36.0,Eric Abidal,Lyon Barcelona,2006-2007,0.0
+96,36.0,David Beckham,Real Madrid LA Galaxy,2006-2007,0.0
+97,36.0,Deco,Barcelona,2006-2007,0.0
+98,36.0,Mahamadou Diarra,Real Madrid,2006-2007,0.0
+99,36.0,Diego,Werder Bremen,2006-2007,0.0
+100,36.0,Miroslav Klose,Werder Bremen Bayern Munich,2006-2007,0.0
+101,36.0,Florent Malouda,Lyon Chelsea,2006-2007,0.0
+102,36.0,Shunsuke Nakamura,Celtic,2006-2007,0.0
+103,36.0,Ricardo Quaresma,Porto,2006-2007,0.0
+104,36.0,Raúl,Real Madrid,2006-2007,0.0
+105,36.0,Paul Scholes,Manchester United,2006-2007,0.0
+106,36.0,Luca Toni,Bayern Munich,2006-2007,0.0
+107,36.0,Kolo Touré,Arsenal,2006-2007,0.0
+108,36.0,Fernando Torres,Atlético Madrid Liverpool,2006-2007,0.0
+109,36.0,David Villa,Valencia,2006-2007,0.0
+110,1.0,Cristiano Ronaldo,Real Madrid,2016-2017,33.59375
+111,2.0,Lionel Messi,Barcelona,2016-2017,23.792613636363637
+112,3.0,Neymar,Barcelona Paris Saint-Germain,2016-2017,12.819602272727273
+113,4.0,Gianluigi Buffon,Juventus,2016-2017,7.848011363636363
+114,5.0,Luka Modrić,Real Madrid,2016-2017,2.9829545454545454
+115,6.0,Sergio Ramos,Real Madrid,2016-2017,2.521306818181818
+116,7.0,Kylian Mbappé,Monaco Paris Saint-Germain,2016-2017,1.7045454545454544
+117,8.0,N'Golo Kanté,Chelsea,2016-2017,1.6690340909090908
+118,9.0,Robert Lewandowski,Bayern Munich,2016-2017,1.5980113636363635
+119,10.0,Harry Kane,Tottenham Hotspur,2016-2017,1.278409090909091
+120,11.0,Edinson Cavani,Paris Saint-Germain,2016-2017,1.1363636363636365
+121,12.0,Isco,Real Madrid,2016-2017,0.9943181818181818
+122,13.0,Luis Suárez,Barcelona,2016-2017,0.9588068181818182
+123,14.0,Kevin De Bruyne,Manchester City,2016-2017,0.8877840909090909
+124,15.0,Paulo Dybala,Juventus,2016-2017,0.8167613636363636
+125,16.0,Marcelo,Real Madrid,2016-2017,0.7457386363636364
+126,17.0,Toni Kroos,Real Madrid,2016-2017,0.7102272727272727
+127,18.0,Antoine Griezmann,Atlético Madrid,2016-2017,0.6036931818181818
+128,19.0,Eden Hazard,Chelsea,2016-2017,0.5681818181818182
+129,20.0,David de Gea,Manchester United,2016-2017,0.5326704545454545
+130,21.0,Pierre-Emerick Aubameyang,Borussia Dortmund,2016-2017,0.4971590909090909
+131,21.0,Leonardo Bonucci,Juventus Milan,2016-2017,0.4971590909090909
+132,23.0,Sadio Mané,Liverpool,2016-2017,0.35511363636363635
+133,24.0,Radamel Falcao,Monaco,2016-2017,0.31960227272727276
+134,25.0,Karim Benzema,Real Madrid,2016-2017,0.24857954545454544
+135,26.0,Jan Oblak,Atlético Madrid,2016-2017,0.14204545454545456
+136,27.0,Mats Hummels,Bayern Munich,2016-2017,0.1065340909090909
+137,28.0,Edin Džeko,Roma,2016-2017,0.07102272727272728
+138,29.0,Philippe Coutinho,Liverpool,2016-2017,0.0
+139,29.0,Dries Mertens,Napoli,2016-2017,0.0
+140,1.0,Cristiano Ronaldo,Real Madrid,2015-2016,47.84842646114322
+141,2.0,Lionel Messi,Barcelona,2015-2016,20.29543994861914
+142,3.0,Antoine Griezmann,Atlético Madrid,2015-2016,12.716763005780345
+143,4.0,Luis Suárez,Barcelona,2015-2016,5.844572896596018
+144,5.0,Neymar,Barcelona,2015-2016,4.367373153500321
+145,6.0,Gareth Bale,Real Madrid,2015-2016,3.8535645472061653
+146,7.0,Riyad Mahrez,Leicester City,2015-2016,1.2845215157353884
+147,8.0,Jamie Vardy,Leicester City,2015-2016,0.7064868336544637
+148,9.0,Gianluigi Buffon,Juventus,2015-2016,0.5138086062941554
+149,9.0,Pepe,Real Madrid,2015-2016,0.5138086062941554
+150,11.0,Pierre-Emerick Aubameyang,Borussia Dortmund,2015-2016,0.44958253050738595
+151,12.0,Rui Patrício,Sporting CP,2015-2016,0.3853564547206166
+152,13.0,Zlatan Ibrahimović,Paris Saint-Germain Manchester United,2015-2016,0.3211303789338471
+153,14.0,Paul Pogba,Juventus Manchester United,2015-2016,0.2569043031470777
+154,14.0,Arturo Vidal,Bayern Munich,2015-2016,0.2569043031470777
+155,16.0,Robert Lewandowski,Bayern Munich,2015-2016,0.1926782273603083
+156,17.0,Toni Kroos,Real Madrid,2015-2016,0.06422607578676942
+157,17.0,Luka Modrić,Real Madrid,2015-2016,0.06422607578676942
+158,17.0,Dimitri Payet,West Ham United,2015-2016,0.06422607578676942
+159,20.0,Sergio Agüero,Manchester City,2015-2016,0.0
+160,20.0,Kevin De Bruyne,Manchester City,2015-2016,0.0
+161,20.0,Paulo Dybala,Juventus,2015-2016,0.0
+162,20.0,Diego Godín,Atlético Madrid,2015-2016,0.0
+163,20.0,Gonzalo Higuaín,Napoli Juventus,2015-2016,0.0
+164,20.0,Andrés Iniesta,Barcelona,2015-2016,0.0
+165,20.0,Koke,Atlético Madrid,2015-2016,0.0
+166,20.0,Hugo Lloris,Tottenham Hotspur,2015-2016,0.0
+167,20.0,Thomas Müller,Bayern Munich,2015-2016,0.0
+168,20.0,Manuel Neuer,Bayern Munich,2015-2016,0.0
+169,20.0,Sergio Ramos,Real Madrid,2015-2016,0.0
+170,1.0,Cristiano Ronaldo,Manchester United,2007-2008,31.01529902642559
+171,2.0,Lionel Messi,Barcelona,2007-2008,19.541029207232267
+172,3.0,Fernando Torres,Liverpool,2007-2008,12.447844228094576
+173,4.0,Iker Casillas,Real Madrid,2007-2008,9.248956884561892
+174,5.0,Xavi,Barcelona,2007-2008,6.7454798331015295
+175,6.0,Andrey Arshavin,Zenit Saint Petersburg,2007-2008,4.450625869262865
+176,7.0,David Villa,Valencia,2007-2008,3.8247566063977745
+177,8.0,Zlatan Ibrahimović,Internazionale,2007-2008,2.086230876216968
+178,9.0,Kaká,Milan,2007-2008,2.0166898470097356
+179,10.0,Steven Gerrard,Liverpool,2007-2008,1.9471488178025034
+180,11.0,Marcos Senna,Villarreal,2007-2008,1.1126564673157162
+181,12.0,Emmanuel Adebayor,Arsenal,2007-2008,0.8344923504867872
+182,13.0,Wayne Rooney,Manchester United,2007-2008,0.764951321279555
+183,14.0,Sergio Agüero,Atlético Madrid,2007-2008,0.6954102920723227
+184,15.0,Frank Lampard,Chelsea,2007-2008,0.5563282336578581
+185,16.0,Franck Ribéry,Bayern Munich,2007-2008,0.48678720445062584
+186,17.0,Samuel Eto'o,Barcelona,2007-2008,0.4172461752433936
+187,18.0,Gianluigi Buffon,Juventus,2007-2008,0.34770514603616137
+188,19.0,Michael Ballack,Chelsea,2007-2008,0.27816411682892905
+189,19.0,Cesc Fàbregas,Arsenal,2007-2008,0.27816411682892905
+190,21.0,Didier Drogba,Chelsea,2007-2008,0.2086230876216968
+191,21.0,Sergio Ramos,Real Madrid,2007-2008,0.2086230876216968
+192,21.0,Nemanja Vidić,Manchester United,2007-2008,0.2086230876216968
+193,24.0,Edwin van der Sar,Manchester United,2007-2008,0.13908205841446453
+194,24.0,Ruud van Nistelrooy,Real Madrid,2007-2008,0.13908205841446453
+195,26.0,Karim Benzema,Lyon,2007-2008,0.0
+196,26.0,Pepe,Real Madrid,2007-2008,0.0
+197,26.0,Luca Toni,Bayern Munich,2007-2008,0.0
+198,26.0,Rafael van der Vaart,Real Madrid,2007-2008,0.0
+199,26.0,Yuri Zhirkov,CSKA Moscow,2007-2008,0.0
+200,1.0,Lionel Messi,Barcelona,2008-2009,32.84722222222222
+201,2.0,Cristiano Ronaldo,Manchester United Real Madrid,2008-2009,16.180555555555557
+202,3.0,Xavi,Barcelona,2008-2009,11.805555555555555
+203,4.0,Andrés Iniesta,Barcelona,2008-2009,10.347222222222221
+204,5.0,Samuel Eto'o,Barcelona Internazionale,2008-2009,5.208333333333334
+205,6.0,Kaká,Milan Real Madrid,2008-2009,4.027777777777778
+206,7.0,Zlatan Ibrahimović,Internazionale Barcelona,2008-2009,3.4722222222222223
+207,8.0,Wayne Rooney,Manchester United,2008-2009,2.430555555555556
+208,9.0,Didier Drogba,Chelsea,2008-2009,2.2916666666666665
+209,10.0,Steven Gerrard,Liverpool,2008-2009,2.2222222222222223
+210,11.0,Fernando Torres,Liverpool,2008-2009,1.5277777777777777
+211,12.0,Cesc Fàbregas,Arsenal,2008-2009,0.9027777777777777
+212,13.0,Edin Džeko,Vfl Wolfsburg,2008-2009,0.8333333333333334
+213,14.0,Ryan Giggs,Manchester United,2008-2009,0.7638888888888888
+214,15.0,Thierry Henry,Barcelona,2008-2009,0.625
+215,16.0,Luís Fabiano,Sevilla,2008-2009,0.5555555555555556
+216,16.0,Nemanja Vidić,Manchester United,2008-2009,0.5555555555555556
+217,16.0,Iker Casillas,Real Madrid,2008-2009,0.5555555555555556
+218,19.0,Diego Forlán,Atlético Madrid,2008-2009,0.4861111111111111
+219,20.0,Yoann Gourcuff,Bordeaux,2008-2009,0.4166666666666667
+220,21.0,Andrey Arshavin,Arsenal,2008-2009,0.3472222222222222
+221,21.0,Júlio César,Internazionale,2008-2009,0.3472222222222222
+222,21.0,Frank Lampard,Chelsea,2008-2009,0.3472222222222222
+223,24.0,Maicon,Internazionale,2008-2009,0.2777777777777778
+224,25.0,Diego,Werder Bremen Juventus,2008-2009,0.20833333333333334
+225,26.0,David Villa,Valencia,2008-2009,0.1388888888888889
+226,26.0,John Terry,Chelsea,2008-2009,0.1388888888888889
+227,28.0,Franck Ribéry,Bayern Munich,2008-2009,0.06944444444444445
+228,28.0,Yaya Touré,Barcelona,2008-2009,0.06944444444444445
+229,30.0,Karim Benzema,Lyon Real Madrid,2008-2009,0.0
+230,1.0,Cristiano Ronaldo,Real Madrid,2013-2014,37.66%
+231,2.0,Lionel Messi,Barcelona,2013-2014,15.76%
+232,3.0,Manuel Neuer,Bayern Munich,2013-2014,15.72%
+233,4.0,Arjen Robben,Bayern Munich,2013-2014,7.17%
+234,5.0,Thomas Müller,Bayern Munich,2013-2014,5.42%
+235,6.0,Philipp Lahm,Bayern Munich,2013-2014,2.90%
+236,7.0,Neymar,Barcelona,2013-2014,2.21%
+237,8.0,James Rodríguez,Monaco Real Madrid,2013-2014,1.47%
+238,9.0,Toni Kroos,Bayern Munich Real Madrid,2013-2014,1.43%
+239,10.0,Ángel Di María,Real Madrid Manchester United,2013-2014,1.29%
+240,11.0,Diego Costa,Atlético Madrid Chelsea,2013-2014,1.02%
+241,12.0,Gareth Bale,Real Madrid,2013-2014,1.00%
+242,13.0,Zlatan Ibrahimović,Paris Saint-Germain,2013-2014,1.00%
+243,14.0,Yaya Touré,Manchester City,2013-2014,0.86%
+244,15.0,Mario Götze,Bayern Munich,2013-2014,0.84%
+245,16.0,Karim Benzema,Real Madrid,2013-2014,0.75%
+246,17.0,Andrés Iniesta,Barcelona,2013-2014,0.67%
+247,18.0,Bastian Schweinsteiger,Bayern Munich,2013-2014,0.57%
+248,19.0,Javier Mascherano,Barcelona,2013-2014,0.55%
+249,20.0,Thibaut Courtois,Atlético Madrid Chelsea,2013-2014,0.51%
+250,21.0,David Luiz,Chelsea,2013-2014,0.47%
+251,22.0,Paul Pogba,Juventus,2013-2014,0.40%
+252,23.0,Sergio Ramos,Real Madrid,2013-2014,0.33%
+253,1.0,Lionel Messi,Barcelona,2014-2015,41.33%
+254,2.0,Cristiano Ronaldo,Real Madrid,2014-2015,27.76%
+255,3.0,Neymar,Barcelona,2014-2015,7.86%
+256,4.0,Robert Lewandowski,Bayern Munich,2014-2015,4.17%
+257,5.0,Luis Suárez,Barcelona,2014-2015,3.38%
+258,6.0,Thomas Müller,Bayern Munich,2014-2015,2.21%
+259,7.0,Manuel Neuer,Bayern Munich,2014-2015,1.97%
+260,8.0,Eden Hazard,Chelsea,2014-2015,1.33%
+261,9.0,Andrés Iniesta,Barcelona,2014-2015,1.24%
+262,10.0,Alexis Sánchez,Arsenal,2014-2015,1.18%
+263,11.0,Zlatan Ibrahimović,Paris Saint-Germain,2014-2015,1.13%
+264,12.0,Yaya Touré,Manchester City,2014-2015,0.89%
+265,13.0,Sergio Agüero,Manchester City,2014-2015,0.86%
+266,14.0,Javier Mascherano,Barcelona,2014-2015,0.79%
+267,15.0,Paul Pogba,Juventus,2014-2015,0.72%
+268,16.0,Gareth Bale,Real Madrid,2014-2015,0.65%
+269,17.0,Arturo Vidal,Juventus Bayern Munich,2014-2015,0.58%
+270,18.0,Kevin De Bruyne,VfL Wolfsburg Manchester City,2014-2015,0.47%
+271,19.0,James Rodríguez,Real Madrid,2014-2015,0.45%
+272,20.0,Karim Benzema,Real Madrid,2014-2015,0.40%
+273,21.0,Toni Kroos,Real Madrid,2014-2015,0.2931%
+274,22.0,Arjen Robben,Bayern Munich,2014-2015,0.2930%
+275,23.0,Ivan Rakitić,Barcelona,2014-2015,0.05%
+276,1st,Cristiano Ronaldo,Real Madrid,2012-2013,27.99%
+277,2nd,Lionel Messi,Barcelona,2012-2013,24.72%
+278,3rd,Franck Ribéry,Bayern Munich,2012-2013,23.36%
+279,4th,Zlatan Ibrahimović,Paris Saint-Germain,2012-2013,5.29%
+280,5th,Neymar,Santos Barcelona,2012-2013,3.17%
+281,6th,Andrés Iniesta,Barcelona,2012-2013,2.08%
+282,7th,Robin van Persie,Manchester United,2012-2013,1.79%
+283,8th,Arjen Robben,Bayern Munich,2012-2013,1.77%
+284,9th,Gareth Bale,Tottenham Hotspur Real Madrid,2012-2013,1.32%
+285,10th,Andrea Pirlo,Juventus,2012-2013,1.11%
+286,11th,Radamel Falcao,Atlético Madrid Monaco,2012-2013,1.08%
+287,12th,Yaya Touré,Manchester City,2012-2013,0.99%
+288,13th,Robert Lewandowski,Borussia Dortmund,2012-2013,0.92%
+289,14th,Philipp Lahm,Bayern Munich,2012-2013,0.82%
+290,14th,Xavi,Barcelona,2012-2013,0.82%
+291,16th,Mesut Özil,Real Madrid Arsenal,2012-2013,0.71%
+292,17th,Bastian Schweinsteiger,Bayern Munich,2012-2013,0.43%
+293,17th,Thomas Müller,Bayern Munich,2012-2013,0.43%
+294,19th,Luis Suárez,Liverpool,2012-2013,0.39%
+295,20th,Edinson Cavani,Napoli Paris Saint-Germain,2012-2013,0.36%
+296,21st,Thiago Silva,Paris Saint-Germain,2012-2013,0.24%
+297,22nd,Eden Hazard,Chelsea,2012-2013,0.16%
+298,23rd,Manuel Neuer,Bayern Munich,2012-2013,0.08%
+299,1st,Lionel Messi,Barcelona,2011-2012,41.60%
+300,2nd,Cristiano Ronaldo,Real Madrid,2011-2012,23.68%
+301,3rd,Andrés Iniesta,Barcelona,2011-2012,10.91%
+302,4th,Xavi,Barcelona,2011-2012,4.08%
+303,5th,Radamel Falcao,Atlético Madrid,2011-2012,3.67%
+304,6th,Iker Casillas,Real Madrid,2011-2012,3.18%
+305,7th,Andrea Pirlo,Juventus,2011-2012,2.66%
+306,8th,Didier Drogba,Chelsea Shanghai Shenhua,2011-2012,2.60%
+307,9th,Robin van Persie,Arsenal Manchester United,2011-2012,1.45%
+308,10th,Zlatan Ibrahimović,Milan Paris Saint-Germain,2011-2012,1.24%
+309,11th,Xabi Alonso,Real Madrid,2011-2012,1.09%
+310,12th,Yaya Touré,Manchester City,2011-2012,0.76%
+311,13th,Neymar,Santos,2011-2012,0.61%
+312,14th,Mesut Özil,Real Madrid,2011-2012,0.41%
+313,15th,Wayne Rooney,Manchester United,2011-2012,0.39%
+314,16th,Gianluigi Buffon,Juventus,2011-2012,0.35%
+315,17th,Sergio Agüero,Manchester City,2011-2012,0.30%
+316,18th,Sergio Ramos,Real Madrid,2011-2012,0.22%
+317,19th,Manuel Neuer,Bayern Munich,2011-2012,0.21%
+318,20th,Sergio Busquets,Barcelona,2011-2012,0.20%
+319,21st,Gerard Piqué[12],Barcelona,2011-2012,0.11%
+320,22nd,Karim Benzema,Real Madrid,2011-2012,0.11%
+321,23rd,Mario Balotelli,Manchester City,2011-2012,0.07%
+322,1st,Lionel Messi,Barcelona,2010-2011,47.88%
+323,2nd,Cristiano Ronaldo,Real Madrid,2010-2011,21.60%
+324,3rd,Xavi,Barcelona,2010-2011,9.23%
+325,4th,Andrés Iniesta,Barcelona,2010-2011,6.01%
+326,5th,Wayne Rooney,Manchester United,2010-2011,2.31%
+327,6th,Luis Suárez,Ajax Liverpool,2010-2011,1.48%
+328,7th,Diego Forlán,Atlético Madrid Internazionale,2010-2011,1.43%
+329,8th,Samuel Eto'o,Internazionale Anzhi Makhachkala,2010-2011,1.34%
+330,9th,Iker Casillas,Real Madrid,2010-2011,1.29%
+331,10th,Neymar,Santos,2010-2011,1.12%
+332,11th,Mesut Özil,Real Madrid,2010-2011,0.76%
+333,12th,Wesley Sneijder,Internazionale,2010-2011,0.72%
+334,13th,Thomas Müller,Bayern Munich,2010-2011,0.64%
+335,14th,David Villa,Barcelona,2010-2011,0.53%
+336,15th,Bastian Schweinsteiger,Bayern Munich,2010-2011,0.50%
+337,16th,Xabi Alonso,Real Madrid,2010-2011,0.48%
+338,17th,Sergio Agüero,Atlético Madrid Manchester City,2010-2011,0.48%
+339,18th,Eric Abidal,Barcelona,2010-2011,0.36%
+340,19th,Dani Alves,Barcelona,2010-2011,0.34%
+341,20th,Karim Benzema,Real Madrid,2010-2011,0.34%
+342,21st,Cesc Fàbregas,Arsenal Barcelona,2010-2011,0.29%
+343,22nd,Nani,Manchester United,2010-2011,0.26%
+344,23rd,Gerard Piqué,Barcelona,2010-2011,0.22%
+345,1st,Lionel Messi,Barcelona,2009-2010,22.65%
+346,2nd,Andrés Iniesta,Barcelona,2009-2010,17.36%
+347,3rd,Xavi,Barcelona,2009-2010,16.48%
+348,4th,Wesley Sneijder,Internazionale,2009-2010,14.48%
+349,5th,Diego Forlán,Atlético Madrid,2009-2010,7.61%
+350,6th,Cristiano Ronaldo,Real Madrid,2009-2010,3.92%
+351,7th,Iker Casillas,Real Madrid,2009-2010,2.90%
+352,8th,David Villa,ValenciaBarcelona,2009-2010,2.25%
+353,9th,Didier Drogba,Chelsea,2009-2010,1.68%
+354,10th,Xabi Alonso,Real Madrid,2009-2010,1.52%
+355,11th,Carles Puyol,Barcelona,2009-2010,1.43%
+356,12th,Samuel Eto'o,Internazionale,2009-2010,1.37%
+357,13th,Mesut Özil,Real Madrid,2009-2010,1.21%
+358,14th,Arjen Robben,Bayern Munich,2009-2010,1.16%
+359,15th,Thomas Müller,Bayern Munich,2009-2010,0.91%
+360,16th,Bastian Schweinsteiger,Bayern Munich,2009-2010,0.75%
+361,17th,Maicon,Internazionale,2009-2010,0.57%
+362,18th,Asamoah Gyan,Sunderland,2009-2010,0.46%
+363,19th,Júlio César,Internazionale,2009-2010,0.22%
+364,20th,Cesc Fàbregas,Arsenal,2009-2010,0.22%
+365,21st,Miroslav Klose,Bayern Munich,2009-2010,0.19%
+366,22nd,Philipp Lahm,Bayern Munich,2009-2010,0.05%
+367,23rd,Dani Alves,Barcelona,2009-2010,0.05%

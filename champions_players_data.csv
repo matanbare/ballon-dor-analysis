@@ -1,0 +1,1847 @@
+,Player,Season,Age,Squad,Lg_Rank,Comp,Matches,Starts,Minutes,Goals,Assists,penalty_kicks_made,penalty_kicks_attempted,yellow_cards,red_cards,goals_per_game,assists_per_game
+0,Lionel Messi,2004-2005,17,Barcelona,R16,1. Champions Lg,1,1,90,0,0,0,0,0,0,0.00,0.00
+1,Lionel Messi,2005-2006,18,Barcelona,W,1. Champions Lg,6,4,322,1,1,0,0,0,0,0.28,0.28
+2,Lionel Messi,2006-2007,19,Barcelona,R16,1. Champions Lg,5,4,385,1,0,0,0,1,0,0.23,0.00
+3,Lionel Messi,2007-2008,20,Barcelona,SF,1. Champions Lg,9,9,728,6,2,1,1,2,0,0.74,0.25
+4,Lionel Messi,2008-2009,21,Barcelona,W,1. Champions Lg,12,10,927,9,5,0,0,1,0,0.87,0.49
+5,Lionel Messi,2009-2010,22,Barcelona,SF,1. Champions Lg,11,11,987,8,0,0,0,0,0,0.73,0.00
+6,Lionel Messi,2010-2011,23,Barcelona,W,1. Champions Lg,13,11,"1,046",12,3,1,2,0,0,1.03,0.26
+7,Lionel Messi,2011-2012,24,Barcelona,SF,1. Champions Lg,11,11,990,14,5,4,5,2,0,1.27,0.45
+8,Lionel Messi,2012-2013,25,Barcelona,SF,1. Champions Lg,11,9,826,8,2,0,0,0,0,0.87,0.22
+9,Lionel Messi,2013-2014,26,Barcelona,QF,1. Champions Lg,7,7,630,8,0,2,2,0,0,1.14,0.00
+10,Lionel Messi,2014-2015,27,Barcelona,W,1. Champions Lg,13,13,"1,147",10,6,0,1,1,0,0.78,0.47
+11,Lionel Messi,2015-2016,28,Barcelona,QF,1. Champions Lg,7,7,630,6,1,1,1,1,0,0.86,0.14
+12,Lionel Messi,2015-2016,28,Barcelona,1st,Super Cup,1,1,120,2,0,0,0,0,0,1.50,0.00
+13,Lionel Messi,2016-2017,29,Barcelona,QF,1. Champions Lg,9,9,810,11,2,2,2,0,0,1.22,0.22
+14,Lionel Messi,2017-2018,30,Barcelona,QF,1. Champions Lg,10,8,783,6,2,0,0,2,0,0.69,0.23
+15,Lionel Messi,2018-2019,31,Barcelona,SF,1. Champions Lg,10,9,838,12,3,1,1,0,0,1.29,0.32
+16,Lionel Messi,2019-2020,32,Barcelona,QF,1. Champions Lg,8,7,662,3,3,0,0,2,0,0.41,0.41
+17,Lionel Messi,2020-2021,33,Barcelona,R16,1. Champions Lg,4,4,360,3,2,3,3,0,0,0.75,0.50
+18,Virgil van Dijk,2013-2014,22,Celtic,GR,1. Champions Lg,6,6,540,0,0,0,0,2,0,0.00,0.00
+19,Virgil van Dijk,2014-2015,23,Celtic,R32,2. Europa Lg,8,8,666,0,0,0,0,2,1,0.00,0.00
+20,Virgil van Dijk,2016-2017,25,Southampton,GR,2. Europa Lg,6,6,540,2,0,0,0,0,0,0.33,0.00
+21,Virgil van Dijk,2017-2018,26,Liverpool,F,1. Champions Lg,6,6,540,0,0,0,0,1,0,0.00,0.00
+22,Virgil van Dijk,2018-2019,27,Liverpool,W,1. Champions Lg,12,12,"1,080",2,2,0,0,3,0,0.17,0.17
+23,Virgil van Dijk,2019-2020,28,Liverpool,R16,1. Champions Lg,8,8,750,0,0,0,0,0,0,0.00,0.00
+24,Virgil van Dijk,2019-2020,28,Liverpool,1st,Super Cup,1,1,120,0,0,0,0,0,0,0.00,0.00
+25,Cristiano Ronaldo,2002-2003,17,Sporting CP,Rd1,2. UEFA Cup,2,1,118,0,,0,,0,0,0.00,
+26,Cristiano Ronaldo,2003-2004,18,Manchester Utd,R16,1. Champions Lg,5,3,291,0,0,0,0,0,0,0.00,0.00
+27,Cristiano Ronaldo,2004-2005,19,Manchester Utd,R16,1. Champions Lg,7,6,502,0,2,0,0,0,0,0.00,0.36
+28,Cristiano Ronaldo,2005-2006,20,Manchester Utd,GR,1. Champions Lg,6,6,506,0,0,0,0,1,0,0.00,0.00
+29,Cristiano Ronaldo,2006-2007,21,Manchester Utd,SF,1. Champions Lg,11,11,959,3,4,0,0,3,0,0.28,0.38
+30,Cristiano Ronaldo,2007-2008,22,Manchester Utd,W,1. Champions Lg,11,11,"1,015",8,2,1,1,2,0,0.71,0.18
+31,Cristiano Ronaldo,2008-2009,23,Manchester Utd,F,1. Champions Lg,12,11,"1,010",4,2,0,0,2,0,0.36,0.18
+32,Cristiano Ronaldo,2009-2010,24,Real Madrid,R16,1. Champions Lg,6,5,450,7,1,0,0,0,0,1.40,0.20
+33,Cristiano Ronaldo,2010-2011,25,Real Madrid,SF,1. Champions Lg,12,12,"1,022",6,4,1,1,2,0,0.53,0.35
+34,Cristiano Ronaldo,2011-2012,26,Real Madrid,SF,1. Champions Lg,10,10,930,10,3,2,2,1,0,0.97,0.29
+35,Cristiano Ronaldo,2012-2013,27,Real Madrid,SF,1. Champions Lg,12,12,"1,080",12,1,0,0,1,0,1.00,0.08
+36,Cristiano Ronaldo,2013-2014,28,Real Madrid,W,1. Champions Lg,11,11,993,17,5,2,3,1,0,1.54,0.45
+37,Cristiano Ronaldo,2014-2015,29,Real Madrid,SF,1. Champions Lg,12,12,"1,065",10,4,3,4,1,0,0.85,0.34
+38,Cristiano Ronaldo,2014-2015,29,Real Madrid,1st,Super Cup,1,1,90,2,0,0,0,0,0,2.00,0.00
+39,Cristiano Ronaldo,2015-2016,30,Real Madrid,W,1. Champions Lg,12,12,"1,109",16,4,2,0,1,0,1.30,0.32
+40,Cristiano Ronaldo,2016-2017,31,Real Madrid,W,1. Champions Lg,13,13,"1,200",12,6,0,0,1,0,0.90,0.45
+41,Cristiano Ronaldo,2017-2018,32,Real Madrid,W,1. Champions Lg,13,13,"1,170",15,2,4,4,2,0,1.15,0.15
+42,Cristiano Ronaldo,2017-2018,32,Real Madrid,1st,Super Cup,1,0,8,0,0,0,0,0,0,0.00,0.00
+43,Cristiano Ronaldo,2018-2019,33,Juventus,QF,1. Champions Lg,9,9,748,6,2,1,1,1,1,0.72,0.24
+44,Cristiano Ronaldo,2019-2020,34,Juventus,R16,1. Champions Lg,8,8,711,4,1,1,1,0,0,0.51,0.13
+45,Cristiano Ronaldo,2020-2021,35,Juventus,R16,1. Champions Lg,4,4,359,4,1,2,2,0,0,1.00,0.25
+46,Sadio Mané,2013-2014,21,RB Salzburg,R16,2. Europa Lg,9,9,712,4,3,0,0,1,1,0.51,0.38
+47,Sadio Mané,2017-2018,25,Liverpool,F,1. Champions Lg,11,11,940,10,2,0,0,2,0,0.96,0.19
+48,Sadio Mané,2018-2019,26,Liverpool,W,1. Champions Lg,13,13,"1,148",4,1,0,1,2,0,0.31,0.08
+49,Sadio Mané,2019-2020,27,Liverpool,R16,1. Champions Lg,8,7,631,2,2,0,0,2,0,0.29,0.29
+50,Sadio Mané,2019-2020,27,Liverpool,1st,Super Cup,1,1,102,2,0,0,0,0,0,1.76,0.00
+51,Sadio Mané,2020-2021,28,Liverpool,R16,1. Champions Lg,6,4,364,1,1,0,0,1,0,0.25,0.25
+52,Mohamed Salah,2012-2013,20,Basel,SF,2. Europa Lg,14,10,949,2,3,0,0,0,0,0.19,0.28
+53,Mohamed Salah,2013-2014,21,Basel,GR,1. Champions Lg,6,6,532,2,0,0,0,0,0,0.34,0.00
+54,Mohamed Salah,2014-2015,22,Chelsea,R16,1. Champions Lg,2,1,76,0,0,0,0,0,0,0.00,0.00
+55,Mohamed Salah,2014-2015,22,Fiorentina,SF,2. Europa Lg,8,8,718,1,1,0,0,1,0,0.13,0.13
+56,Mohamed Salah,2015-2016,23,Roma,R16,1. Champions Lg,7,6,543,1,0,0,0,0,0,0.17,0.00
+57,Mohamed Salah,2016-2017,24,Roma,R16,2. Europa Lg,6,4,372,2,1,0,0,0,0,0.48,0.24
+58,Mohamed Salah,2017-2018,25,Liverpool,F,1. Champions Lg,13,12,930,10,4,0,0,0,0,0.97,0.39
+59,Mohamed Salah,2018-2019,26,Liverpool,W,1. Champions Lg,12,12,"1,056",5,2,2,2,1,0,0.43,0.17
+60,Mohamed Salah,2019-2020,27,Liverpool,R16,1. Champions Lg,8,8,730,4,2,0,0,0,0,0.49,0.25
+61,Mohamed Salah,2019-2020,27,Liverpool,1st,Super Cup,1,1,120,0,0,0,0,0,0,0.00,0.00
+62,Mohamed Salah,2020-2021,28,Liverpool,R16,1. Champions Lg,6,5,419,3,1,1,1,0,0,0.64,0.21
+63,Kylian Mbappé,2015-2016,16,Monaco,GR,2. Europa Lg,1,0,34,0,1,0,0,0,0,0.00,2.65
+64,Kylian Mbappé,2016-2017,17,Monaco,SF,1. Champions Lg,9,6,536,6,0,0,0,0,0,1.01,0.00
+65,Kylian Mbappé,2017-2018,18,Paris S-G,R16,1. Champions Lg,8,8,658,4,3,0,0,1,0,0.55,0.41
+66,Kylian Mbappé,2018-2019,19,Paris S-G,R16,1. Champions Lg,8,8,699,4,5,0,0,1,0,0.52,0.64
+67,Kylian Mbappé,2019-2020,20,Paris S-G,F,1. Champions Lg,10,6,654,5,5,0,0,1,0,0.69,0.69
+68,Kylian Mbappé,2020-2021,21,Paris S-G,R16,1. Champions Lg,5,5,449,2,3,1,1,0,0,0.40,0.60
+69,Alisson,2015,22,Internacional,SF,1. Libertadores,12,12,"1,080",,,,0,,7,2,3
+70,Alisson,2016-2017,23,Roma,R16,2. Europa Lg,10,10,900,13,1.30,56,43,.768,5,3,2
+71,Alisson,2017-2018,24,Roma,SF,1. Champions Lg,12,12,"1,080",19,1.58,62,43,.694,6,2,4
+72,Alisson,2018-2019,25,Liverpool,W,1. Champions Lg,13,13,"1,170",12,0.92,57,46,.789,8,1,4
+73,Alisson,2019-2020,26,Liverpool,R16,1. Champions Lg,5,5,450,4,0.80,16,12,.750,3,1,1
+74,Alisson,2020-2021,27,Liverpool,R16,1. Champions Lg,3,3,270,2,0.67,11,9,.818,2,0,1
+75,Robert Lewandowski,2008-2009,19,Lech Poznań,R32,2. UEFA Cup,8,6,592,1,,0,,1,0,0.15,
+76,Robert Lewandowski,2010-2011,21,Dortmund,GR,2. Europa Lg,6,1,200,1,1,0,0,1,0,0.45,0.45
+77,Robert Lewandowski,2011-2012,22,Dortmund,GR,1. Champions Lg,6,6,522,1,2,0,0,0,0,0.17,0.34
+78,Robert Lewandowski,2012-2013,23,Dortmund,F,1. Champions Lg,13,12,"1,090",10,2,1,1,1,0,0.83,0.17
+79,Robert Lewandowski,2013-2014,24,Dortmund,QF,1. Champions Lg,9,9,809,6,2,1,1,3,0,0.67,0.22
+80,Robert Lewandowski,2014-2015,25,Bayern Munich,SF,1. Champions Lg,12,10,931,6,3,0,0,1,0,0.58,0.29
+81,Robert Lewandowski,2015-2016,26,Bayern Munich,SF,1. Champions Lg,12,11,942,9,0,0,0,2,0,0.86,0.00
+82,Robert Lewandowski,2016-2017,27,Bayern Munich,QF,1. Champions Lg,9,9,794,8,1,4,4,0,0,0.91,0.11
+83,Robert Lewandowski,2017-2018,28,Bayern Munich,SF,1. Champions Lg,11,11,955,5,1,1,1,2,0,0.47,0.09
+84,Robert Lewandowski,2018-2019,29,Bayern Munich,R16,1. Champions Lg,8,8,712,8,0,2,2,0,0,1.01,0.00
+85,Robert Lewandowski,2019-2020,30,Bayern Munich,W,1. Champions Lg,10,10,886,15,6,2,2,0,0,1.52,0.61
+86,Robert Lewandowski,2020-2021,31,Bayern Munich,R16,1. Champions Lg,4,4,352,3,0,1,1,0,0,0.77,0.00
+87,Robert Lewandowski,2020-2021,31,Bayern Munich,1st,Super Cup,1,1,120,0,1,0,0,0,0,0.00,0.75
+88,Bernardo Silva,2014-2015,19,Monaco,QF,1. Champions Lg,7,1,196,0,1,0,0,1,0,0.00,0.46
+89,Bernardo Silva,2015-2016,20,Monaco,GR,2. Europa Lg,6,6,481,0,0,0,0,1,0,0.00,0.00
+90,Bernardo Silva,2016-2017,21,Monaco,SF,1. Champions Lg,11,11,921,2,1,0,0,1,0,0.20,0.10
+91,Bernardo Silva,2017-2018,22,Manchester City,QF,1. Champions Lg,9,6,563,1,2,0,0,1,0,0.16,0.32
+92,Bernardo Silva,2018-2019,23,Manchester City,QF,1. Champions Lg,8,6,579,4,1,0,0,0,0,0.62,0.16
+93,Bernardo Silva,2019-2020,24,Manchester City,QF,1. Champions Lg,7,5,435,0,1,0,0,1,0,0.00,0.21
+94,Bernardo Silva,2020-2021,25,Manchester City,R16,1. Champions Lg,6,4,382,0,0,0,0,1,0,0.00,0.00
+95,Riyad Mahrez,2016-2017,25,Leicester City,QF,1. Champions Lg,9,9,777,4,2,2,2,1,0,0.46,0.23
+96,Riyad Mahrez,2018-2019,27,Manchester City,QF,,6,4,389,1,4,0,0,1,0,0.23,0.93
+97,Riyad Mahrez,2019-2020,28,Manchester City,QF,1. Champions Lg,7,6,572,1,4,0,0,0,0,0.16,0.63
+98,Riyad Mahrez,2020-2021,29,Manchester City,R16,1. Champions Lg,5,3,252,0,0,0,0,0,0,0.00,0.00
+99,Frenkie de Jong,2016-2017,19,Ajax,F,2. Europa Lg,4,0,47,0,0,0,0,0,0,0.00,0.00
+100,Frenkie de Jong,2018-2019,21,Ajax,SF,1. Champions Lg,11,11,985,0,0,0,0,2,0,0.00,0.00
+101,Frenkie de Jong,2019-2020,22,Barcelona,QF,1. Champions Lg,9,8,748,0,0,0,0,0,0,0.00,0.00
+102,Frenkie de Jong,2020-2021,23,Barcelona,R16,1. Champions Lg,5,4,405,0,1,0,0,0,0,0.00,0.22
+103,Raheem Sterling,2012-2013,17,Liverpool,R32,2. Europa Lg,7,1,185,0,0,0,0,0,0,0.00,0.00
+104,Raheem Sterling,2014-2015,19,Liverpool,GR,1. Champions Lg,6,5,463,0,1,0,0,1,0,0.00,0.19
+105,Raheem Sterling,2014-2015,19,Liverpool,R32,2. Europa Lg,2,1,133,0,0,0,0,0,0,0.00,0.00
+106,Raheem Sterling,2015-2016,20,Manchester City,SF,1. Champions Lg,10,6,578,3,2,0,0,0,0,0.47,0.31
+107,Raheem Sterling,2016-2017,21,Manchester City,R16,1. Champions Lg,7,7,578,2,3,0,0,3,0,0.31,0.47
+108,Raheem Sterling,2017-2018,22,Manchester City,QF,1. Champions Lg,8,5,495,4,2,0,0,1,0,0.73,0.36
+109,Raheem Sterling,2018-2019,23,Manchester City,QF,1. Champions Lg,10,10,869,5,2,0,0,1,0,0.52,0.21
+110,Raheem Sterling,2019-2020,24,Manchester City,QF,1. Champions Lg,9,6,601,6,3,0,0,0,0,0.90,0.45
+111,Raheem Sterling,2020-2021,25,Manchester City,R16,1. Champions Lg,6,5,471,1,2,0,0,1,0,0.19,0.38
+112,Eden Hazard,2009-2010,18,Lille,R16,2. Europa Lg,9,7,658,2,2,0,0,1,0,0.27,0.27
+113,Eden Hazard,2010-2011,19,Lille,R32,2. Europa Lg,7,4,383,0,0,0,0,0,0,0.00,0.00
+114,Eden Hazard,2011-2012,20,Lille,GR,1. Champions Lg,6,6,540,0,1,0,0,1,0,0.00,0.17
+115,Eden Hazard,2012-2013,21,Chelsea,GR,1. Champions Lg,6,4,457,0,2,0,1,0,0,0.00,0.39
+116,Eden Hazard,2012-2013,21,Chelsea,W,2. Europa Lg,7,5,449,1,2,0,0,0,0,0.20,0.40
+117,Eden Hazard,2013-2014,22,Chelsea,SF,1. Champions Lg,9,8,681,2,0,1,1,0,0,0.26,0.00
+118,Eden Hazard,2014-2015,23,Chelsea,R16,1. Champions Lg,7,7,655,3,2,2,3,1,0,0.41,0.27
+119,Eden Hazard,2015-2016,24,Chelsea,R16,1. Champions Lg,8,6,526,0,1,0,1,0,0,0.00,0.17
+120,Eden Hazard,2017-2018,26,Chelsea,R16,1. Champions Lg,8,7,611,3,3,1,0,0,0,0.44,0.44
+121,Eden Hazard,2018-2019,27,Chelsea,W,2. Europa Lg,8,4,452,2,2,2,2,0,0,0.40,0.40
+122,Eden Hazard,2019-2020,28,Real Madrid,R16,1. Champions Lg,6,6,454,0,1,0,0,1,0,0.00,0.20
+123,Eden Hazard,2020-2021,29,Real Madrid,R16,1. Champions Lg,3,2,161,1,0,1,1,0,0,0.56,0.00
+124,Kevin De Bruyne,2011-2012,20,Genk,GR,1. Champions Lg,4,4,360,0,0,0,0,1,0,0.00,0.00
+125,Kevin De Bruyne,2013-2014,22,Chelsea,SF,1. Champions Lg,3,0,26,0,0,0,0,0,0,0.00,0.00
+126,Kevin De Bruyne,2014-2015,23,Wolfsburg,QF,2. Europa Lg,11,11,981,5,1,0,0,2,0,0.46,0.09
+127,Kevin De Bruyne,2015-2016,24,Manchester City,SF,1. Champions Lg,10,8,712,3,0,0,0,1,0,0.38,0.00
+128,Kevin De Bruyne,2016-2017,25,Manchester City,R16,1. Champions Lg,6,6,539,1,1,0,0,1,0,0.17,0.17
+129,Kevin De Bruyne,2017-2018,26,Manchester City,QF,1. Champions Lg,8,8,667,1,4,0,0,4,0,0.13,0.54
+130,Kevin De Bruyne,2018-2019,27,Manchester City,QF,1. Champions Lg,4,3,246,0,4,0,0,0,0,0.00,1.46
+131,Kevin De Bruyne,2019-2020,28,Manchester City,QF,1. Champions Lg,7,7,571,2,2,1,1,1,0,0.32,0.32
+132,Kevin De Bruyne,2020-2021,29,Manchester City,R16,1. Champions Lg,2,2,165,0,4,0,0,0,0,0.00,2.18
+133,Matthijs de Ligt,2016-2017,16,Ajax,F,2. Europa Lg,9,8,794,0,0,0,0,2,0,0.00,0.00
+134,Matthijs de Ligt,2018-2019,18,Ajax,SF,1. Champions Lg,11,11,990,2,0,0,0,2,0,0.18,0.00
+135,Matthijs de Ligt,2019-2020,19,Juventus,R16,1. Champions Lg,6,6,540,0,0,0,0,0,0,0.00,0.00
+136,Matthijs de Ligt,2020-2021,20,Juventus,R16,1. Champions Lg,3,3,270,0,0,0,0,0,0,0.00,0.00
+137,Sergio Agüero,2007-2008,19,Atlético Madrid,R32,2. UEFA Cup,7,5,397,5,,0,,0,1,1.13,
+138,Sergio Agüero,2008-2009,20,Atlético Madrid,R16,1. Champions Lg,8,6,484,3,1,0,0,1,0,0.56,0.19
+139,Sergio Agüero,2009-2010,21,Atlético Madrid,GR,1. Champions Lg,6,5,444,2,0,0,0,1,0,0.41,0.00
+140,Sergio Agüero,2009-2010,21,Atlético Madrid,W,2. Europa Lg,8,8,722,2,3,0,0,2,0,0.25,0.37
+141,Sergio Agüero,2010-2011,22,Atlético Madrid,GR,2. Europa Lg,4,3,266,3,1,0,0,1,0,1.02,0.34
+142,Sergio Agüero,2011-2012,23,Manchester City,GR,1. Champions Lg,6,3,323,1,0,0,0,1,0,0.28,0.00
+143,Sergio Agüero,2011-2012,23,Manchester City,R16,2. Europa Lg,4,3,272,4,1,0,0,0,0,1.32,0.33
+144,Sergio Agüero,2012-2013,24,Manchester City,GR,1. Champions Lg,5,4,391,2,0,1,1,0,0,0.46,0.00
+145,Sergio Agüero,2013-2014,25,Manchester City,R16,1. Champions Lg,6,6,431,6,2,2,2,1,0,1.25,0.42
+146,Sergio Agüero,2014-2015,26,Manchester City,R16,1. Champions Lg,7,6,550,6,1,2,3,2,0,0.98,0.16
+147,Sergio Agüero,2015-2016,27,Manchester City,SF,1. Champions Lg,9,8,705,2,0,1,1,0,0,0.26,0.00
+148,Sergio Agüero,2016-2017,28,Manchester City,R16,1. Champions Lg,7,6,541,5,3,1,1,1,0,0.83,0.50
+149,Sergio Agüero,2017-2018,29,Manchester City,QF,1. Champions Lg,7,5,440,4,1,1,2,0,0,0.82,0.20
+150,Sergio Agüero,2018-2019,30,Manchester City,QF,1. Champions Lg,7,6,507,6,1,1,2,3,0,1.07,0.18
+151,Sergio Agüero,2019-2020,31,Manchester City,QF,1. Champions Lg,3,2,196,2,0,1,1,0,0,0.92,0.00
+152,Sergio Agüero,2020-2021,32,Manchester City,R16,1. Champions Lg,3,1,105,2,0,1,1,0,0,1.71,0.00
+153,Roberto Firmino,2015-2016,23,Liverpool,F,2. Europa Lg,13,11,932,1,2,0,0,2,0,0.10,0.19
+154,Roberto Firmino,2017-2018,25,Liverpool,F,1. Champions Lg,13,13,"1,056",10,8,0,1,2,0,0.85,0.68
+155,Roberto Firmino,2018-2019,26,Liverpool,W,1. Champions Lg,11,8,700,4,1,0,0,0,0,0.51,0.13
+156,Roberto Firmino,2019-2020,27,Liverpool,R16,1. Champions Lg,8,7,627,1,3,0,0,0,0,0.14,0.43
+157,Roberto Firmino,2019-2020,27,Liverpool,1st,Super Cup,1,0,75,0,1,0,0,0,0,0.00,1.20
+158,Roberto Firmino,2020-2021,28,Liverpool,R16,1. Champions Lg,6,1,168,0,0,0,0,0,0,0.00,0.00
+159,Antoine Griezmann,2013-2014,22,Real Sociedad,GR,1. Champions Lg,6,6,491,0,0,0,0,0,0,0.00,0.00
+160,Antoine Griezmann,2014-2015,23,Atlético Madrid,QF,1. Champions Lg,9,5,537,2,0,0,0,1,0,0.34,0.00
+161,Antoine Griezmann,2015-2016,24,Atlético Madrid,F,1. Champions Lg,13,13,"1,135",7,1,1,1,1,0,0.56,0.08
+162,Antoine Griezmann,2016-2017,25,Atlético Madrid,SF,1. Champions Lg,12,12,"1,068",6,2,2,3,0,0,0.51,0.17
+163,Antoine Griezmann,2017-2018,26,Atlético Madrid,GR,1. Champions Lg,6,6,529,2,2,1,1,1,0,0.34,0.34
+164,Antoine Griezmann,2017-2018,26,Atlético Madrid,W,2. Europa Lg,8,7,631,6,3,0,0,0,0,0.86,0.43
+165,Antoine Griezmann,2018-2019,27,Atlético Madrid,R16,1. Champions Lg,8,8,720,4,3,0,0,2,0,0.50,0.37
+166,Antoine Griezmann,2018-2019,27,Atlético Madrid,1st,Super Cup,1,1,56,0,0,0,0,0,0,0.00,0.00
+167,Antoine Griezmann,2019-2020,28,Barcelona,QF,1. Champions Lg,9,7,653,2,0,0,0,2,0,0.28,0.00
+168,Antoine Griezmann,2020-2021,29,Barcelona,R16,1. Champions Lg,5,4,327,2,0,0,0,1,0,0.55,0.00
+169,Trent Alexander-Arnold,2017-2018,18,Liverpool,F,1. Champions Lg,10,9,820,1,1,0,0,2,0,0.11,0.11
+170,Trent Alexander-Arnold,2018-2019,19,Liverpool,W,1. Champions Lg,11,11,919,0,2,0,0,0,0,0.00,0.20
+171,Trent Alexander-Arnold,2019-2020,20,Liverpool,R16,1. Champions Lg,7,6,583,0,1,0,0,1,0,0.00,0.15
+172,Trent Alexander-Arnold,2019-2020,20,Liverpool,1st,Super Cup,1,0,30,0,0,0,0,1,0,0.00,0.00
+173,Trent Alexander-Arnold,2020-2021,21,Liverpool,R16,1. Champions Lg,4,4,351,0,2,0,0,1,0,0.00,0.51
+174,Pierre-Emerick Aubameyang,2009-2010,20,Lille,R16,2. Europa Lg,7,5,352,0,0,0,0,1,0,0.00,0.00
+175,Pierre-Emerick Aubameyang,2013-2014,24,Dortmund,QF,1. Champions Lg,9,3,387,1,0,0,0,1,0,0.23,0.00
+176,Pierre-Emerick Aubameyang,2014-2015,25,Dortmund,R16,1. Champions Lg,8,7,616,3,2,0,0,0,0,0.44,0.29
+177,Pierre-Emerick Aubameyang,2015-2016,26,Dortmund,QF,2. Europa Lg,10,9,772,8,0,0,0,0,0,0.93,0.00
+178,Pierre-Emerick Aubameyang,2016-2017,27,Dortmund,QF,1. Champions Lg,9,8,708,7,1,0,1,1,0,0.89,0.13
+179,Pierre-Emerick Aubameyang,2017-2018,28,Dortmund,GR,1. Champions Lg,6,6,540,4,0,0,0,0,0,0.67,0.00
+180,Pierre-Emerick Aubameyang,2018-2019,29,Arsenal,F,2. Europa Lg,12,10,933,8,2,0,0,1,0,0.77,0.19
+181,Pierre-Emerick Aubameyang,2019-2020,30,Arsenal,R32,2. Europa Lg,6,4,408,3,0,0,0,0,0,0.66,0.00
+182,Pierre-Emerick Aubameyang,2020-2021,31,Arsenal,R32,2. Europa Lg,1,0,30,1,0,0,0,0,0,3.00,0.00
+183,Dušan Tadić,2012-2013,23,Twente,GR,2. Europa Lg,6,5,468,1,1,0,0,2,0,0.19,0.19
+184,Dušan Tadić,2016-2017,27,Southampton,GR,2. Europa Lg,5,3,306,0,1,0,1,0,0,0.00,0.29
+185,Dušan Tadić,2018-2019,29,Ajax,SF,,12,12,"1,080",6,5,2,2,1,0,0.50,0.42
+186,Dušan Tadić,2019-2020,30,Ajax,GR,1. Champions Lg,6,6,540,0,3,0,0,2,0,0.00,0.50
+187,Dušan Tadić,2019-2020,30,Ajax,R32,1. Champions Lg,2,2,180,0,0,0,0,0,0,0.00,0.00
+188,Dušan Tadić,2020-2021,31,Ajax,GR,2. Europa Lg,6,6,540,2,3,1,1,0,0,0.33,0.50
+189,Son Heung-min,2013-2014,21,Leverkusen,R16,1. Champions Lg,8,7,509,0,2,0,0,1,0,0.00,0.35
+190,Son Heung-min,2014-2015,22,Leverkusen,R16,1. Champions Lg,8,7,605,3,1,0,0,0,0,0.45,0.15
+191,Son Heung-min,2015-2016,23,Tottenham,R16,2. Europa Lg,7,6,504,3,4,0,0,0,0,0.54,0.71
+192,Son Heung-min,2016-2017,24,Tottenham,GR,1. Champions Lg,6,6,425,1,0,0,0,0,0,0.21,0.00
+193,Son Heung-min,2016-2017,24,Tottenham,R32,2. Europa Lg,2,0,54,0,0,0,0,0,0,0.00,0.00
+194,Son Heung-min,2017-2018,25,Tottenham,R16,1. Champions Lg,7,5,426,4,0,0,0,0,0,0.85,0.00
+195,Son Heung-min,2018-2019,26,Tottenham,F,1. Champions Lg,12,11,900,4,1,0,0,3,0,0.40,0.10
+196,Son Heung-min,2019-2020,27,Tottenham,R16,1. Champions Lg,6,4,365,5,2,0,0,0,0,1.23,0.49
+197,Son Heung-min,2020-2021,28,Tottenham,R32,2. Europa Lg,5,1,218,2,1,0,0,0,0,0.83,0.41
+198,Hugo Lloris,2008-2009,21,Lyon,R16,1. Champions Lg,8,8,720,16,2.00,42,26,.619,3,3,2
+199,Hugo Lloris,2009-2010,22,Lyon,SF,1. Champions Lg,12,12,"1,080",10,0.83,52,42,.808,6,2,4
+200,Hugo Lloris,2010-2011,23,Lyon,R16,1. Champions Lg,8,8,720,14,1.75,44,30,.682,3,2,3
+201,Hugo Lloris,2011-2012,24,Lyon,R16,1. Champions Lg,8,8,750,8,0.96,40,32,.800,3,2,3
+202,Hugo Lloris,2012-2013,25,Tottenham,QF,2. Europa Lg,5,5,450,3,0.60,24,21,.875,2,3,0
+203,Hugo Lloris,2013-2014,26,Tottenham,R16,2. Europa Lg,5,5,450,4,0.80,13,9,.692,4,0,1
+204,Hugo Lloris,2014-2015,27,Tottenham,R32,2. Europa Lg,6,6,540,5,0.83,20,15,.750,2,3,1
+205,Hugo Lloris,2015-2016,28,Tottenham,R16,2. Europa Lg,9,9,810,11,1.22,44,33,.750,5,1,3
+206,Hugo Lloris,2016-2017,29,Tottenham,GR,1. Champions Lg,6,6,540,6,1.00,26,20,.769,2,1,3
+207,Hugo Lloris,2016-2017,29,Tottenham,R32,2. Europa Lg,2,2,180,3,1.50,4,1,.250,0,1,1
+208,Hugo Lloris,2017-2018,30,Tottenham,R16,1. Champions Lg,7,7,630,8,1.14,26,18,.769,4,2,1
+209,Hugo Lloris,2018-2019,31,Tottenham,F,1. Champions Lg,11,11,978,15,1.38,43,29,.674,5,2,4
+210,Hugo Lloris,2019-2020,32,Tottenham,R16,1. Champions Lg,4,4,360,13,3.25,24,12,.542,0,1,3
+211,Hugo Lloris,2020-2021,33,Tottenham,R32,2. Europa Lg,1,1,90,1,1.00,3,2,.667,0,0,1
+212,Kalidou Koulibaly,2012-2013,21,Genk,R32,2. Europa Lg,7,7,630,0,0,0,0,3,0,0.00,0.00
+213,Kalidou Koulibaly,2013-2014,22,Genk,R32,2. Europa Lg,7,7,609,0,0,0,0,2,0,0.00,0.00
+214,Kalidou Koulibaly,2014-2015,23,Napoli,SF,2. Europa Lg,7,7,548,0,0,0,0,0,0,0.00,0.00
+215,Kalidou Koulibaly,2015-2016,24,Napoli,R32,2. Europa Lg,7,7,608,0,0,0,0,1,0,0.00,0.00
+216,Kalidou Koulibaly,2016-2017,25,Napoli,R16,1. Champions Lg,8,8,720,0,0,0,0,2,0,0.00,0.00
+217,Kalidou Koulibaly,2017-2018,26,Napoli,GR,1. Champions Lg,5,5,450,0,0,0,0,3,0,0.00,0.00
+218,Kalidou Koulibaly,2017-2018,26,Napoli,R32,2. Europa Lg,1,1,90,0,0,0,0,1,0,0.00,0.00
+219,Kalidou Koulibaly,2018-2019,27,Napoli,GR,1. Champions Lg,6,6,540,0,0,0,0,2,0,0.00,0.00
+220,Kalidou Koulibaly,2018-2019,27,Napoli,QF,2. Europa Lg,5,5,450,0,0,0,0,1,0,0.00,0.00
+221,Kalidou Koulibaly,2019-2020,28,Napoli,R16,1. Champions Lg,7,7,630,0,0,0,0,2,0,0.00,0.00
+222,Kalidou Koulibaly,2020-2021,29,Napoli,R32,2. Europa Lg,6,6,540,0,0,0,0,2,0,0.00,0.00
+223,Marc-André ter Stegen,2012-2013,20,M'Gladbach,R32,2. Europa Lg,7,7,630,11,1.57,41,30,.732,2,3,2
+224,Marc-André ter Stegen,2014-2015,22,Barcelona,W,1. Champions Lg,13,13,"1,170",11,0.85,41,30,.732,11,0,2
+225,Marc-André ter Stegen,2015-2016,23,Barcelona,QF,1. Champions Lg,10,10,900,8,0.80,46,38,.826,7,2,1
+226,Marc-André ter Stegen,2015-2016,23,Barcelona,1st,Super Cup,1,1,120,,,,0,,1,0,0
+227,Marc-André ter Stegen,2016-2017,24,Barcelona,QF,1. Champions Lg,9,9,810,12,1.33,41,29,.707,5,1,3
+228,Marc-André ter Stegen,2017-2018,25,Barcelona,QF,1. Champions Lg,9,9,810,6,0.67,22,16,.773,5,3,1
+229,Marc-André ter Stegen,2018-2019,26,Barcelona,SF,1. Champions Lg,11,11,990,9,0.82,37,28,.757,8,2,1
+230,Marc-André ter Stegen,2019-2020,27,Barcelona,QF,1. Champions Lg,8,8,720,13,1.62,36,23,.667,4,3,1
+231,Marc-André ter Stegen,2020-2021,28,Barcelona,R16,1. Champions Lg,3,3,270,4,1.33,12,10,.833,2,0,1
+232,Karim Benzema,2005-2006,17,Lyon,QF,1. Champions Lg,1,1,89,1,0,0,0,0,0,1.01,0.00
+233,Karim Benzema,2006-2007,18,Lyon,R16,1. Champions Lg,3,1,101,2,0,0,0,0,0,1.78,0.00
+234,Karim Benzema,2007-2008,19,Lyon,R16,1. Champions Lg,7,7,592,4,0,0,0,0,0,0.61,0.00
+235,Karim Benzema,2008-2009,20,Lyon,R16,1. Champions Lg,8,8,702,5,2,0,0,1,0,0.64,0.26
+236,Karim Benzema,2009-2010,21,Real Madrid,R16,1. Champions Lg,5,3,315,1,1,0,0,0,0,0.29,0.29
+237,Karim Benzema,2010-2011,22,Real Madrid,SF,1. Champions Lg,8,4,371,6,1,0,0,0,0,1.46,0.24
+238,Karim Benzema,2011-2012,23,Real Madrid,SF,1. Champions Lg,11,10,760,7,5,0,0,0,0,0.83,0.59
+239,Karim Benzema,2012-2013,24,Real Madrid,SF,1. Champions Lg,10,6,532,5,4,0,0,0,0,0.85,0.68
+240,Karim Benzema,2013-2014,25,Real Madrid,W,1. Champions Lg,11,11,912,5,5,0,0,1,0,0.49,0.49
+241,Karim Benzema,2014-2015,26,Real Madrid,SF,1. Champions Lg,9,8,664,6,2,0,0,0,0,0.81,0.27
+242,Karim Benzema,2014-2015,26,Real Madrid,1st,Super Cup,1,1,90,0,1,0,0,0,0,0.00,1.00
+243,Karim Benzema,2015-2016,27,Real Madrid,W,1. Champions Lg,9,8,604,4,0,0,0,0,0,0.60,0.00
+244,Karim Benzema,2016-2017,28,Real Madrid,W,1. Champions Lg,13,12,954,5,2,0,0,0,0,0.47,0.19
+245,Karim Benzema,2016-2017,28,Real Madrid,1st,Super Cup,1,0,59,0,0,0,0,0,0,0.00,0.00
+246,Karim Benzema,2017-2018,29,Real Madrid,W,1. Champions Lg,9,8,600,5,0,0,0,0,0,0.75,0.00
+247,Karim Benzema,2017-2018,29,Real Madrid,1st,Super Cup,1,1,82,0,0,0,0,0,0,0.00,0.00
+248,Karim Benzema,2018-2019,30,Real Madrid,R16,1. Champions Lg,8,8,582,4,2,0,0,0,0,0.62,0.31
+249,Karim Benzema,2018-2019,30,Real Madrid,2nd,Super Cup,1,1,120,1,0,0,0,0,0,0.75,0.00
+250,Karim Benzema,2019-2020,31,Real Madrid,R16,1. Champions Lg,8,7,644,5,2,0,0,0,0,0.70,0.28
+251,Karim Benzema,2020-2021,32,Real Madrid,R16,1. Champions Lg,5,4,391,4,0,0,0,0,0,0.92,0.00
+252,Georginio Wijnaldum,2008-2009,17,Feyenoord,GR,2. UEFA Cup,6,6,486,1,,0,,0,0,0.19,
+253,Georginio Wijnaldum,2011-2012,20,PSV Eindhoven,R16,2. Europa Lg,10,8,747,3,0,1,1,0,0,0.36,0.00
+254,Georginio Wijnaldum,2012-2013,21,PSV Eindhoven,GR,2. Europa Lg,4,4,360,1,0,0,0,2,0,0.25,0.00
+255,Georginio Wijnaldum,2014-2015,23,PSV Eindhoven,R32,2. Europa Lg,7,6,549,2,1,0,0,1,0,0.33,0.16
+256,Georginio Wijnaldum,2017-2018,26,Liverpool,F,,12,9,850,1,2,0,0,0,0,0.11,0.21
+257,Georginio Wijnaldum,2018-2019,27,Liverpool,W,1. Champions Lg,12,11,968,2,0,0,0,1,0,0.19,0.00
+258,Georginio Wijnaldum,2019-2020,28,Liverpool,R16,1. Champions Lg,8,5,552,2,0,0,0,0,0,0.33,0.00
+259,Georginio Wijnaldum,2019-2020,28,Liverpool,1st,1. Champions Lg,1,0,57,0,0,0,0,0,0,0.00,0.00
+260,Georginio Wijnaldum,2020-2021,29,Liverpool,R16,Super Cup,5,4,366,0,0,0,0,2,0,0.00,0.00
+261,João Félix,2018-2019,18,Benfica,GR,1. Champions Lg,1,1,76,0,0,0,0,0,0,0.00,0.00
+262,João Félix,2018-2019,18,Benfica,QF,2. Europa Lg,6,5,493,3,1,1,1,2,0,0.55,0.18
+263,João Félix,2019-2020,19,Atlético Madrid,QF,1. Champions Lg,6,4,425,3,1,2,2,0,0,0.64,0.21
+264,João Félix,2020-2021,20,Atlético Madrid,R16,1. Champions Lg,6,6,534,3,0,0,0,0,0,0.51,0.00
+265,Marquinhos,2013-2014,19,Paris S-G,QF,1. Champions Lg,8,6,529,3,1,0,0,0,0,0.51,0.17
+266,Marquinhos,2014-2015,20,Paris S-G,QF,1. Champions Lg,7,7,660,0,0,0,0,1,0,0.00,0.00
+267,Marquinhos,2015-2016,21,Paris S-G,QF,1. Champions Lg,6,6,540,0,0,0,0,0,0,0.00,0.00
+268,Marquinhos,2016-2017,22,Paris S-G,R16,1. Champions Lg,8,8,720,0,0,0,0,2,0,0.00,0.00
+269,Marquinhos,2017-2018,23,Paris S-G,R16,1. Champions Lg,8,8,720,0,1,0,0,1,0,0.00,0.12
+270,Marquinhos,2018-2019,24,Paris S-G,R16,1. Champions Lg,7,7,630,1,0,0,0,2,0,0.14,0.00
+271,Marquinhos,2019-2020,25,Paris S-G,F,1. Champions Lg,11,11,969,2,0,0,0,1,0,0.19,0.00
+272,Marquinhos,2020-2021,26,Paris S-G,R16,1. Champions Lg,5,5,426,1,0,0,0,0,0,0.21,0.00
+273,Donny van de Beek,2015-2016,18,Ajax,GR,2. Europa Lg,2,1,82,1,0,0,0,0,0,1.10,0.00
+274,Donny van de Beek,2016-2017,19,Ajax,F,2. Europa Lg,10,5,546,0,1,0,0,0,0,0.00,0.16
+275,Donny van de Beek,2018-2019,21,Ajax,SF,1. Champions Lg,12,11,981,3,2,0,0,2,0,0.28,0.18
+276,Donny van de Beek,2019-2020,22,Ajax,GR,1. Champions Lg,5,5,447,2,1,0,0,1,0,0.40,0.20
+277,Donny van de Beek,2019-2020,22,Ajax,R32,2. Europa Lg,2,2,180,0,1,0,0,0,0,0.00,0.50
+278,Donny van de Beek,2020-2021,23,Manchester Utd,GR,1. Champions Lg,6,3,277,0,0,0,0,0,0,0.00,0.00
+279,Luka Modrić,2006-2007,20,Dinamo Zagreb,Rd1,2. UEFA Cup,2,2,180,0,,0,,1,0,0.00,
+280,Luka Modrić,2007-2008,21,Dinamo Zagreb,GR,2. UEFA Cup,6,6,570,1,,1,,1,0,0.16,
+281,Luka Modrić,2008-2009,22,Tottenham,R32,2. UEFA Cup,4,3,286,1,,0,,1,0,0.31,
+282,Luka Modrić,2010-2011,24,Tottenham,QF,1. Champions Lg,8,7,563,1,1,0,0,1,0,0.16,0.16
+283,Luka Modrić,2011-2012,25,Tottenham,GR,2. Europa Lg,2,1,107,1,0,1,1,0,0,0.84,0.00
+284,Luka Modrić,2012-2013,26,Real Madrid,SF,1. Champions Lg,11,6,595,1,1,0,0,1,0,0.15,0.15
+285,Luka Modrić,2013-2014,27,Real Madrid,W,1. Champions Lg,11,11,971,1,3,0,0,3,0,0.09,0.28
+286,Luka Modrić,2014-2015,28,Real Madrid,SF,1. Champions Lg,6,5,448,0,1,0,0,0,0,0.00,0.20
+287,Luka Modrić,2014-2015,28,Real Madrid,1st,Super Cup,1,1,85,0,0,0,0,0,0,0.00,0.00
+288,Luka Modrić,2015-2016,29,Real Madrid,W,1. Champions Lg,12,10,904,1,0,0,0,0,0,0.10,0.00
+289,Luka Modrić,2016-2017,30,Real Madrid,W,1. Champions Lg,11,11,983,0,1,0,0,2,0,0.00,0.09
+290,Luka Modrić,2016-2017,30,Real Madrid,1st,Super Cup,1,0,55,0,0,0,0,0,0,0.00,0.00
+291,Luka Modrić,2017-2018,31,Real Madrid,W,1. Champions Lg,11,11,958,1,1,0,0,2,0,0.09,0.09
+292,Luka Modrić,2017-2018,31,Real Madrid,1st,Super Cup,1,1,90,0,0,0,0,0,0,0.00,0.00
+293,Luka Modrić,2018-2019,32,Real Madrid,R16,1. Champions Lg,6,5,466,0,1,0,0,1,0,0.00,0.19
+294,Luka Modrić,2018-2019,32,Real Madrid,2nd,Super Cup,1,0,64,0,0,0,0,1,0,0.00,0.00
+295,Luka Modrić,2019-2020,33,Real Madrid,R16,1. Champions Lg,6,4,391,1,0,0,0,3,0,0.23,0.00
+296,Luka Modrić,2020-2021,34,Real Madrid,R16,1. Champions Lg,6,4,372,1,0,0,0,0,0,0.24,0.00
+297,Raphaël Varane,2011-2012,18,Real Madrid,SF,1. Champions Lg,4,4,360,0,1,0,0,0,0,0.00,0.25
+298,Raphaël Varane,2012-2013,19,Real Madrid,SF,1. Champions Lg,11,10,915,0,0,0,0,0,0,0.00,0.00
+299,Raphaël Varane,2013-2014,20,Real Madrid,W,1. Champions Lg,7,4,422,0,0,0,0,2,0,0.00,0.00
+300,Raphaël Varane,2014-2015,21,Real Madrid,SF,1. Champions Lg,12,11,"1,014",0,0,0,0,0,0,0.00,0.00
+301,Raphaël Varane,2015-2016,22,Real Madrid,W,1. Champions Lg,7,6,438,0,0,0,0,1,0,0.00,0.00
+302,Raphaël Varane,2016-2017,23,Real Madrid,W,1. Champions Lg,10,10,900,2,0,0,0,0,0,0.20,0.00
+303,Raphaël Varane,2016-2017,23,Real Madrid,1st,Super Cup,1,1,120,0,0,0,0,0,0,0.00,0.00
+304,Raphaël Varane,2017-2018,24,Real Madrid,W,1. Champions Lg,11,11,938,0,1,0,0,1,0,0.00,0.10
+305,Raphaël Varane,2017-2018,24,Real Madrid,1st,Super Cup,1,1,90,0,0,0,0,0,0,0.00,0.00
+306,Raphaël Varane,2018-2019,25,Real Madrid,R16,1. Champions Lg,4,4,360,0,0,0,0,1,0,0.00,0.00
+307,Raphaël Varane,2018-2019,25,Real Madrid,2nd,Super Cup,1,1,120,0,0,0,0,0,0,0.00,0.00
+308,Raphaël Varane,2019-2020,26,Real Madrid,R16,1. Champions Lg,8,8,720,0,0,0,0,1,0,0.00,0.00
+309,Raphaël Varane,2020-2021,27,Real Madrid,R16,1. Champions Lg,6,6,540,0,0,0,0,1,0,0.00,0.00
+310,Harry Kane,2011-2012,18,Tottenham,GR,2. Europa Lg,5,2,201,1,0,0,0,1,0,0.45,0.00
+311,Harry Kane,2013-2014,20,Tottenham,R16,2. Europa Lg,5,1,122,0,2,0,0,0,0,0.00,1.48
+312,Harry Kane,2014-2015,21,Tottenham,R32,2. Europa Lg,7,4,421,5,0,0,0,0,0,1.07,0.00
+313,Harry Kane,2015-2016,22,Tottenham,R16,2. Europa Lg,7,3,358,2,1,0,0,1,0,0.50,0.25
+314,Harry Kane,2016-2017,23,Tottenham,GR,1. Champions Lg,3,3,263,2,0,1,1,1,0,0.68,0.00
+315,Harry Kane,2016-2017,23,Tottenham,R32,2. Europa Lg,2,2,180,0,0,0,0,0,0,0.00,0.00
+316,Harry Kane,2017-2018,24,Tottenham,R16,1. Champions Lg,7,7,597,7,2,0,0,0,0,1.06,0.30
+317,Harry Kane,2018-2019,25,Tottenham,F,1. Champions Lg,9,9,776,5,1,0,0,1,0,0.58,0.12
+318,Harry Kane,2019-2020,26,Tottenham,R16,1. Champions Lg,5,5,450,6,0,2,2,1,0,1.20,0.00
+319,Harry Kane,2020-2021,27,Tottenham,R32,2. Europa Lg,3,1,110,1,2,0,0,0,0,0.82,1.64
+320,N'Golo Kanté,2017-2018,26,Chelsea,R16,1. Champions Lg,6,6,498,0,0,0,0,0,0,0.00,0.00
+321,N'Golo Kanté,2018-2019,27,Chelsea,W,2. Europa Lg,10,6,581,0,0,0,0,1,0,0.00,0.00
+322,N'Golo Kanté,2019-2020,28,Chelsea,R16,1. Champions Lg,4,4,360,0,0,0,0,1,0,0.00,0.00
+323,N'Golo Kanté,2019-2020,28,Chelsea,2nd,Super Cup,1,1,120,0,0,0,0,0,0,0.00,0.00
+324,N'Golo Kanté,2020-2021,29,Chelsea,R16,1. Champions Lg,6,2,236,0,1,0,0,1,0,0.00,0.38
+325,Neymar,2013-2014,21,Barcelona,QF,1. Champions Lg,10,9,776,4,3,0,0,1,0,0.46,0.35
+326,Neymar,2014-2015,22,Barcelona,W,1. Champions Lg,12,12,"1,027",10,1,0,0,1,0,0.88,0.09
+327,Neymar,2015-2016,23,Barcelona,QF,1. Champions Lg,9,9,810,3,5,1,1,2,0,0.33,0.56
+328,Neymar,2016-2017,24,Barcelona,QF,1. Champions Lg,9,9,797,4,8,1,2,5,0,0.45,0.90
+329,Neymar,2017-2018,25,Paris S-G,R16,1. Champions Lg,7,7,630,6,4,0,0,2,0,0.86,0.57
+330,Neymar,2018-2019,26,Paris S-G,R16,1. Champions Lg,6,6,531,5,2,0,0,2,0,0.85,0.34
+331,Neymar,2019-2020,27,Paris S-G,F,1. Champions Lg,7,6,585,3,4,0,0,3,0,0.46,0.62
+332,Neymar,2020-2021,28,Paris S-G,R16,1. Champions Lg,5,5,384,6,0,1,1,2,0,1.41,0.00
+333,Luis Suárez,2006-2007,19,Groningen,Rd1,2. UEFA Cup,2,1,79,1,,0,,0,0,1.14,
+334,Luis Suárez,2007-2008,20,Ajax,Rd1,2. UEFA Cup,2,1,133,0,,0,,1,0,0.00,
+335,Luis Suárez,2008-2009,21,Ajax,R16,2. UEFA Cup,10,10,893,5,,2,,3,0,0.50,
+336,Luis Suárez,2009-2010,22,Ajax,R32,2. Europa Lg,7,6,550,2,4,1,2,3,0,0.33,0.65
+337,Luis Suárez,2010-2011,23,Ajax,GR,1. Champions Lg,5,5,450,1,3,0,0,3,0,0.20,0.60
+338,Luis Suárez,2012-2013,25,Liverpool,R32,2. Europa Lg,6,4,414,3,0,0,0,1,0,0.65,0.00
+339,Luis Suárez,2014-2015,27,Barcelona,W,,10,10,828,7,3,0,0,1,0,0.76,0.33
+340,Luis Suárez,2015-2016,28,Barcelona,QF,1. Champions Lg,9,9,810,8,3,0,0,2,0,0.89,0.33
+341,Luis Suárez,2015-2016,28,Barcelona,1st,1. Champions Lg,1,1,120,1,1,0,0,0,0,0.75,0.75
+342,Luis Suárez,2016-2017,29,Barcelona,QF,Super Cup,9,9,810,3,3,0,0,2,0,0.33,0.33
+343,Luis Suárez,2017-2018,30,Barcelona,QF,1. Champions Lg,10,10,884,1,5,0,0,2,0,0.10,0.51
+344,Luis Suárez,2018-2019,31,Barcelona,SF,1. Champions Lg,10,10,899,1,4,0,0,3,0,0.10,0.40
+345,Luis Suárez,2019-2020,32,Barcelona,QF,1. Champions Lg,7,6,567,5,2,1,1,2,0,0.79,0.32
+346,Luis Suárez,2020-2021,33,Atlético Madrid,R16,1. Champions Lg,4,4,309,0,0,0,0,1,0,0.00,0.00
+347,Thibaut Courtois,2011-2012,19,Atlético Madrid,W,2. Europa Lg,14,14,"1,260",10,0.71,61,51,.836,12,1,1
+348,Thibaut Courtois,2013-2014,21,Atlético Madrid,F,1. Champions Lg,12,12,"1,110",10,0.81,47,37,.787,8,3,1
+349,Thibaut Courtois,2014-2015,22,Chelsea,R16,1. Champions Lg,5,5,480,4,0.75,24,20,.833,2,3,0
+350,Thibaut Courtois,2015-2016,23,Chelsea,R16,1. Champions Lg,3,3,270,4,1.33,17,13,.765,1,0,2
+351,Thibaut Courtois,2017-2018,25,Chelsea,R16,,8,8,720,12,1.50,33,21,.667,3,3,2
+352,Thibaut Courtois,2018-2019,26,Real Madrid,R16,1. Champions Lg,5,5,450,8,1.60,29,21,.724,3,0,2
+353,Thibaut Courtois,2019-2020,27,Real Madrid,R16,1. Champions Lg,7,7,585,11,1.69,31,21,.677,2,2,3
+354,Thibaut Courtois,2020-2021,28,Real Madrid,R16,1. Champions Lg,6,6,540,9,1.50,19,11,.526,3,1,2
+355,Paul Pogba,2011-2012,18,Manchester Utd,R16,2. Europa Lg,1,0,27,0,1,0,0,1,0,0.00,3.33
+356,Paul Pogba,2012-2013,19,Juventus,QF,1. Champions Lg,8,3,337,0,0,0,0,1,0,0.00,0.00
+357,Paul Pogba,2013-2014,20,Juventus,GR,1. Champions Lg,6,6,540,0,2,0,0,0,0,0.00,0.33
+358,Paul Pogba,2013-2014,20,Juventus,SF,2. Europa Lg,8,6,517,1,0,0,1,1,0,0.17,0.00
+359,Paul Pogba,2014-2015,21,Juventus,F,1. Champions Lg,10,10,833,1,3,0,0,3,0,0.11,0.32
+360,Paul Pogba,2015-2016,22,Juventus,R16,1. Champions Lg,8,8,750,1,2,0,0,0,0,0.12,0.24
+361,Paul Pogba,2016-2017,23,Manchester Utd,W,2. Europa Lg,15,15,"1,263",3,1,1,1,2,0,0.21,0.07
+362,Paul Pogba,2017-2018,24,Manchester Utd,R16,1. Champions Lg,5,3,278,0,1,0,0,0,0,0.00,0.32
+363,Paul Pogba,2017-2018,24,Manchester Utd,2nd,Super Cup,1,1,90,0,0,0,0,0,0,0.00,0.00
+364,Paul Pogba,2018-2019,25,Manchester Utd,QF,1. Champions Lg,9,8,728,2,1,1,1,1,1,0.25,0.12
+365,Paul Pogba,2019-2020,26,Manchester Utd,SF,2. Europa Lg,3,2,238,0,0,0,0,0,0,0.00,0.00
+366,Paul Pogba,2020-2021,27,Manchester Utd,GR,1. Champions Lg,5,1,181,0,2,0,0,0,0,0.00,0.99
+367,Gareth Bale,2007-2008,18,Tottenham,R16,2. UEFA Cup,3,1,122,0,,0,,0,0,0.00,
+368,Gareth Bale,2008-2009,19,Tottenham,R32,2. UEFA Cup,7,7,630,0,,0,,2,0,0.00,
+369,Gareth Bale,2010-2011,21,Tottenham,QF,1. Champions Lg,9,8,735,4,2,0,1,0,0,0.49,0.24
+370,Gareth Bale,2011-2012,22,Tottenham,GR,2. Europa Lg,1,0,27,0,0,0,0,0,0,0.00,0.00
+371,Gareth Bale,2012-2013,23,Tottenham,QF,2. Europa Lg,8,8,716,3,4,0,0,3,0,0.38,0.50
+372,Gareth Bale,2013-2014,24,Real Madrid,W,1. Champions Lg,12,8,872,6,4,0,0,0,0,0.62,0.41
+373,Gareth Bale,2014-2015,25,Real Madrid,SF,1. Champions Lg,10,9,827,2,1,0,0,0,0,0.22,0.11
+374,Gareth Bale,2014-2015,25,Real Madrid,1st,Super Cup,1,1,90,0,1,0,0,0,0,0.00,1.00
+375,Gareth Bale,2015-2016,26,Real Madrid,W,1. Champions Lg,8,8,643,0,3,0,0,1,0,0.00,0.42
+376,Gareth Bale,2016-2017,27,Real Madrid,W,1. Champions Lg,8,7,509,2,2,0,0,0,0,0.35,0.35
+377,Gareth Bale,2017-2018,28,Real Madrid,W,1. Champions Lg,7,3,297,3,2,0,0,1,0,0.91,0.61
+378,Gareth Bale,2017-2018,28,Real Madrid,1st,Super Cup,1,1,73,0,1,0,0,0,0,0.00,1.23
+379,Gareth Bale,2018-2019,29,Real Madrid,R16,1. Champions Lg,7,5,486,3,2,0,0,0,0,0.56,0.37
+380,Gareth Bale,2018-2019,29,Real Madrid,2nd,Super Cup,1,1,120,0,1,0,0,0,0,0.00,0.75
+381,Gareth Bale,2019-2020,30,Real Madrid,R16,1. Champions Lg,3,1,116,0,0,0,0,0,0,0.00,0.00
+382,Gareth Bale,2020-2021,31,Tottenham,R32,2. Europa Lg,6,6,387,1,1,1,1,0,0,0.23,0.23
+383,Ivan Rakitić,2005-2006,17,Basel,QF,2. UEFA Cup,1,0,14,0,,0,,0,0,0.00,
+384,Ivan Rakitić,2006-2007,18,Basel,GR,2. UEFA Cup,5,1,168,0,,0,,0,0,0.00,
+385,Ivan Rakitić,2007-2008,19,Schalke 04,QF,1. Champions Lg,7,5,433,0,1,0,0,1,0,0.00,0.21
+386,Ivan Rakitić,2008-2009,20,Schalke 04,GR,2. UEFA Cup,5,4,325,1,,0,,0,0,0.28,
+387,Ivan Rakitić,2010-2011,22,Schalke 04,SF,1. Champions Lg,5,4,357,0,2,0,0,2,0,0.00,0.50
+388,Ivan Rakitić,2010-2011,22,Sevilla,R32,2. Europa Lg,2,2,168,0,1,0,0,0,0,0.00,0.54
+389,Ivan Rakitić,2013-2014,25,Sevilla,W,,14,12,"1,181",1,2,1,1,0,0,0.08,0.15
+390,Ivan Rakitić,2014-2015,26,Barcelona,W,2. Europa Lg,12,11,886,2,1,0,0,2,0,0.20,0.10
+391,Ivan Rakitić,2015-2016,27,Barcelona,QF,1. Champions Lg,10,9,699,2,2,0,0,1,0,0.26,0.26
+392,Ivan Rakitić,2015-2016,27,Barcelona,1st,1. Champions Lg,1,1,120,0,0,0,0,0,0,0.00,0.00
+393,Ivan Rakitić,2016-2017,28,Barcelona,QF,Super Cup,9,8,595,0,0,0,0,4,0,0.00,0.00
+394,Ivan Rakitić,2017-2018,29,Barcelona,QF,1. Champions Lg,10,8,758,1,0,0,0,1,0,0.12,0.00
+395,Ivan Rakitić,2018-2019,30,Barcelona,SF,1. Champions Lg,12,12,"1,018",1,2,0,0,2,0,0.09,0.18
+396,Ivan Rakitić,2019-2020,31,Barcelona,QF,1. Champions Lg,7,4,345,0,1,0,0,1,0,0.00,0.26
+397,Ivan Rakitić,2020-2021,32,Sevilla,R16,1. Champions Lg,6,5,408,2,0,0,0,0,0,0.44,0.00
+398,Ivan Rakitić,2020-2021,32,Sevilla,2nd,1. Champions Lg,1,1,55,0,0,0,0,0,0,0.00,0.00
+399,Sergio Ramos,2004-2005,18,Sevilla,R16,2. UEFA Cup,6,6,463,1,,0,,3,0,0.19,
+400,Sergio Ramos,2005-2006,19,Real Madrid,R16,1. Champions Lg,7,7,630,1,0,0,0,1,1,0.14,0.00
+401,Sergio Ramos,2006-2007,20,Real Madrid,R16,1. Champions Lg,6,6,540,1,0,0,0,3,0,0.17,0.00
+402,Sergio Ramos,2007-2008,21,Real Madrid,R16,1. Champions Lg,7,7,630,0,1,0,0,3,0,0.00,0.14
+403,Sergio Ramos,2008-2009,22,Real Madrid,R16,1. Champions Lg,8,8,720,1,0,0,0,0,0,0.12,0.00
+404,Sergio Ramos,2009-2010,23,Real Madrid,R16,1. Champions Lg,7,7,612,0,0,0,0,1,0,0.00,0.00
+405,Sergio Ramos,2010-2011,24,Real Madrid,SF,1. Champions Lg,8,8,686,0,0,0,0,4,1,0.00,0.00
+406,Sergio Ramos,2011-2012,25,Real Madrid,SF,1. Champions Lg,11,11,976,1,1,0,0,2,0,0.09,0.09
+407,Sergio Ramos,2012-2013,26,Real Madrid,SF,1. Champions Lg,9,9,810,1,0,0,0,5,0,0.11,0.00
+408,Sergio Ramos,2013-2014,27,Real Madrid,W,1. Champions Lg,11,11,922,3,2,0,0,3,1,0.29,0.20
+409,Sergio Ramos,2014-2015,28,Real Madrid,SF,1. Champions Lg,8,8,696,0,0,0,0,4,0,0.00,0.00
+410,Sergio Ramos,2014-2015,28,Real Madrid,1st,Super Cup,1,1,90,0,0,0,0,0,0,0.00,0.00
+411,Sergio Ramos,2015-2016,29,Real Madrid,W,1. Champions Lg,10,10,899,1,0,0,0,3,0,0.10,0.00
+412,Sergio Ramos,2016-2017,30,Real Madrid,W,1. Champions Lg,11,11,"1,001",1,3,0,0,4,0,0.09,0.27
+413,Sergio Ramos,2016-2017,30,Real Madrid,1st,Super Cup,1,1,120,1,0,0,0,0,0,0.75,0.00
+414,Sergio Ramos,2017-2018,31,Real Madrid,W,1. Champions Lg,11,11,990,1,0,0,0,3,0,0.09,0.00
+415,Sergio Ramos,2017-2018,31,Real Madrid,1st,Super Cup,1,1,90,0,0,0,0,1,0,0.00,0.00
+416,Sergio Ramos,2018-2019,32,Real Madrid,R16,1. Champions Lg,5,5,418,0,0,0,0,3,0,0.00,0.00
+417,Sergio Ramos,2018-2019,32,Real Madrid,2nd,Super Cup,1,1,120,1,0,1,1,1,0,0.75,0.00
+418,Sergio Ramos,2019-2020,33,Real Madrid,R16,1. Champions Lg,5,5,445,2,0,1,1,0,1,0.40,0.00
+419,Sergio Ramos,2020-2021,34,Real Madrid,R16,1. Champions Lg,3,3,270,1,1,0,0,0,0,0.33,0.33
+420,Edinson Cavani,2007-2008,20,Palermo,Rd1,2. UEFA Cup,2,2,210,0,,0,,0,0,0.00,
+421,Edinson Cavani,2010-2011,23,Napoli,R32,2. Europa Lg,8,7,667,5,1,1,1,2,0,0.67,0.13
+422,Edinson Cavani,2011-2012,24,Napoli,R16,1. Champions Lg,8,8,701,5,2,1,1,2,0,0.64,0.26
+423,Edinson Cavani,2012-2013,25,Napoli,R32,2. Europa Lg,7,4,462,7,0,2,2,3,0,1.36,0.00
+424,Edinson Cavani,2013-2014,26,Paris S-G,QF,1. Champions Lg,8,8,685,4,0,0,0,3,0,0.53,0.00
+425,Edinson Cavani,2014-2015,27,Paris S-G,QF,1. Champions Lg,10,10,920,6,0,0,0,1,0,0.59,0.00
+426,Edinson Cavani,2015-2016,28,Paris S-G,QF,1. Champions Lg,10,7,643,2,1,0,0,0,0,0.28,0.14
+427,Edinson Cavani,2016-2017,29,Paris S-G,R16,1. Champions Lg,8,8,720,8,1,1,1,1,0,1.00,0.12
+428,Edinson Cavani,2017-2018,30,Paris S-G,R16,1. Champions Lg,8,8,680,7,1,1,1,1,0,0.93,0.13
+429,Edinson Cavani,2018-2019,31,Paris S-G,R16,1. Champions Lg,7,5,413,2,2,0,0,0,0,0.44,0.44
+430,Edinson Cavani,2019-2020,32,Paris S-G,F,1. Champions Lg,3,1,132,1,0,1,1,0,0,0.68,0.00
+431,Edinson Cavani,2020-2021,33,Manchester Utd,GR,1. Champions Lg,4,2,208,0,0,0,0,0,0,0.00,0.00
+432,Marcelo,2007-2008,19,Real Madrid,R16,1. Champions Lg,6,6,540,0,0,0,0,0,0,0.00,0.00
+433,Marcelo,2008-2009,20,Real Madrid,R16,1. Champions Lg,5,4,360,0,0,0,0,1,0,0.00,0.00
+434,Marcelo,2009-2010,21,Real Madrid,R16,1. Champions Lg,6,6,495,0,0,0,0,3,0,0.00,0.00
+435,Marcelo,2010-2011,22,Real Madrid,SF,1. Champions Lg,12,11,991,2,3,0,0,1,0,0.18,0.27
+436,Marcelo,2011-2012,23,Real Madrid,SF,1. Champions Lg,7,5,466,0,3,0,0,1,1,0.00,0.58
+437,Marcelo,2012-2013,24,Real Madrid,SF,1. Champions Lg,2,2,180,1,1,0,0,0,0,0.50,0.50
+438,Marcelo,2013-2014,25,Real Madrid,W,1. Champions Lg,7,6,585,1,1,0,0,2,0,0.15,0.15
+439,Marcelo,2014-2015,26,Real Madrid,SF,1. Champions Lg,11,8,778,1,2,0,0,4,0,0.12,0.23
+440,Marcelo,2014-2015,26,Real Madrid,1st,Super Cup,1,0,7,0,0,0,0,0,0,0.00,0.00
+441,Marcelo,2015-2016,27,Real Madrid,W,1. Champions Lg,11,10,910,0,2,0,0,0,0,0.00,0.20
+442,Marcelo,2016-2017,28,Real Madrid,W,1. Champions Lg,11,11,"1,001",0,3,0,0,1,0,0.00,0.27
+443,Marcelo,2016-2017,28,Real Madrid,1st,Super Cup,1,1,120,0,0,0,0,0,0,0.00,0.00
+444,Marcelo,2017-2018,29,Real Madrid,W,1. Champions Lg,11,11,958,3,3,0,0,1,0,0.28,0.28
+445,Marcelo,2017-2018,29,Real Madrid,1st,Super Cup,1,1,90,0,0,0,0,0,0,0.00,0.00
+446,Marcelo,2018-2019,30,Real Madrid,R16,1. Champions Lg,4,4,343,1,1,0,0,0,0,0.26,0.26
+447,Marcelo,2018-2019,30,Real Madrid,2nd,Super Cup,1,1,120,0,0,0,0,1,0,0.00,0.00
+448,Marcelo,2019-2020,31,Real Madrid,R16,1. Champions Lg,4,3,266,0,3,0,0,1,0,0.00,1.02
+449,Marcelo,2020-2021,32,Real Madrid,R16,1. Champions Lg,1,1,90,0,1,0,0,0,0,0.00,1.00
+450,Mario Mandžukić,2007-2008,21,Dinamo Zagreb,GR,2. UEFA Cup,5,5,480,2,,0,,2,0,0.37,
+451,Mario Mandžukić,2008-2009,22,Dinamo Zagreb,GR,2. UEFA Cup,5,5,450,1,,0,,2,0,0.20,
+452,Mario Mandžukić,2009-2010,23,Dinamo Zagreb,GR,2. Europa Lg,5,5,448,0,0,0,0,1,0,0.00,0.00
+453,Mario Mandžukić,2012-2013,26,Bayern Munich,W,1. Champions Lg,10,8,720,3,1,0,1,3,0,0.37,0.12
+454,Mario Mandžukić,2013-2014,27,Bayern Munich,SF,1. Champions Lg,10,8,652,3,2,0,0,2,0,0.41,0.28
+455,Mario Mandžukić,2014-2015,28,Atlético Madrid,QF,1. Champions Lg,10,10,832,5,0,0,0,1,0,0.54,0.00
+456,Mario Mandžukić,2015-2016,29,Juventus,R16,1. Champions Lg,5,4,341,2,1,0,0,0,0,0.53,0.26
+457,Mario Mandžukić,2016-2017,30,Juventus,F,1. Champions Lg,11,10,914,3,0,0,0,3,0,0.30,0.00
+458,Mario Mandžukić,2017-2018,31,Juventus,QF,1. Champions Lg,6,5,457,4,0,0,0,2,0,0.79,0.00
+459,Mario Mandžukić,2018-2019,32,Juventus,QF,1. Champions Lg,8,7,576,1,0,0,0,0,0,0.16,0.00
+460,Jan Oblak,2013-2014,20,Benfica,F,2. Europa Lg,4,4,390,3,0.69,18,15,.833,1,3,0
+461,Jan Oblak,2014-2015,21,Atlético Madrid,QF,1. Champions Lg,4,3,367,4,0.98,23,19,.826,1,0,2
+462,Jan Oblak,2015-2016,22,Atlético Madrid,F,1. Champions Lg,13,13,"1,230",8,0.59,61,53,.869,6,4,3
+463,Jan Oblak,2016-2017,23,Atlético Madrid,SF,1. Champions Lg,11,11,990,7,0.64,48,41,.854,7,2,2
+464,Jan Oblak,2017-2018,24,Atlético Madrid,GR,1. Champions Lg,6,6,540,4,0.67,18,14,.778,1,4,1
+465,Jan Oblak,2017-2018,24,Atlético Madrid,W,2. Europa Lg,6,6,540,2,0.33,25,23,.920,4,1,1
+466,Jan Oblak,2018-2019,25,Atlético Madrid,R16,1. Champions Lg,8,8,720,9,1.13,19,11,.579,5,1,2
+467,Jan Oblak,2018-2019,25,Atlético Madrid,1st,Super Cup,1,1,120,2,1.50,5,4,.800,1,0,0
+468,Jan Oblak,2019-2020,26,Atlético Madrid,QF,1. Champions Lg,9,9,840,9,0.96,30,22,.700,5,1,3
+469,Jan Oblak,2020-2021,27,Atlético Madrid,R16,1. Champions Lg,6,6,540,8,1.33,13,7,.538,2,3,1
+470,Diego Godín,2007-2008,21,Villarreal,R32,2. UEFA Cup,7,7,630,0,,0,,0,0,0.00,
+471,Diego Godín,2008-2009,22,Villarreal,QF,1. Champions Lg,7,7,630,0,0,0,0,2,0,0.00,0.00
+472,Diego Godín,2009-2010,23,Villarreal,R32,2. Europa Lg,4,4,316,0,0,0,0,0,0,0.00,0.00
+473,Diego Godín,2010-2011,24,Atlético Madrid,GR,2. Europa Lg,3,3,270,1,0,0,0,0,0,0.33,0.00
+474,Diego Godín,2011-2012,25,Atlético Madrid,W,2. Europa Lg,13,13,"1,170",1,0,0,0,3,0,0.08,0.00
+475,Diego Godín,2012-2013,26,Atlético Madrid,R32,2. Europa Lg,1,1,90,0,0,0,0,0,0,0.00,0.00
+476,Diego Godín,2013-2014,27,Atlético Madrid,F,1. Champions Lg,10,10,930,2,0,0,0,2,0,0.19,0.00
+477,Diego Godín,2014-2015,28,Atlético Madrid,QF,1. Champions Lg,9,9,810,1,0,0,0,3,0,0.11,0.00
+478,Diego Godín,2015-2016,29,Atlético Madrid,F,1. Champions Lg,12,12,"1,109",0,1,0,0,2,0,0.00,0.08
+479,Diego Godín,2016-2017,30,Atlético Madrid,SF,1. Champions Lg,11,11,990,0,0,0,0,2,0,0.00,0.00
+480,Diego Godín,2017-2018,31,Atlético Madrid,GR,1. Champions Lg,4,4,360,0,0,0,0,0,0,0.00,0.00
+481,Diego Godín,2017-2018,31,Atlético Madrid,W,2. Europa Lg,8,8,720,0,0,0,0,0,0,0.00,0.00
+482,Diego Godín,2018-2019,32,Atlético Madrid,R16,1. Champions Lg,6,6,540,1,0,0,0,1,0,0.17,0.00
+483,Diego Godín,2018-2019,32,Atlético Madrid,1st,Super Cup,1,1,120,0,1,0,0,0,0,0.00,0.75
+484,Diego Godín,2019-2020,33,Inter,GR,1. Champions Lg,5,5,450,0,0,0,0,2,0,0.00,0.00
+485,Diego Godín,2019-2020,33,Inter,F,2. Europa Lg,6,6,539,1,0,0,0,0,0,0.17,0.00
+486,Isco,2010-2011,18,Valencia,R16,1. Champions Lg,2,0,55,0,0,0,0,0,0,0.00,0.00
+487,Isco,2012-2013,20,Málaga,QF,1. Champions Lg,8,8,708,3,4,0,0,0,0,0.38,0.51
+488,Isco,2013-2014,21,Real Madrid,W,1. Champions Lg,12,6,643,3,2,0,0,1,0,0.42,0.28
+489,Isco,2014-2015,22,Real Madrid,SF,1. Champions Lg,11,10,868,0,0,0,0,1,0,0.00,0.00
+490,Isco,2014-2015,22,Real Madrid,1st,Super Cup,1,0,19,0,0,0,0,0,0,0.00,0.00
+491,Isco,2015-2016,23,Real Madrid,W,1. Champions Lg,11,8,710,0,3,0,0,1,0,0.00,0.38
+492,Isco,2016-2017,24,Real Madrid,W,1. Champions Lg,6,5,386,1,0,0,0,1,0,0.23,0.00
+493,Isco,2016-2017,24,Real Madrid,1st,Super Cup,1,1,65,0,0,0,0,0,0,0.00,0.00
+494,Isco,2017-2018,25,Real Madrid,W,1. Champions Lg,11,10,736,0,2,0,0,1,0,0.00,0.24
+495,Isco,2017-2018,25,Real Madrid,1st,Super Cup,1,1,73,1,0,0,0,0,0,1.23,0.00
+496,Isco,2018-2019,26,Real Madrid,R16,1. Champions Lg,4,3,251,1,0,0,0,1,0,0.36,0.00
+497,Isco,2018-2019,26,Real Madrid,2nd,Super Cup,1,1,82,0,0,0,0,0,0,0.00,0.00
+498,Isco,2019-2020,27,Real Madrid,R16,1. Champions Lg,4,3,270,1,0,0,0,0,0,0.33,0.00
+499,Isco,2020-2021,28,Real Madrid,R16,1. Champions Lg,1,0,14,0,0,0,0,0,0,0.00,0.00
+500,Kaká,2003-2004,21,Milan,QF,1. Champions Lg,10,10,784,4,0,0,0,0,0,0.46,0.00
+501,Kaká,2004-2005,22,Milan,F,1. Champions Lg,12,11,"1,004",2,5,0,0,1,0,0.18,0.45
+502,Kaká,2005-2006,23,Milan,SF,1. Champions Lg,12,12,987,5,1,0,0,1,0,0.46,0.09
+503,Kaká,2006-2007,24,Milan,W,1. Champions Lg,13,12,"1,142",10,3,3,3,3,1,0.79,0.24
+504,Kaká,2007-2008,25,Milan,R16,1. Champions Lg,8,8,720,2,2,1,1,2,0,0.25,0.25
+505,Kaká,2008-2009,26,Milan,R32,2. UEFA Cup,4,3,271,0,,0,,0,0,0.00,
+506,Kaká,2009-2010,27,Real Madrid,R16,1. Champions Lg,7,7,604,1,2,1,1,1,0,0.15,0.30
+507,Kaká,2010-2011,28,Real Madrid,SF,1. Champions Lg,3,1,98,0,1,0,0,0,0,0.00,0.92
+508,Kaká,2011-2012,29,Real Madrid,SF,1. Champions Lg,8,4,442,3,6,0,0,0,0,0.61,1.22
+509,Kaká,2012-2013,30,Real Madrid,SF,1. Champions Lg,6,2,247,1,1,0,0,1,0,0.36,0.36
+510,Kaká,2013-2014,31,Milan,R16,1. Champions Lg,6,6,496,2,1,0,0,0,0,0.36,0.18
+511,Kaká,2014,31,São Paulo,SF,2. Sudamericana,5,5,383,1,1,0,0,1,0,0.23,0.23
+512,Didier Drogba,2003-2004,25,Marseille,GR,1. Champions Lg,6,6,516,5,0,0,0,1,0,0.87,0.00
+513,Didier Drogba,2003-2004,25,Marseille,F,2. UEFA Cup,8,7,635,6,,2,,1,0,0.85,
+514,Didier Drogba,2004-2005,26,Chelsea,SF,1. Champions Lg,9,8,693,5,1,0,0,1,1,0.65,0.13
+515,Didier Drogba,2005-2006,27,Chelsea,R16,1. Champions Lg,8,6,462,1,0,0,0,1,0,0.19,0.00
+516,Didier Drogba,2006-2007,28,Chelsea,SF,1. Champions Lg,12,12,"1,054",6,2,0,0,2,0,0.51,0.17
+517,Didier Drogba,2007-2008,29,Chelsea,F,1. Champions Lg,11,11,"1,024",6,1,0,0,0,1,0.53,0.09
+518,Didier Drogba,2008-2009,30,Chelsea,SF,1. Champions Lg,10,7,667,5,1,0,0,2,0,0.67,0.13
+519,Didier Drogba,2009-2010,31,Chelsea,R16,1. Champions Lg,5,5,446,3,0,0,0,1,1,0.61,0.00
+520,Didier Drogba,2010-2011,32,Chelsea,QF,1. Champions Lg,7,5,449,2,2,1,1,1,0,0.40,0.40
+521,Didier Drogba,2011-2012,33,Chelsea,W,1. Champions Lg,8,7,669,6,2,0,0,2,0,0.81,0.27
+522,Didier Drogba,2012-2013,34,Galatasaray,QF,1. Champions Lg,4,4,360,1,0,0,0,2,0,0.25,0.00
+523,Didier Drogba,2013-2014,35,Galatasaray,R16,1. Champions Lg,8,8,662,2,3,0,0,1,0,0.27,0.41
+524,Didier Drogba,2014-2015,36,Chelsea,R16,1. Champions Lg,5,2,291,2,1,1,1,0,0,0.62,0.31
+525,Andrea Pirlo,1998-1999,19,Inter,QF,1. Champions Lg,5,0,115,0,,0,,0,0,0.00,
+526,Andrea Pirlo,2000-2001,21,Inter,Rd4,2. UEFA Cup,1,1,90,0,,0,,0,0,0.00,
+527,Andrea Pirlo,2001-2002,22,Milan,SF,2. UEFA Cup,9,4,452,0,,0,,0,0,0.00,
+528,Andrea Pirlo,2002-2003,23,Milan,W,1. Champions Lg,12,10,859,0,0,0,0,2,0,0.00,0.00
+529,Andrea Pirlo,2003-2004,24,Milan,QF,1. Champions Lg,9,9,779,1,0,0,0,2,0,0.12,0.00
+530,Andrea Pirlo,2004-2005,25,Milan,F,1. Champions Lg,11,11,963,1,4,0,0,0,0,0.09,0.37
+531,Andrea Pirlo,2005-2006,26,Milan,SF,1. Champions Lg,12,12,"1,009",1,1,0,0,1,0,0.09,0.09
+532,Andrea Pirlo,2006-2007,27,Milan,W,1. Champions Lg,12,11,"1,037",1,1,0,0,0,0,0.09,0.09
+533,Andrea Pirlo,2007-2008,28,Milan,R16,1. Champions Lg,8,8,705,2,4,0,0,1,0,0.26,0.51
+534,Andrea Pirlo,2008-2009,29,Milan,R32,2. UEFA Cup,3,3,226,1,,1,,1,0,0.40,
+535,Andrea Pirlo,2009-2010,30,Milan,R16,1. Champions Lg,8,8,720,1,0,0,0,0,0,0.12,0.00
+536,Andrea Pirlo,2010-2011,31,Milan,R16,1. Champions Lg,5,5,450,0,0,0,0,0,0,0.00,0.00
+537,Andrea Pirlo,2012-2013,33,Juventus,QF,,10,10,879,0,3,0,0,0,0,0.00,0.31
+538,Andrea Pirlo,2013-2014,34,Juventus,GR,1. Champions Lg,5,5,419,0,1,0,0,1,0,0.00,0.21
+539,Andrea Pirlo,2013-2014,34,Juventus,SF,1. Champions Lg,8,7,648,2,0,0,0,0,0,0.28,0.00
+540,Andrea Pirlo,2014-2015,35,Juventus,F,2. Europa Lg,10,10,787,1,0,0,0,0,0,0.11,0.00
+541,Ruud van Nistelrooy,1998-1999,22,PSV Eindhoven,GR,1. Champions Lg,5,5,450,5,,1,,0,0,1.00,
+542,Ruud van Nistelrooy,1999-2000,23,PSV Eindhoven,GR1,1. Champions Lg,6,6,540,3,0,2,2,0,0,0.50,0.00
+543,Ruud van Nistelrooy,2001-2002,25,Manchester Utd,SF,1. Champions Lg,14,14,"1,207",10,6,3,4,2,0,0.75,0.45
+544,Ruud van Nistelrooy,2002-2003,26,Manchester Utd,QF,1. Champions Lg,9,8,684,12,3,0,0,1,0,1.58,0.39
+545,Ruud van Nistelrooy,2003-2004,27,Manchester Utd,R16,1. Champions Lg,8,8,598,4,2,1,1,0,0,0.60,0.30
+546,Ruud van Nistelrooy,2004-2005,28,Manchester Utd,R16,1. Champions Lg,7,6,531,8,1,1,1,0,0,1.36,0.17
+547,Ruud van Nistelrooy,2005-2006,29,Manchester Utd,GR,1. Champions Lg,6,6,530,1,0,0,0,1,0,0.17,0.00
+548,Ruud van Nistelrooy,2006-2007,30,Real Madrid,R16,1. Champions Lg,7,7,584,6,2,2,2,0,0,0.92,0.31
+549,Ruud van Nistelrooy,2007-2008,31,Real Madrid,R16,1. Champions Lg,7,7,613,4,3,0,0,1,0,0.59,0.44
+550,Ruud van Nistelrooy,2008-2009,32,Real Madrid,R16,1. Champions Lg,4,4,352,3,0,0,0,2,0,0.77,0.00
+551,Ruud van Nistelrooy,2009-2010,33,Real Madrid,R16,1. Champions Lg,1,0,8,0,0,0,0,0,0,0.00,0.00
+552,Ruud van Nistelrooy,2009-2010,33,Hamburger SV,SF,2. Europa Lg,7,6,564,2,0,0,0,1,0,0.32,0.00
+553,Zlatan Ibrahimović,2001-2002,19,Ajax,Rd2,2. UEFA Cup,4,3,273,2,,0,,0,0,0.66,
+554,Zlatan Ibrahimović,2002-2003,20,Ajax,QF,1. Champions Lg,13,12,"1,014",5,1,0,0,2,0,0.44,0.09
+555,Zlatan Ibrahimović,2003-2004,21,Ajax,GR,1. Champions Lg,6,6,452,1,1,0,0,2,0,0.20,0.20
+556,Zlatan Ibrahimović,2004-2005,22,Juventus,QF,1. Champions Lg,10,9,834,0,2,0,0,2,0,0.00,0.22
+557,Zlatan Ibrahimović,2005-2006,23,Juventus,QF,1. Champions Lg,9,9,699,3,1,0,0,1,1,0.39,0.13
+558,Zlatan Ibrahimović,2006-2007,24,Inter,R16,1. Champions Lg,7,7,554,0,1,0,0,2,1,0.00,0.16
+559,Zlatan Ibrahimović,2007-2008,25,Inter,R16,1. Champions Lg,7,7,602,5,0,1,1,2,0,0.75,0.00
+560,Zlatan Ibrahimović,2008-2009,26,Inter,R16,1. Champions Lg,8,8,674,1,2,0,0,0,0,0.13,0.27
+561,Zlatan Ibrahimović,2009-2010,27,Barcelona,SF,1. Champions Lg,10,9,761,4,2,0,0,1,0,0.47,0.24
+562,Zlatan Ibrahimović,2010-2011,28,Milan,R16,1. Champions Lg,8,7,652,4,0,0,0,1,0,0.55,0.00
+563,Zlatan Ibrahimović,2011-2012,29,Milan,QF,1. Champions Lg,8,8,720,5,4,2,2,1,0,0.62,0.50
+564,Zlatan Ibrahimović,2012-2013,30,Paris S-G,QF,1. Champions Lg,9,9,793,3,7,1,1,1,1,0.34,0.79
+565,Zlatan Ibrahimović,2013-2014,31,Paris S-G,QF,1. Champions Lg,8,8,669,10,0,1,2,0,0,1.35,0.00
+566,Zlatan Ibrahimović,2014-2015,32,Paris S-G,QF,1. Champions Lg,6,6,477,2,1,0,0,1,1,0.38,0.19
+567,Zlatan Ibrahimović,2015-2016,33,Paris S-G,QF,1. Champions Lg,10,10,880,5,3,0,1,2,0,0.51,0.31
+568,Zlatan Ibrahimović,2016-2017,34,Manchester Utd,W,2. Europa Lg,11,9,898,5,3,1,1,0,0,0.50,0.30
+569,Zlatan Ibrahimović,2017-2018,35,Manchester Utd,R16,1. Champions Lg,1,0,16,0,0,0,0,0,0,0.00,0.00
+570,Zlatan Ibrahimović,2020-2021,38,Milan,R32,2. Europa Lg,3,3,171,0,1,0,1,0,0,0.00,0.53
+571,Cesc Fàbregas,2004-2005,17,Arsenal,R16,1. Champions Lg,5,4,387,1,0,0,0,1,0,0.23,0.00
+572,Cesc Fàbregas,2005-2006,18,Arsenal,F,1. Champions Lg,13,10,943,1,1,0,0,1,0,0.10,0.10
+573,Cesc Fàbregas,2006-2007,19,Arsenal,R16,1. Champions Lg,8,8,718,0,1,0,0,1,0,0.00,0.13
+574,Cesc Fàbregas,2007-2008,20,Arsenal,QF,1. Champions Lg,8,7,686,4,2,0,0,0,0,0.52,0.26
+575,Cesc Fàbregas,2008-2009,21,Arsenal,SF,1. Champions Lg,9,9,810,0,5,0,0,1,0,0.00,0.56
+576,Cesc Fàbregas,2009-2010,22,Arsenal,QF,1. Champions Lg,7,7,607,4,2,1,1,3,0,0.59,0.30
+577,Cesc Fàbregas,2010-2011,23,Arsenal,R16,1. Champions Lg,5,5,390,3,2,2,2,0,0,0.69,0.46
+578,Cesc Fàbregas,2011-2012,24,Barcelona,SF,1. Champions Lg,9,7,662,1,3,0,0,0,0,0.14,0.41
+579,Cesc Fàbregas,2012-2013,25,Barcelona,SF,1. Champions Lg,8,6,529,1,0,0,0,1,0,0.17,0.00
+580,Cesc Fàbregas,2013-2014,26,Barcelona,QF,1. Champions Lg,9,7,560,1,2,0,0,4,0,0.16,0.32
+581,Cesc Fàbregas,2014-2015,27,Chelsea,R16,1. Champions Lg,8,8,696,2,3,1,1,2,0,0.26,0.39
+582,Cesc Fàbregas,2015-2016,28,Chelsea,R16,1. Champions Lg,7,7,604,1,1,0,0,2,0,0.15,0.15
+583,Cesc Fàbregas,2017-2018,30,Chelsea,R16,1. Champions Lg,8,8,691,1,1,1,1,0,0,0.13,0.13
+584,Cesc Fàbregas,2018-2019,31,Chelsea,W,2. Europa Lg,5,4,386,0,2,0,0,0,0,0.00,0.47
+585,Robinho,2005-2006,21,Real Madrid,R16,1. Champions Lg,7,6,519,0,2,0,0,0,0,0.00,0.35
+586,Robinho,2006-2007,22,Real Madrid,R16,1. Champions Lg,7,3,346,1,0,0,0,0,0,0.26,0.00
+587,Robinho,2007-2008,23,Real Madrid,R16,1. Champions Lg,6,5,405,4,4,0,0,2,0,0.89,0.89
+588,Robinho,2008-2009,24,Manchester City,QF,2. UEFA Cup,10,10,841,1,,0,,1,0,0.11,
+589,Robinho,2010-2011,26,Milan,R16,1. Champions Lg,7,5,485,0,1,0,0,1,0,0.00,0.19
+590,Robinho,2011-2012,27,Milan,QF,1. Champions Lg,8,7,554,3,2,0,0,1,0,0.49,0.32
+591,Robinho,2012-2013,28,Milan,R16,1. Champions Lg,3,0,65,0,0,0,0,1,0,0.00,0.00
+592,Robinho,2013-2014,29,Milan,R16,1. Champions Lg,6,3,258,1,0,0,0,1,0,0.35,0.00
+593,Robinho,2016,32,Atlético Mineiro,QF,,7,5,402,1,0,0,0,2,0,0.22,0.00
+594,Robinho,2017,33,Atlético Mineiro,R16,1. Libertadores,7,6,455,2,1,0,0,0,0,0.40,0.20
+595,Robinho,2019-2020,35,Başakşehir,R16,1. Libertadores,4,0,121,0,0,0,0,0,0,0.00,0.00
+596,Francesco Totti,1995-1996,18,Roma,QF,3. UEFA Cup,7,3,362,2,,0,,1,0,0.50,
+597,Francesco Totti,1996-1997,19,Roma,Rd2,3. UEFA Cup,3,1,95,0,,0,,1,0,0.00,
+598,Francesco Totti,1998-1999,21,Roma,QF,3. UEFA Cup,8,8,715,3,,1,,3,2,0.38,
+599,Francesco Totti,1999-2000,22,Roma,Rd4,2. UEFA Cup,5,4,396,1,,1,,2,0,0.23,
+600,Francesco Totti,2000-2001,23,Roma,Rd4,2. UEFA Cup,3,2,163,2,,0,,0,0,1.10,
+601,Francesco Totti,2001-2002,24,Roma,GR2,1. Champions Lg,11,11,974,3,1,1,1,1,0,0.28,0.09
+602,Francesco Totti,2002-2003,25,Roma,GR2,1. Champions Lg,6,6,470,3,2,0,0,1,1,0.57,0.38
+603,Francesco Totti,2003-2004,26,Roma,Rd4,2. UEFA Cup,1,1,90,0,,0,,0,0,0.00,
+604,Francesco Totti,2004-2005,27,Roma,GR,1. Champions Lg,3,3,270,1,1,0,0,1,0,0.33,0.33
+605,Francesco Totti,2005-2006,28,Roma,R16,2. UEFA Cup,3,3,228,2,,0,,0,0,0.79,
+606,Francesco Totti,2006-2007,29,Roma,QF,1. Champions Lg,9,9,800,4,3,1,1,2,0,0.45,0.34
+607,Francesco Totti,2007-2008,30,Roma,QF,1. Champions Lg,6,6,485,1,1,0,0,0,0,0.19,0.19
+608,Francesco Totti,2008-2009,31,Roma,R16,1. Champions Lg,7,6,569,2,1,0,0,1,0,0.32,0.16
+609,Francesco Totti,2009-2010,32,Roma,R32,2. Europa Lg,2,2,180,1,0,1,1,0,0,0.50,0.00
+610,Francesco Totti,2010-2011,33,Roma,R16,1. Champions Lg,7,6,552,2,1,2,2,0,0,0.33,0.16
+611,Francesco Totti,2014-2015,37,Roma,GR,,5,5,368,2,0,0,0,0,0,0.49,0.00
+612,Francesco Totti,2014-2015,37,Roma,R16,1. Champions Lg,2,2,145,0,0,0,0,0,0,0.00,0.00
+613,Francesco Totti,2015-2016,38,Roma,R16,2. Europa Lg,2,0,19,0,0,0,0,0,0,0.00,0.00
+614,Francesco Totti,2016-2017,39,Roma,R16,1. Champions Lg,6,4,384,0,4,0,0,1,0,0.00,0.94
+615,Frédéric Kanouté,1997-1998,19,Lyon,Rd2,3. UEFA Cup,3,2,201,1,,0,,0,0,0.45,
+616,Frédéric Kanouté,1998-1999,20,Lyon,QF,3. UEFA Cup,3,0,47,1,,0,,0,0,1.91,
+617,Frédéric Kanouté,1999-2000,21,Lyon,Rd3,2. UEFA Cup,3,0,44,0,,0,,0,0,0.00,
+618,Frédéric Kanouté,2005-2006,27,Sevilla,W,2. UEFA Cup,11,8,727,6,,0,,2,0,0.74,
+619,Frédéric Kanouté,2006-2007,28,Sevilla,W,2. UEFA Cup,10,9,849,4,,2,,2,0,0.42,
+620,Frédéric Kanouté,2007-2008,29,Sevilla,R16,1. Champions Lg,8,8,689,5,2,0,0,1,0,0.65,0.26
+621,Frédéric Kanouté,2008-2009,30,Sevilla,GR,2. UEFA Cup,2,1,115,2,,1,,0,0,1.57,
+622,Frédéric Kanouté,2009-2010,31,Sevilla,R16,1. Champions Lg,7,5,436,2,1,1,1,0,0,0.41,0.21
+623,Frédéric Kanouté,2010-2011,32,Sevilla,R32,2. Europa Lg,7,5,461,5,0,0,0,1,0,0.98,0.00
+624,Ronaldinho,2001-2002,21,Paris S-G,Rd3,2. UEFA Cup,6,5,488,2,,0,,1,0,0.37,
+625,Ronaldinho,2002-2003,22,Paris S-G,Rd3,2. UEFA Cup,4,4,332,1,,0,,0,0,0.27,
+626,Ronaldinho,2003-2004,23,Barcelona,Rd4,2. UEFA Cup,7,7,536,4,,0,,2,0,0.67,
+627,Ronaldinho,2004-2005,24,Barcelona,R16,1. Champions Lg,7,7,603,4,1,2,3,1,0,0.60,0.15
+628,Ronaldinho,2005-2006,25,Barcelona,W,1. Champions Lg,12,12,"1,078",7,4,2,3,0,0,0.58,0.33
+629,Ronaldinho,2006-2007,26,Barcelona,R16,1. Champions Lg,8,8,720,2,2,0,0,0,0,0.25,0.25
+630,Ronaldinho,2007-2008,27,Barcelona,SF,1. Champions Lg,8,7,586,1,1,0,0,0,0,0.15,0.15
+631,Ronaldinho,2008-2009,28,Milan,R32,2. UEFA Cup,6,2,255,2,,0,,0,0,0.71,
+632,Ronaldinho,2009-2010,29,Milan,R16,1. Champions Lg,7,6,584,3,1,2,2,3,0,0.46,0.15
+633,Ronaldinho,2010-2011,30,Milan,R16,1. Champions Lg,5,4,316,1,1,0,0,0,0,0.28,0.28
+634,Ronaldinho,2014,33,Atlético Mineiro,R16,1. Libertadores,2,2,174,0,0,0,0,0,0,0.00,0.00
+635,Steven Gerrard,1998-1999,18,Liverpool,Rd3,3. UEFA Cup,1,1,90,0,,0,,0,0,0.00,
+636,Steven Gerrard,2000-2001,20,Liverpool,W,2. UEFA Cup,9,9,824,2,,0,,1,0,0.22,
+637,Steven Gerrard,2001-2002,21,Liverpool,QF,1. Champions Lg,12,12,"1,038",1,2,0,0,1,0,0.09,0.17
+638,Steven Gerrard,2002-2003,22,Liverpool,GR1,1. Champions Lg,5,5,392,0,0,0,0,0,0,0.00,0.00
+639,Steven Gerrard,2002-2003,22,Liverpool,QF,2. UEFA Cup,6,6,540,0,,0,,0,0,0.00,
+640,Steven Gerrard,2003-2004,23,Liverpool,Rd4,2. UEFA Cup,8,7,693,2,,0,,0,0,0.26,
+641,Steven Gerrard,2004-2005,24,Liverpool,W,1. Champions Lg,8,8,750,2,3,0,0,2,0,0.24,0.36
+642,Steven Gerrard,2005-2006,25,Liverpool,R16,1. Champions Lg,8,6,466,0,1,0,0,1,0,0.00,0.19
+643,Steven Gerrard,2006-2007,26,Liverpool,F,1. Champions Lg,7,6,588,3,2,0,0,0,0,0.46,0.31
+644,Steven Gerrard,2007-2008,27,Liverpool,SF,1. Champions Lg,12,12,"1,092",6,5,3,3,2,0,0.49,0.41
+645,Steven Gerrard,2008-2009,28,Liverpool,QF,1. Champions Lg,8,7,557,7,1,3,3,1,0,1.13,0.16
+646,Steven Gerrard,2009-2010,29,Liverpool,GR,1. Champions Lg,5,5,384,0,1,0,0,1,0,0.00,0.23
+647,Steven Gerrard,2009-2010,29,Liverpool,SF,2. Europa Lg,8,8,748,2,3,1,1,1,0,0.24,0.36
+648,Steven Gerrard,2010-2011,30,Liverpool,R16,2. Europa Lg,1,0,44,3,0,1,1,0,0,6.14,0.00
+649,Steven Gerrard,2012-2013,32,Liverpool,R32,,5,3,354,0,1,0,0,0,0,0.00,0.25
+650,Steven Gerrard,2014-2015,34,Liverpool,GR,2. Europa Lg,6,5,471,2,0,1,1,1,0,0.38,0.00
+651,Juan Román Riquelme,2002-2003,24,Barcelona,QF,1. Champions Lg,10,6,596,1,4,0,1,0,0,0.15,0.60
+652,Juan Román Riquelme,2003-2004,25,Villarreal,SF,2. UEFA Cup,12,12,"1,075",4,,0,,1,0,0.33,
+653,Juan Román Riquelme,2004-2005,26,Villarreal,QF,2. UEFA Cup,9,8,643,2,,1,,3,1,0.28,
+654,Juan Román Riquelme,2005-2006,27,Villarreal,SF,1. Champions Lg,9,9,804,2,2,2,3,1,0,0.22,0.22
+655,Dani Alves,2004-2005,21,Sevilla,R16,2. UEFA Cup,9,6,640,0,,0,,1,0,0.00,
+656,Dani Alves,2005-2006,22,Sevilla,W,2. UEFA Cup,13,13,"1,175",0,,0,,7,0,0.00,
+657,Dani Alves,2006-2007,23,Sevilla,W,2. UEFA Cup,14,14,"1,278",2,,0,,1,0,0.14,
+658,Dani Alves,2007-2008,24,Barcelona,SF,1. Champions Lg,8,8,750,2,2,0,0,2,0,0.24,0.24
+659,Dani Alves,2008-2009,25,Barcelona,W,1. Champions Lg,10,10,900,0,3,0,0,3,0,0.00,0.30
+660,Dani Alves,2009-2010,26,Barcelona,SF,1. Champions Lg,11,11,989,0,2,0,0,2,0,0.00,0.18
+661,Dani Alves,2010-2011,27,Barcelona,W,1. Champions Lg,12,12,"1,078",2,2,0,0,2,0,0.17,0.17
+662,Dani Alves,2011-2012,28,Barcelona,SF,1. Champions Lg,10,9,854,0,3,0,0,3,0,0.00,0.32
+663,Dani Alves,2012-2013,29,Barcelona,SF,1. Champions Lg,10,10,874,1,1,0,0,2,0,0.10,0.10
+664,Dani Alves,2013-2014,30,Barcelona,QF,1. Champions Lg,8,8,720,2,0,0,0,2,0,0.25,0.00
+665,Dani Alves,2014-2015,31,Barcelona,W,1. Champions Lg,11,11,961,0,4,0,0,6,0,0.00,0.37
+666,Dani Alves,2015-2016,32,Barcelona,QF,1. Champions Lg,8,8,694,0,3,0,0,3,0,0.00,0.39
+667,Dani Alves,2015-2016,32,Barcelona,1st,Super Cup,1,1,120,0,0,0,0,1,0,0.00,0.00
+668,Dani Alves,2016-2017,33,Juventus,F,1. Champions Lg,12,11,"1,001",3,3,0,0,1,0,0.27,0.27
+669,Dani Alves,2017-2018,34,Paris S-G,R16,1. Champions Lg,8,8,720,2,0,0,0,0,0,0.25,0.00
+670,Dani Alves,2018-2019,35,Paris S-G,R16,1. Champions Lg,3,2,205,0,0,0,0,1,0,0.00,0.00
+671,Dani Alves,2020,36,São Paulo,GR,1. Libertadores,4,4,334,1,0,0,0,2,0,0.27,0.00
+672,Dani Alves,2020,36,São Paulo,2S,2. Sudamericana,2,2,180,1,2,0,0,0,0,0.50,1.00
+673,Filippo Inzaghi,1997-1998,23,Juventus,F,1. Champions Lg,10,10,764,6,,0,,0,0,0.71,
+674,Filippo Inzaghi,1998-1999,24,Juventus,SF,1. Champions Lg,10,10,831,6,,0,,1,0,0.65,
+675,Filippo Inzaghi,1999-2000,25,Juventus,Rd4,2. UEFA Cup,4,2,191,3,,0,,0,0,1.41,
+676,Filippo Inzaghi,2000-2001,26,Juventus,GR1,1. Champions Lg,6,5,430,5,0,1,1,0,0,1.05,0.00
+677,Filippo Inzaghi,2001-2002,27,Milan,SF,2. UEFA Cup,7,6,499,4,,1,,1,0,0.72,
+678,Filippo Inzaghi,2002-2003,28,Milan,W,1. Champions Lg,14,12,"1,101",10,2,0,0,1,0,0.82,0.16
+679,Filippo Inzaghi,2003-2004,29,Milan,QF,1. Champions Lg,8,6,527,2,0,0,0,1,0,0.34,0.00
+680,Filippo Inzaghi,2004-2005,30,Milan,F,1. Champions Lg,2,1,90,1,0,0,0,0,0,1.00,0.00
+681,Filippo Inzaghi,2005-2006,31,Milan,SF,1. Champions Lg,6,4,393,4,0,0,0,2,0,0.92,0.00
+682,Filippo Inzaghi,2006-2007,32,Milan,W,1. Champions Lg,10,8,672,4,1,0,0,0,0,0.54,0.13
+683,Filippo Inzaghi,2007-2008,33,Milan,R16,1. Champions Lg,5,4,346,4,1,0,0,2,0,1.04,0.26
+684,Filippo Inzaghi,2008-2009,34,Milan,R32,2. UEFA Cup,6,6,494,3,,0,,0,0,0.55,
+685,Filippo Inzaghi,2009-2010,35,Milan,R16,1. Champions Lg,7,3,288,2,0,0,0,0,0,0.62,0.00
+686,Filippo Inzaghi,2010-2011,36,Milan,R16,1. Champions Lg,3,0,46,2,0,0,0,0,0,3.91,0.00
+687,Franck Ribéry,2005-2006,22,Marseille,R16,2. UEFA Cup,7,6,518,1,,0,,1,1,0.17,
+688,Franck Ribéry,2006-2007,23,Marseille,Rd1,2. UEFA Cup,2,1,92,0,,0,,0,0,0.00,
+689,Franck Ribéry,2007-2008,24,Bayern Munich,SF,2. UEFA Cup,11,9,870,3,,0,,1,0,0.31,
+690,Franck Ribéry,2008-2009,25,Bayern Munich,QF,1. Champions Lg,8,8,712,4,4,1,1,1,0,0.51,0.51
+691,Franck Ribéry,2009-2010,26,Bayern Munich,F,1. Champions Lg,7,7,550,1,2,0,0,1,1,0.16,0.33
+692,Franck Ribéry,2010-2011,27,Bayern Munich,R16,1. Champions Lg,4,4,347,2,1,0,0,1,0,0.52,0.26
+693,Franck Ribéry,2011-2012,28,Bayern Munich,F,1. Champions Lg,12,12,"1,030",3,2,0,0,1,0,0.26,0.17
+694,Franck Ribéry,2012-2013,29,Bayern Munich,W,1. Champions Lg,12,11,853,1,3,0,0,2,0,0.11,0.32
+695,Franck Ribéry,2013-2014,30,Bayern Munich,SF,1. Champions Lg,10,10,831,3,2,1,1,0,0,0.32,0.22
+696,Franck Ribéry,2014-2015,31,Bayern Munich,SF,1. Champions Lg,6,5,388,3,0,0,0,0,0,0.70,0.00
+697,Franck Ribéry,2015-2016,32,Bayern Munich,SF,1. Champions Lg,7,5,449,0,0,0,0,1,0,0.00,0.00
+698,Franck Ribéry,2016-2017,33,Bayern Munich,QF,1. Champions Lg,6,5,422,0,2,0,1,0,0,0.00,0.43
+699,Franck Ribéry,2017-2018,34,Bayern Munich,SF,1. Champions Lg,8,7,574,0,1,0,0,3,0,0.00,0.16
+700,Franck Ribéry,2018-2019,35,Bayern Munich,R16,1. Champions Lg,7,6,434,1,0,0,0,1,0,0.21,0.00
+701,Paolo Maldini,1990-1991,22,Milan,QF,1. European Cup,4,4,357,0,,,,0,0,0.00,
+702,Paolo Maldini,1992-1993,24,Milan,F,1. Champions Lg,10,10,900,1,,0,,0,0,0.10,
+703,Paolo Maldini,1993-1994,25,Milan,W,1. Champions Lg,10,10,854,1,,0,,2,0,0.11,
+704,Paolo Maldini,1994-1995,26,Milan,F,1. Champions Lg,11,11,911,0,,0,,1,0,0.00,
+705,Paolo Maldini,1995-1996,27,Milan,QF,3. UEFA Cup,8,8,720,0,,0,,1,0,0.00,
+706,Paolo Maldini,1996-1997,28,Milan,GR,1. Champions Lg,6,6,540,0,,0,,0,0,0.00,
+707,Paolo Maldini,1999-2000,31,Milan,GR1,,6,6,540,0,0,0,0,3,0,0.00,0.00
+708,Paolo Maldini,2000-2001,32,Milan,GR2,1. Champions Lg,12,12,"1,080",0,0,0,0,2,0,0.00,0.00
+709,Paolo Maldini,2001-2002,33,Milan,SF,1. Champions Lg,4,4,360,0,,0,,1,0,0.00,
+710,Paolo Maldini,2002-2003,34,Milan,W,2. UEFA Cup,17,17,"1,491",0,1,0,0,1,0,0.00,0.06
+711,Paolo Maldini,2003-2004,35,Milan,QF,1. Champions Lg,9,9,755,0,0,0,0,1,0,0.00,0.00
+712,Paolo Maldini,2004-2005,36,Milan,F,1. Champions Lg,12,12,"1,066",1,0,0,0,0,0,0.08,0.00
+713,Paolo Maldini,2005-2006,37,Milan,SF,1. Champions Lg,9,6,546,0,1,0,0,2,0,0.00,0.16
+714,Paolo Maldini,2006-2007,38,Milan,W,1. Champions Lg,9,9,795,0,1,0,0,2,0,0.00,0.11
+715,Paolo Maldini,2007-2008,39,Milan,R16,1. Champions Lg,4,2,235,0,0,0,0,1,0,0.00,0.00
+716,Paolo Maldini,2008-2009,40,Milan,R32,1. Champions Lg,2,1,149,0,,0,,0,0,0.00,
+717,Gianluigi Buffon,2001-2002,23,Juventus,GR2,1. Champions Lg,10,10,900,12,1.20,44,32,.727,5,2,3
+718,Gianluigi Buffon,2002-2003,24,Juventus,F,1. Champions Lg,15,15,"1,410",16,1.02,86,70,.814,8,3,4
+719,Gianluigi Buffon,2003-2004,25,Juventus,R16,1. Champions Lg,6,6,540,6,1.00,22,16,.727,3,1,2
+720,Gianluigi Buffon,2004-2005,26,Juventus,QF,1. Champions Lg,9,9,840,3,0.32,32,29,.906,6,1,2
+721,Gianluigi Buffon,2005-2006,27,Juventus,QF,1. Champions Lg,4,4,360,6,1.50,17,11,.647,1,1,2
+722,Gianluigi Buffon,2008-2009,30,Juventus,R16,1. Champions Lg,3,3,270,3,1.00,13,10,.769,1,1,1
+723,Gianluigi Buffon,2009-2010,31,Juventus,GR,1. Champions Lg,6,6,540,7,1.17,29,22,.759,2,2,2
+724,Gianluigi Buffon,2009-2010,31,Juventus,R16,2. Europa Lg,1,1,90,1,1.00,3,2,.667,1,0,0
+725,Gianluigi Buffon,2012-2013,34,Juventus,QF,,10,10,900,8,0.80,31,23,.742,5,3,2
+726,Gianluigi Buffon,2013-2014,35,Juventus,GR,1. Champions Lg,6,6,540,9,1.50,29,20,.690,1,3,2
+727,Gianluigi Buffon,2013-2014,35,Juventus,SF,1. Champions Lg,8,8,720,4,0.50,26,22,.846,5,2,1
+728,Gianluigi Buffon,2014-2015,36,Juventus,F,2. Europa Lg,13,13,"1,170",10,0.77,49,39,.796,7,3,3
+729,Gianluigi Buffon,2015-2016,37,Juventus,R16,1. Champions Lg,8,8,750,9,1.08,36,27,.750,3,3,2
+730,Gianluigi Buffon,2016-2017,38,Juventus,F,1. Champions Lg,12,12,"1,080",7,0.58,27,20,.741,8,3,1
+731,Gianluigi Buffon,2017-2018,39,Juventus,QF,1. Champions Lg,9,9,810,11,1.22,35,24,.686,4,3,2
+732,Gianluigi Buffon,2018-2019,40,Paris S-G,R16,1. Champions Lg,5,5,450,6,1.20,11,8,.727,3,1,1
+733,Gianluigi Buffon,2019-2020,41,Juventus,R16,1. Champions Lg,1,1,90,0,0.00,1,1,1.000,1,0,0
+734,Gianluigi Buffon,2020-2021,42,Juventus,R16,1. Champions Lg,1,1,90,0,0.00,7,7,1.000,1,0,0
+735,Petr Čech,2001-2002,19,Sparta Prague,GR2,1. Champions Lg,12,12,"1,080",13,1.08,44,31,.705,5,2,5
+736,Petr Čech,2004-2005,22,Chelsea,SF,1. Champions Lg,11,11,990,13,1.18,41,28,.683,6,1,4
+737,Petr Čech,2005-2006,23,Chelsea,R16,1. Champions Lg,7,7,630,4,0.57,23,19,.826,2,3,2
+738,Petr Čech,2006-2007,24,Chelsea,SF,1. Champions Lg,8,8,750,6,0.72,27,21,.778,5,2,1
+739,Petr Čech,2007-2008,25,Chelsea,F,1. Champions Lg,9,9,826,5,0.54,39,34,.872,4,6,0
+740,Petr Čech,2008-2009,26,Chelsea,SF,1. Champions Lg,12,12,"1,080",13,1.08,51,38,.745,5,6,1
+741,Petr Čech,2009-2010,27,Chelsea,R16,1. Champions Lg,6,6,512,4,0.70,26,22,.846,4,1,1
+742,Petr Čech,2010-2011,28,Chelsea,QF,1. Champions Lg,9,9,810,6,0.67,36,30,.833,5,1,3
+743,Petr Čech,2011-2012,29,Chelsea,W,1. Champions Lg,13,13,"1,230",12,0.88,70,58,.829,7,4,2
+744,Petr Čech,2012-2013,30,Chelsea,GR,1. Champions Lg,6,6,540,10,1.67,24,14,.583,3,1,2
+745,Petr Čech,2012-2013,30,Chelsea,W,2. Europa Lg,9,9,810,10,1.11,31,21,.677,6,1,2
+746,Petr Čech,2013-2014,31,Chelsea,SF,1. Champions Lg,10,10,828,7,0.76,31,24,.774,5,2,3
+747,Petr Čech,2014-2015,32,Chelsea,R16,1. Champions Lg,3,3,270,1,0.33,12,11,.917,2,1,0
+748,Petr Čech,2015-2016,33,Arsenal,R16,1. Champions Lg,5,5,450,7,1.40,32,25,.781,3,0,2
+749,Petr Čech,2017-2018,35,Arsenal,SF,2. Europa Lg,3,3,270,3,1.00,13,10,.769,2,1,0
+750,Petr Čech,2018-2019,36,Arsenal,F,2. Europa Lg,11,11,990,11,1.00,33,24,.697,7,1,3
+751,Gennaro Gattuso,1997-1998,19,Rangers,Rd1,3. UEFA Cup,2,2,136,1,,0,,1,0,0.66,
+752,Gennaro Gattuso,1998-1999,20,Rangers,Rd3,3. UEFA Cup,1,1,90,1,,0,,0,0,1.00,
+753,Gennaro Gattuso,1999-2000,21,Milan,GR1,1. Champions Lg,5,5,450,0,0,0,0,2,0,0.00,0.00
+754,Gennaro Gattuso,2000-2001,22,Milan,GR2,1. Champions Lg,8,8,712,0,0,0,0,4,0,0.00,0.00
+755,Gennaro Gattuso,2001-2002,23,Milan,SF,2. UEFA Cup,10,8,801,0,,0,,5,0,0.00,
+756,Gennaro Gattuso,2002-2003,24,Milan,W,1. Champions Lg,12,11,"1,052",0,0,0,0,5,0,0.00,0.00
+757,Gennaro Gattuso,2003-2004,25,Milan,QF,1. Champions Lg,8,8,629,1,0,0,0,2,1,0.14,0.00
+758,Gennaro Gattuso,2004-2005,26,Milan,F,1. Champions Lg,11,11,990,0,0,0,0,3,0,0.00,0.00
+759,Gennaro Gattuso,2005-2006,27,Milan,SF,1. Champions Lg,11,11,854,0,0,0,0,4,0,0.00,0.00
+760,Gennaro Gattuso,2006-2007,28,Milan,W,1. Champions Lg,11,10,867,0,0,0,0,3,0,0.00,0.00
+761,Gennaro Gattuso,2007-2008,29,Milan,R16,1. Champions Lg,8,8,720,0,0,0,0,2,0,0.00,0.00
+762,Gennaro Gattuso,2008-2009,30,Milan,R32,2. UEFA Cup,4,3,259,1,,0,,0,0,0.35,
+763,Gennaro Gattuso,2009-2010,31,Milan,R16,1. Champions Lg,1,0,32,0,0,0,0,0,0,0.00,0.00
+764,Gennaro Gattuso,2010-2011,32,Milan,R16,1. Champions Lg,5,5,413,0,1,0,0,3,0,0.00,0.22
+765,Thierry Henry,1995-1996,17,Monaco,Rd1,3. UEFA Cup,1,0,20,0,,0,,0,0,0.00,
+766,Thierry Henry,1996-1997,18,Monaco,SF,3. UEFA Cup,9,3,376,1,,0,,2,0,0.24,
+767,Thierry Henry,1997-1998,19,Monaco,SF,1. Champions Lg,9,5,570,7,,0,,0,0,1.11,
+768,Thierry Henry,1998-1999,20,Monaco,Rd3,3. UEFA Cup,5,2,218,0,,0,,0,0,0.00,
+769,Thierry Henry,1999-2000,21,Arsenal,GR1,1. Champions Lg,4,1,63,1,0,0,0,1,0,1.43,0.00
+770,Thierry Henry,1999-2000,21,Arsenal,F,2. UEFA Cup,8,7,592,7,,0,,1,1,1.06,
+771,Thierry Henry,2000-2001,22,Arsenal,QF,1. Champions Lg,14,14,"1,180",4,2,0,1,2,0,0.31,0.15
+772,Thierry Henry,2001-2002,23,Arsenal,GR2,1. Champions Lg,11,11,981,7,1,2,2,2,0,0.64,0.09
+773,Thierry Henry,2002-2003,24,Arsenal,GR2,1. Champions Lg,12,12,"1,022",7,3,0,0,0,0,0.62,0.26
+774,Thierry Henry,2003-2004,25,Arsenal,QF,1. Champions Lg,10,10,890,5,5,0,0,1,0,0.51,0.51
+775,Thierry Henry,2004-2005,26,Arsenal,R16,1. Champions Lg,8,8,720,5,0,1,1,1,0,0.62,0.00
+776,Thierry Henry,2005-2006,27,Arsenal,F,1. Champions Lg,11,10,932,5,2,0,0,2,0,0.48,0.19
+777,Thierry Henry,2006-2007,28,Arsenal,R16,1. Champions Lg,2,1,114,1,1,0,0,0,0,0.79,0.79
+778,Thierry Henry,2007-2008,29,Barcelona,SF,1. Champions Lg,10,7,714,3,2,0,0,1,0,0.38,0.25
+779,Thierry Henry,2008-2009,30,Barcelona,W,1. Champions Lg,10,9,702,5,3,0,0,1,0,0.64,0.38
+780,Thierry Henry,2009-2010,31,Barcelona,SF,1. Champions Lg,6,3,302,0,1,0,0,1,0,0.00,0.30
+781,Thierry Henry,2011-2012,33,Arsenal,R16,1. Champions Lg,1,0,44,0,0,0,0,0,0,0.00,0.00
+782,Clarence Seedorf,1992-1993,16,Ajax,QF,3. UEFA Cup,3,0,109,0,,0,,0,0,0.00,
+783,Clarence Seedorf,1994-1995,18,Ajax,W,1. Champions Lg,11,10,850,0,,0,,1,0,0.00,
+784,Clarence Seedorf,1997-1998,21,Real Madrid,W,,11,11,935,0,,0,,1,0,0.00,
+785,Clarence Seedorf,1998-1999,22,Real Madrid,QF,1. Champions Lg,8,8,644,3,,0,,1,0,0.42,
+786,Clarence Seedorf,1999-2000,23,Real Madrid,W,1. Champions Lg,6,3,371,0,1,0,0,1,0,0.00,0.24
+787,Clarence Seedorf,2000-2001,24,Inter,Rd4,1. Champions Lg,5,2,234,3,,0,,0,0,1.15,
+788,Clarence Seedorf,2001-2002,25,Inter,SF,2. UEFA Cup,10,6,576,0,,0,,1,0,0.00,
+789,Clarence Seedorf,2002-2003,26,Milan,W,2. UEFA Cup,14,12,"1,103",1,2,0,0,2,0,0.08,0.16
+790,Clarence Seedorf,2003-2004,27,Milan,QF,1. Champions Lg,8,8,621,0,0,0,0,0,0,0.00,0.00
+791,Clarence Seedorf,2004-2005,28,Milan,F,1. Champions Lg,12,10,881,1,1,0,0,1,0,0.10,0.10
+792,Clarence Seedorf,2005-2006,29,Milan,SF,1. Champions Lg,11,11,972,1,2,0,0,1,0,0.09,0.19
+793,Clarence Seedorf,2006-2007,30,Milan,W,1. Champions Lg,12,10,968,2,4,0,0,1,0,0.19,0.37
+794,Clarence Seedorf,2007-2008,31,Milan,R16,1. Champions Lg,7,7,527,2,1,0,0,0,0,0.34,0.17
+795,Clarence Seedorf,2008-2009,32,Milan,R32,1. Champions Lg,7,5,443,0,,0,,0,0,0.00,
+796,Clarence Seedorf,2009-2010,33,Milan,R16,2. UEFA Cup,8,6,557,1,3,0,0,1,0,0.16,0.48
+797,Clarence Seedorf,2010-2011,34,Milan,R16,1. Champions Lg,8,7,574,0,1,0,0,1,0,0.00,0.16
+798,Clarence Seedorf,2011-2012,35,Milan,QF,1. Champions Lg,8,7,524,0,2,0,0,2,0,0.00,0.34
+799,Fabio Cannavaro,1992-1993,18,Napoli,Rd2,3. UEFA Cup,0,0,,0,,,,0,0,,
+800,Fabio Cannavaro,1994-1995,20,Napoli,Rd3,3. UEFA Cup,3,3,223,0,,0,,1,1,0.00,
+801,Fabio Cannavaro,1996-1997,22,Parma,Rd1,,2,1,132,0,,0,,0,0,0.00,
+802,Fabio Cannavaro,1997-1998,23,Parma,GR,3. UEFA Cup,5,5,450,0,,0,,1,0,0.00,
+803,Fabio Cannavaro,1998-1999,24,Parma,W,1. Champions Lg,8,8,719,0,,0,,3,1,0.00,
+804,Fabio Cannavaro,1999-2000,25,Parma,Rd4,3. UEFA Cup,8,7,690,1,,0,,1,0,0.13,
+805,Fabio Cannavaro,2000-2001,26,Parma,Rd4,2. UEFA Cup,6,6,492,0,,0,,5,2,0.00,
+806,Fabio Cannavaro,2001-2002,27,Parma,Rd4,2. UEFA Cup,7,7,630,0,,0,,0,0,0.00,
+807,Fabio Cannavaro,2002-2003,28,Inter,SF,2. UEFA Cup,11,10,886,1,0,0,0,6,1,0.10,0.00
+808,Fabio Cannavaro,2003-2004,29,Inter,GR,1. Champions Lg,6,6,509,0,0,0,0,1,0,0.00,0.00
+809,Fabio Cannavaro,2003-2004,29,Inter,QF,1. Champions Lg,3,3,270,0,,0,,0,0,0.00,
+810,Fabio Cannavaro,2004-2005,30,Juventus,QF,2. UEFA Cup,9,8,756,1,0,0,0,2,0,0.12,0.00
+811,Fabio Cannavaro,2005-2006,31,Juventus,QF,1. Champions Lg,9,9,810,0,0,0,0,0,0,0.00,0.00
+812,Fabio Cannavaro,2006-2007,32,Real Madrid,R16,1. Champions Lg,6,6,540,0,0,0,0,2,0,0.00,0.00
+813,Fabio Cannavaro,2007-2008,33,Real Madrid,R16,1. Champions Lg,6,6,540,0,0,0,0,0,0,0.00,0.00
+814,Fabio Cannavaro,2008-2009,34,Real Madrid,R16,1. Champions Lg,7,7,604,0,0,0,0,1,0,0.00,0.00
+815,Fabio Cannavaro,2009-2010,35,Juventus,GR,1. Champions Lg,3,3,247,0,1,0,0,0,0,0.00,0.36
+816,Fabio Cannavaro,2009-2010,35,Juventus,R16,1. Champions Lg,2,2,117,0,0,0,0,0,1,0.00,0.00
+817,Michael Essien,2003-2004,20,Lyon,QF,1. Champions Lg,8,7,614,0,0,0,0,0,0,0.00,0.00
+818,Michael Essien,2004-2005,21,Lyon,QF,1. Champions Lg,10,10,930,5,0,0,0,0,0,0.48,0.00
+819,Michael Essien,2005-2006,22,Chelsea,R16,1. Champions Lg,6,6,539,0,1,0,0,0,0,0.00,0.17
+820,Michael Essien,2006-2007,23,Chelsea,SF,1. Champions Lg,10,10,930,2,0,0,0,3,0,0.19,0.00
+821,Michael Essien,2007-2008,24,Chelsea,F,1. Champions Lg,12,12,"1,038",0,2,0,0,4,0,0.00,0.17
+822,Michael Essien,2008-2009,25,Chelsea,SF,1. Champions Lg,5,5,426,2,0,0,0,1,0,0.42,0.00
+823,Michael Essien,2009-2010,26,Chelsea,R16,1. Champions Lg,6,5,377,1,1,0,0,2,0,0.24,0.24
+824,Michael Essien,2010-2011,27,Chelsea,QF,1. Champions Lg,8,7,636,1,2,0,0,1,0,0.14,0.28
+825,Michael Essien,2011-2012,28,Chelsea,W,1. Champions Lg,2,1,140,0,0,0,0,0,0,0.00,0.00
+826,Michael Essien,2012-2013,29,Real Madrid,SF,1. Champions Lg,7,6,488,0,1,0,0,2,0,0.00,0.18
+827,Michael Essien,2013-2014,30,Milan,R16,1. Champions Lg,2,2,159,0,0,0,0,0,0,0.00,0.00
+828,Wayne Rooney,2004-2005,18,Manchester Utd,R16,1. Champions Lg,6,6,529,3,1,0,0,0,0,0.51,0.17
+829,Wayne Rooney,2005-2006,19,Manchester Utd,GR,1. Champions Lg,4,4,334,0,0,0,0,2,1,0.00,0.00
+830,Wayne Rooney,2006-2007,20,Manchester Utd,SF,1. Champions Lg,12,12,"1,063",4,0,0,0,1,0,0.34,0.00
+831,Wayne Rooney,2007-2008,21,Manchester Utd,W,1. Champions Lg,11,11,865,4,1,0,0,1,0,0.42,0.10
+832,Wayne Rooney,2008-2009,22,Manchester Utd,F,1. Champions Lg,13,11,954,4,3,0,0,2,0,0.38,0.28
+833,Wayne Rooney,2009-2010,23,Manchester Utd,QF,1. Champions Lg,7,6,487,5,1,0,0,2,0,0.92,0.18
+834,Wayne Rooney,2010-2011,24,Manchester Utd,F,1. Champions Lg,9,9,803,4,2,1,1,0,0,0.45,0.22
+835,Wayne Rooney,2011-2012,25,Manchester Utd,GR,1. Champions Lg,4,4,360,2,0,2,2,1,0,0.50,0.00
+836,Wayne Rooney,2011-2012,25,Manchester Utd,R16,2. Europa Lg,3,3,270,3,1,1,1,0,0,1.00,0.33
+837,Wayne Rooney,2012-2013,26,Manchester Utd,R16,1. Champions Lg,6,5,461,1,3,1,1,0,0,0.20,0.59
+838,Wayne Rooney,2013-2014,27,Manchester Utd,QF,1. Champions Lg,9,9,767,2,6,0,0,0,0,0.23,0.70
+839,Wayne Rooney,2015-2016,29,Manchester Utd,GR,1. Champions Lg,4,4,360,1,0,0,0,0,0,0.25,0.00
+840,Wayne Rooney,2016-2017,30,Manchester Utd,W,2. Europa Lg,7,4,359,2,3,0,0,0,0,0.50,0.75
+841,Wayne Rooney,2017-2018,31,Everton,GR,2. Europa Lg,3,3,246,1,0,0,0,0,0,0.37,0.00
+842,Iker Casillas,1999-2000,18,Real Madrid,W,1. Champions Lg,12,12,"1,080",19,1.58,55,36,.655,9,3,3
+843,Iker Casillas,2000-2001,19,Real Madrid,SF,1. Champions Lg,11,11,990,15,1.36,47,32,.681,6,1,4
+844,Iker Casillas,2001-2002,20,Real Madrid,W,1. Champions Lg,9,8,743,7,0.85,41,34,.829,8,1,0
+845,Iker Casillas,2002-2003,21,Real Madrid,SF,1. Champions Lg,15,15,"1,350",21,1.40,74,53,.716,7,4,4
+846,Iker Casillas,2003-2004,22,Real Madrid,QF,1. Champions Lg,9,9,810,10,1.11,34,24,.706,6,2,1
+847,Iker Casillas,2004-2005,23,Real Madrid,R16,1. Champions Lg,8,8,750,10,1.20,46,36,.783,4,2,2
+848,Iker Casillas,2005-2006,24,Real Madrid,R16,1. Champions Lg,7,7,630,7,1.00,26,19,.731,3,2,2
+849,Iker Casillas,2006-2007,25,Real Madrid,R16,1. Champions Lg,7,7,630,10,1.43,34,24,.706,4,1,2
+850,Iker Casillas,2007-2008,26,Real Madrid,R16,1. Champions Lg,8,8,720,13,1.62,42,29,.690,3,2,3
+851,Iker Casillas,2008-2009,27,Real Madrid,R16,1. Champions Lg,7,7,630,10,1.43,33,23,.697,3,0,4
+852,Iker Casillas,2009-2010,28,Real Madrid,R16,1. Champions Lg,8,8,720,9,1.13,27,18,.667,4,2,2
+853,Iker Casillas,2010-2011,29,Real Madrid,SF,1. Champions Lg,11,11,990,6,0.55,31,25,.806,7,3,1
+854,Iker Casillas,2011-2012,30,Real Madrid,SF,1. Champions Lg,10,10,930,7,0.68,36,29,.806,8,1,1
+855,Iker Casillas,2012-2013,31,Real Madrid,SF,1. Champions Lg,5,5,450,8,1.60,26,18,.692,3,0,2
+856,Iker Casillas,2013-2014,32,Real Madrid,W,1. Champions Lg,13,13,"1,125",10,0.80,53,43,.811,11,1,1
+857,Iker Casillas,2014-2015,33,Real Madrid,SF,1. Champions Lg,10,10,900,9,0.90,40,31,.775,6,2,2
+858,Iker Casillas,2014-2015,33,Real Madrid,1st,Super Cup,1,1,90,,,,0,,1,0,0
+859,Iker Casillas,2015-2016,34,Porto,GR,1. Champions Lg,6,6,540,8,1.33,34,26,.765,3,1,2
+860,Iker Casillas,2015-2016,34,Porto,R32,2. Europa Lg,2,2,180,3,1.50,13,10,.769,0,0,2
+861,Iker Casillas,2016-2017,35,Porto,R16,1. Champions Lg,8,8,720,6,0.75,21,15,.762,3,2,3
+862,Iker Casillas,2017-2018,36,Porto,R16,1. Champions Lg,3,3,270,3,1.00,6,3,.500,1,1,1
+863,Iker Casillas,2018-2019,37,Porto,QF,1. Champions Lg,10,10,930,15,1.45,32,20,.625,6,1,3
+864,Rogério Ceni,2014,41,São Paulo,SF,2. Sudamericana,8,8,750,,,,0,,4,0,4
+865,Rogério Ceni,2015,42,São Paulo,R16,1. Libertadores,8,8,750,,,,0,,5,0,3
+866,Guillermo Ochoa,2018-2019,33,Standard Liège,GR,,6,6,540,9,1.50,29,21,.724,3,1,2
+867,Dimitar Berbatov,1999-2000,18,CSKA Sofia,Rd1,2. UEFA Cup,2,2,180,0,,0,,0,0,0.00,
+868,Dimitar Berbatov,2000-2001,19,CSKA Sofia,Rd1,2. UEFA Cup,2,2,180,0,,0,,0,0,0.00,
+869,Dimitar Berbatov,2001-2002,20,Leverkusen,F,1. Champions Lg,11,3,480,2,0,0,0,0,0,0.37,0.00
+870,Dimitar Berbatov,2002-2003,21,Leverkusen,GR2,1. Champions Lg,7,5,456,2,0,0,0,0,0,0.39,0.00
+871,Dimitar Berbatov,2004-2005,23,Leverkusen,R16,1. Champions Lg,8,8,682,3,0,0,0,0,0,0.40,0.00
+872,Dimitar Berbatov,2005-2006,24,Leverkusen,Rd1,2. UEFA Cup,2,2,180,0,,0,,0,0,0.00,
+873,Dimitar Berbatov,2006-2007,25,Tottenham,QF,2. UEFA Cup,8,8,697,7,,0,,2,0,0.90,
+874,Dimitar Berbatov,2007-2008,26,Tottenham,R16,2. UEFA Cup,8,7,631,5,,1,,2,0,0.71,
+875,Dimitar Berbatov,2008-2009,27,Manchester Utd,F,1. Champions Lg,9,5,513,4,0,0,0,0,0,0.70,0.00
+876,Dimitar Berbatov,2009-2010,28,Manchester Utd,QF,1. Champions Lg,6,1,241,0,1,0,0,1,0,0.00,0.37
+877,Dimitar Berbatov,2010-2011,29,Manchester Utd,F,1. Champions Lg,7,6,520,0,1,0,0,0,0,0.00,0.17
+878,Dimitar Berbatov,2011-2012,30,Manchester Utd,GR,1. Champions Lg,3,2,188,1,0,0,0,0,0,0.48,0.00
+879,Dimitar Berbatov,2011-2012,30,Manchester Utd,R16,2. Europa Lg,1,1,71,0,1,0,0,0,0,0.00,1.27
+880,Dimitar Berbatov,2014-2015,33,Monaco,QF,,9,7,531,1,1,0,0,0,0,0.17,0.17
+881,Dimitar Berbatov,2015-2016,34,PAOK,GR,1. Champions Lg,5,3,295,0,0,0,0,0,0,0.00,0.00
+882,Samuel Eto'o,2001-2002,20,Mallorca,GR1,1. Champions Lg,5,5,385,1,1,0,0,1,1,0.23,0.23
+883,Samuel Eto'o,2001-2002,20,Mallorca,Rd3,2. UEFA Cup,2,2,180,1,,1,,1,0,0.50,
+884,Samuel Eto'o,2003-2004,22,Mallorca,Rd4,2. UEFA Cup,7,5,439,4,,0,,0,0,0.82,
+885,Samuel Eto'o,2004-2005,23,Barcelona,R16,1. Champions Lg,7,7,593,4,2,0,0,0,0,0.61,0.30
+886,Samuel Eto'o,2005-2006,24,Barcelona,W,1. Champions Lg,11,11,978,6,0,0,0,1,0,0.55,0.00
+887,Samuel Eto'o,2006-2007,25,Barcelona,R16,1. Champions Lg,3,3,216,1,3,0,0,0,0,0.42,1.25
+888,Samuel Eto'o,2007-2008,26,Barcelona,SF,1. Champions Lg,7,6,504,1,0,0,0,0,0,0.18,0.00
+889,Samuel Eto'o,2008-2009,27,Barcelona,W,1. Champions Lg,10,9,780,4,2,1,1,1,0,0.46,0.23
+890,Samuel Eto'o,2009-2010,28,Inter,W,1. Champions Lg,13,13,"1,144",2,2,0,0,2,0,0.16,0.16
+891,Samuel Eto'o,2010-2011,29,Inter,QF,1. Champions Lg,10,10,900,8,5,1,1,0,0,0.80,0.50
+892,Samuel Eto'o,2012-2013,31,Anzhi,R16,,10,10,900,4,1,1,2,1,0,0.40,0.10
+893,Samuel Eto'o,2013-2014,32,Chelsea,SF,2. Europa Lg,9,5,524,3,1,0,0,0,0,0.52,0.17
+894,Samuel Eto'o,2014-2015,33,Everton,R16,1. Champions Lg,4,3,273,1,1,0,0,0,0,0.33,0.33
+895,Ryan Giggs,1992-1993,18,Manchester Utd,Rd1,3. UEFA Cup,1,1,120,0,,,,0,0,0.00,
+896,Ryan Giggs,1993-1994,19,Manchester Utd,R16,1. Champions Lg,4,4,355,0,,0,,0,0,0.00,
+897,Ryan Giggs,1994-1995,20,Manchester Utd,GR,1. Champions Lg,3,3,233,2,,0,,0,0,0.77,
+898,Ryan Giggs,1995-1996,21,Manchester Utd,Rd1,3. UEFA Cup,2,2,180,0,,0,,0,0,0.00,
+899,Ryan Giggs,1996-1997,22,Manchester Utd,SF,1. Champions Lg,7,6,522,2,,0,,0,0,0.34,
+900,Ryan Giggs,1997-1998,23,Manchester Utd,QF,1. Champions Lg,5,5,435,1,,0,,1,0,0.21,
+901,Ryan Giggs,1998-1999,24,Manchester Utd,W,1. Champions Lg,7,7,581,4,,0,,0,0,0.62,
+902,Ryan Giggs,1999-2000,25,Manchester Utd,QF,1. Champions Lg,11,11,987,1,2,0,0,2,0,0.09,0.18
+903,Ryan Giggs,2000-2001,26,Manchester Utd,QF,1. Champions Lg,11,9,680,2,3,0,0,0,0,0.26,0.40
+904,Ryan Giggs,2001-2002,27,Manchester Utd,SF,1. Champions Lg,13,13,"1,153",2,4,0,0,2,0,0.16,0.31
+905,Ryan Giggs,2002-2003,28,Manchester Utd,QF,1. Champions Lg,13,11,965,5,3,0,0,0,0,0.47,0.28
+906,Ryan Giggs,2003-2004,29,Manchester Utd,R16,1. Champions Lg,8,8,679,1,5,0,0,0,0,0.13,0.66
+907,Ryan Giggs,2004-2005,30,Manchester Utd,R16,1. Champions Lg,6,6,469,1,1,0,0,0,0,0.19,0.19
+908,Ryan Giggs,2005-2006,31,Manchester Utd,GR,1. Champions Lg,4,3,244,1,0,0,0,0,0,0.37,0.00
+909,Ryan Giggs,2006-2007,32,Manchester Utd,SF,1. Champions Lg,8,8,604,2,6,0,0,1,0,0.30,0.89
+910,Ryan Giggs,2007-2008,33,Manchester Utd,W,1. Champions Lg,9,4,401,0,2,0,0,0,0,0.00,0.45
+911,Ryan Giggs,2008-2009,34,Manchester Utd,F,1. Champions Lg,11,6,646,1,3,0,0,0,0,0.14,0.42
+912,Ryan Giggs,2009-2010,35,Manchester Utd,QF,1. Champions Lg,3,1,107,1,1,0,0,0,0,0.84,0.84
+913,Ryan Giggs,2010-2011,36,Manchester Utd,F,1. Champions Lg,8,6,576,1,5,0,0,1,0,0.16,0.78
+914,Ryan Giggs,2011-2012,37,Manchester Utd,GR,1. Champions Lg,3,3,241,1,2,0,0,0,0,0.37,0.75
+915,Ryan Giggs,2011-2012,37,Manchester Utd,R16,2. Europa Lg,2,2,141,0,0,0,0,0,0,0.00,0.00
+916,Ryan Giggs,2012-2013,38,Manchester Utd,R16,1. Champions Lg,5,3,302,0,1,0,0,0,0,0.00,0.30
+917,Ryan Giggs,2013-2014,39,Manchester Utd,QF,1. Champions Lg,7,6,493,0,1,0,0,0,0,0.00,0.18
+918,Carlos Tevez,2006-2007,22,West Ham,Rd1,2. UEFA Cup,2,2,167,0,,0,,0,0,0.00,
+919,Carlos Tevez,2007-2008,23,Manchester Utd,W,1. Champions Lg,12,6,648,4,1,0,0,1,0,0.56,0.14
+920,Carlos Tevez,2008-2009,24,Manchester Utd,F,1. Champions Lg,9,4,437,2,1,0,0,2,0,0.41,0.21
+921,Carlos Tevez,2010-2011,26,Manchester City,R16,2. Europa Lg,6,5,461,0,1,0,0,2,0,0.00,0.20
+922,Carlos Tevez,2011-2012,27,Manchester City,GR,1. Champions Lg,1,0,9,0,0,0,0,0,0,0.00,0.00
+923,Carlos Tevez,2012-2013,28,Manchester City,GR,1. Champions Lg,5,3,295,0,0,0,0,0,0,0.00,0.00
+924,Carlos Tevez,2013-2014,29,Juventus,GR,1. Champions Lg,6,6,523,0,0,0,0,1,0,0.00,0.00
+925,Carlos Tevez,2013-2014,29,Juventus,SF,2. Europa Lg,6,6,485,1,0,0,2,1,0,0.19,0.00
+926,Carlos Tevez,2014-2015,30,Juventus,F,1. Champions Lg,13,13,"1,156",7,3,1,1,4,0,0.54,0.23
+927,Carlos Tevez,2016,31,Boca Juniors,SF,,12,12,"1,102",5,2,1,1,3,0,0.41,0.16
+928,Carlos Tevez,2018,33,Boca Juniors,F,1. Libertadores,10,4,436,3,0,0,0,2,0,0.62,0.00
+929,Carlos Tevez,2019,34,Boca Juniors,SF,,9,6,555,1,2,0,0,2,0,0.16,0.32
+930,Carlos Tevez,2020,35,Boca Juniors,SF,1. Libertadores,11,11,936,3,0,0,0,2,0,0.29,0.00
+931,Robin van Persie,2001-2002,17,Feyenoord,W,2. UEFA Cup,7,6,466,0,,0,,2,0,0.00,
+932,Robin van Persie,2002-2003,18,Feyenoord,GR1,1. Champions Lg,2,1,69,0,0,0,0,0,0,0.00,0.00
+933,Robin van Persie,2003-2004,19,Feyenoord,Rd2,2. UEFA Cup,3,2,198,0,,0,,0,0,0.00,
+934,Robin van Persie,2004-2005,20,Arsenal,R16,1. Champions Lg,6,0,77,1,0,0,0,0,0,1.17,0.00
+935,Robin van Persie,2005-2006,21,Arsenal,F,1. Champions Lg,7,3,273,2,0,0,0,1,1,0.66,0.00
+936,Robin van Persie,2006-2007,22,Arsenal,R16,1. Champions Lg,6,5,374,1,1,0,0,0,0,0.24,0.24
+937,Robin van Persie,2007-2008,23,Arsenal,QF,1. Champions Lg,5,4,305,2,2,0,0,0,0,0.59,0.59
+938,Robin van Persie,2008-2009,24,Arsenal,SF,1. Champions Lg,8,8,695,5,2,3,3,2,0,0.65,0.26
+939,Robin van Persie,2009-2010,25,Arsenal,QF,1. Champions Lg,3,3,227,1,1,0,0,2,0,0.40,0.40
+940,Robin van Persie,2010-2011,26,Arsenal,R16,1. Champions Lg,3,3,236,2,0,1,1,1,1,0.76,0.00
+941,Robin van Persie,2011-2012,27,Arsenal,R16,1. Champions Lg,7,5,494,4,0,1,1,0,0,0.73,0.00
+942,Robin van Persie,2012-2013,28,Manchester Utd,R16,1. Champions Lg,6,5,464,3,0,0,0,2,0,0.58,0.00
+943,Robin van Persie,2013-2014,29,Manchester Utd,QF,1. Champions Lg,6,4,414,4,1,1,2,1,0,0.87,0.22
+944,Robin van Persie,2015-2016,31,Fenerbahçe,R16,2. Europa Lg,9,8,651,0,0,0,0,2,0,0.00,0.00
+945,Robin van Persie,2016-2017,32,Fenerbahçe,R32,2. Europa Lg,5,3,300,1,0,0,0,0,0,0.30,0.00
+946,Eric Abidal,2000-2001,20,Monaco,GR1,1. Champions Lg,1,1,90,0,0,0,0,0,0,0.00,0.00
+947,Eric Abidal,2004-2005,24,Lyon,QF,,7,7,660,0,0,0,0,1,0,0.00,0.00
+948,Eric Abidal,2005-2006,25,Lyon,QF,1. Champions Lg,6,6,540,0,0,0,0,0,0,0.00,0.00
+949,Eric Abidal,2006-2007,26,Lyon,R16,1. Champions Lg,7,7,595,0,0,0,0,0,0,0.00,0.00
+950,Eric Abidal,2007-2008,27,Barcelona,SF,1. Champions Lg,10,10,900,0,0,0,0,1,0,0.00,0.00
+951,Eric Abidal,2008-2009,28,Barcelona,W,1. Champions Lg,3,3,246,0,0,0,0,0,1,0.00,0.00
+952,Eric Abidal,2009-2010,29,Barcelona,SF,1. Champions Lg,8,7,620,0,1,0,0,0,0,0.00,0.15
+953,Eric Abidal,2010-2011,30,Barcelona,W,1. Champions Lg,8,6,560,0,1,0,0,0,0,0.00,0.16
+954,Eric Abidal,2011-2012,31,Barcelona,SF,1. Champions Lg,6,6,494,0,0,0,0,1,0,0.00,0.00
+955,Eric Abidal,2014-2015,34,Olympiacos,GR,1. Champions Lg,6,6,540,0,0,0,0,0,0,0.00,0.00
+956,David Beckham,1992-1993,17,Manchester Utd,Rd1,3. UEFA Cup,0,0,,0,,,,0,0,,
+957,David Beckham,1994-1995,19,Manchester Utd,GR,1. Champions Lg,1,1,90,1,,0,,0,0,1.00,
+958,David Beckham,1995-1996,20,Manchester Utd,Rd1,3. UEFA Cup,2,2,173,0,,0,,0,0,0.00,
+959,David Beckham,1996-1997,21,Manchester Utd,SF,1. Champions Lg,10,10,891,2,,0,,1,0,0.20,
+960,David Beckham,1997-1998,22,Manchester Utd,QF,1. Champions Lg,8,8,704,0,,0,,0,0,0.00,
+961,David Beckham,1998-1999,23,Manchester Utd,W,1. Champions Lg,10,10,891,2,,0,,1,0,0.20,
+962,David Beckham,1999-2000,24,Manchester Utd,QF,1. Champions Lg,12,12,"1,080",2,5,0,0,5,0,0.17,0.42
+963,David Beckham,2000-2001,25,Manchester Utd,QF,1. Champions Lg,12,11,987,0,4,0,0,3,0,0.00,0.36
+964,David Beckham,2001-2002,26,Manchester Utd,SF,1. Champions Lg,13,13,"1,098",5,4,1,1,4,0,0.41,0.33
+965,David Beckham,2002-2003,27,Manchester Utd,QF,1. Champions Lg,11,8,733,2,4,0,0,0,0,0.25,0.49
+966,David Beckham,2003-2004,28,Real Madrid,QF,1. Champions Lg,7,7,630,1,2,0,0,3,0,0.14,0.29
+967,David Beckham,2004-2005,29,Real Madrid,R16,1. Champions Lg,6,6,491,0,2,0,0,0,0,0.00,0.37
+968,David Beckham,2005-2006,30,Real Madrid,R16,1. Champions Lg,7,7,630,1,4,0,0,1,0,0.14,0.57
+969,David Beckham,2006-2007,31,Real Madrid,R16,1. Champions Lg,6,3,330,0,0,0,0,0,0,0.00,0.00
+970,David Beckham,2008-2009,33,Milan,R32,,2,1,91,0,,0,,0,0,0.00,
+971,David Beckham,2009-2010,34,Milan,R16,2. UEFA Cup,2,1,98,0,0,0,0,0,0,0.00,0.00
+972,David Beckham,2012-2013,37,Paris S-G,QF,1. Champions Lg,2,1,77,0,0,0,0,2,0,0.00,0.00
+973,Deco,1999-2000,21,Porto,QF,1. Champions Lg,11,11,895,3,3,0,0,3,0,0.30,0.30
+974,Deco,2000-2001,22,Porto,QF,2. UEFA Cup,10,8,742,0,,0,,2,0,0.00,
+975,Deco,2001-2002,23,Porto,GR2,1. Champions Lg,12,12,"1,037",2,2,0,0,1,0,0.17,0.17
+976,Deco,2002-2003,24,Porto,W,2. UEFA Cup,12,12,"1,064",1,,0,,2,0,0.08,
+977,Deco,2003-2004,25,Porto,W,1. Champions Lg,12,12,"1,060",0,4,0,0,4,0,0.00,0.34
+978,Deco,2004-2005,26,Barcelona,R16,1. Champions Lg,7,7,630,2,1,0,0,0,0,0.29,0.14
+979,Deco,2005-2006,27,Barcelona,W,1. Champions Lg,11,11,969,2,0,0,0,3,0,0.19,0.00
+980,Deco,2006-2007,28,Barcelona,R16,1. Champions Lg,8,8,720,2,3,0,0,1,0,0.25,0.37
+981,Deco,2007-2008,29,Barcelona,SF,1. Champions Lg,6,6,503,0,1,0,0,2,0,0.00,0.18
+982,Deco,2008-2009,30,Chelsea,SF,1. Champions Lg,4,4,322,0,1,0,0,2,1,0.00,0.28
+983,Deco,2009-2010,31,Chelsea,R16,1. Champions Lg,4,2,208,0,0,0,0,0,0,0.00,0.00
+984,Mahamadou Diarra,1999-2000,18,Vitesse,Rd2,2. UEFA Cup,1,0,31,0,,0,,0,0,0.00,
+985,Mahamadou Diarra,2000-2001,19,Vitesse,Rd2,2. UEFA Cup,2,2,118,0,,0,,0,0,0.00,
+986,Mahamadou Diarra,2002-2003,21,Lyon,GR1,1. Champions Lg,5,4,371,0,1,0,0,1,0,0.00,0.24
+987,Mahamadou Diarra,2002-2003,21,Lyon,Rd3,2. UEFA Cup,2,2,180,0,,0,,1,0,0.00,
+988,Mahamadou Diarra,2003-2004,22,Lyon,QF,1. Champions Lg,10,10,884,0,0,0,0,1,0,0.00,0.00
+989,Mahamadou Diarra,2004-2005,23,Lyon,QF,1. Champions Lg,9,9,840,2,0,0,0,2,0,0.21,0.00
+990,Mahamadou Diarra,2005-2006,24,Lyon,QF,1. Champions Lg,9,9,810,2,0,0,0,2,0,0.22,0.00
+991,Mahamadou Diarra,2006-2007,25,Real Madrid,R16,1. Champions Lg,7,7,590,1,1,0,0,2,1,0.15,0.15
+992,Mahamadou Diarra,2007-2008,26,Real Madrid,R16,1. Champions Lg,6,6,500,0,0,0,0,2,0,0.00,0.00
+993,Mahamadou Diarra,2008-2009,27,Real Madrid,R16,1. Champions Lg,3,2,234,0,0,0,0,0,0,0.00,0.00
+994,Mahamadou Diarra,2009-2010,28,Real Madrid,R16,1. Champions Lg,3,2,108,0,0,0,0,0,0,0.00,0.00
+995,Mahamadou Diarra,2010-2011,29,Real Madrid,SF,1. Champions Lg,2,1,94,0,0,0,0,1,0,0.00,0.00
+996,Diego,2007-2008,21,Villarreal,R32,2. UEFA Cup,7,7,630,0,,0,,0,0,0.00,
+997,Diego,2008-2009,22,Villarreal,QF,1. Champions Lg,7,7,630,0,0,0,0,2,0,0.00,0.00
+998,Diego,2009-2010,23,Villarreal,R32,2. Europa Lg,4,4,316,0,0,0,0,0,0,0.00,0.00
+999,Diego,2010-2011,24,Atlético Madrid,GR,2. Europa Lg,3,3,270,1,0,0,0,0,0,0.33,0.00
+1000,Diego,2011-2012,25,Atlético Madrid,W,2. Europa Lg,13,13,"1,170",1,0,0,0,3,0,0.08,0.00
+1001,Diego,2012-2013,26,Atlético Madrid,R32,2. Europa Lg,1,1,90,0,0,0,0,0,0,0.00,0.00
+1002,Diego,2013-2014,27,Atlético Madrid,F,1. Champions Lg,10,10,930,2,0,0,0,2,0,0.19,0.00
+1003,Diego,2014-2015,28,Atlético Madrid,QF,1. Champions Lg,9,9,810,1,0,0,0,3,0,0.11,0.00
+1004,Diego,2015-2016,29,Atlético Madrid,F,1. Champions Lg,12,12,"1,109",0,1,0,0,2,0,0.00,0.08
+1005,Diego,2016-2017,30,Atlético Madrid,SF,1. Champions Lg,11,11,990,0,0,0,0,2,0,0.00,0.00
+1006,Diego,2017-2018,31,Atlético Madrid,GR,1. Champions Lg,4,4,360,0,0,0,0,0,0,0.00,0.00
+1007,Diego,2017-2018,31,Atlético Madrid,W,2. Europa Lg,8,8,720,0,0,0,0,0,0,0.00,0.00
+1008,Diego,2018-2019,32,Atlético Madrid,R16,1. Champions Lg,6,6,540,1,0,0,0,1,0,0.17,0.00
+1009,Diego,2018-2019,32,Atlético Madrid,1st,Super Cup,1,1,120,0,1,0,0,0,0,0.00,0.75
+1010,Diego,2019-2020,33,Inter,GR,1. Champions Lg,5,5,450,0,0,0,0,2,0,0.00,0.00
+1011,Diego,2019-2020,33,Inter,F,2. Europa Lg,6,6,539,1,0,0,0,0,0,0.17,0.00
+1012,Miroslav Klose,2000-2001,22,Kaiserslautern,SF,2. UEFA Cup,12,9,853,2,,0,,2,0,0.21,
+1013,Miroslav Klose,2003-2004,25,Kaiserslautern,Rd1,2. UEFA Cup,2,2,146,1,,0,,1,0,0.62,
+1014,Miroslav Klose,2004-2005,26,Werder Bremen,R16,1. Champions Lg,8,7,564,2,0,0,0,1,0,0.32,0.00
+1015,Miroslav Klose,2005-2006,27,Werder Bremen,R16,1. Champions Lg,9,9,743,3,0,0,0,1,1,0.36,0.00
+1016,Miroslav Klose,2006-2007,28,Werder Bremen,GR,1. Champions Lg,6,6,530,0,0,0,0,0,0,0.00,0.00
+1017,Miroslav Klose,2006-2007,28,Werder Bremen,SF,2. UEFA Cup,7,7,512,2,,0,,2,2,0.35,
+1018,Miroslav Klose,2007-2008,29,Bayern Munich,SF,2. UEFA Cup,12,9,827,5,,0,,0,0,0.54,
+1019,Miroslav Klose,2008-2009,30,Bayern Munich,QF,1. Champions Lg,8,8,657,7,3,1,1,1,0,0.96,0.41
+1020,Miroslav Klose,2009-2010,31,Bayern Munich,F,1. Champions Lg,8,3,322,1,0,0,0,1,0,0.28,0.00
+1021,Miroslav Klose,2010-2011,32,Bayern Munich,R16,1. Champions Lg,2,1,100,1,0,0,0,0,0,0.90,0.00
+1022,Miroslav Klose,2011-2012,33,Lazio,R32,2. Europa Lg,5,4,277,2,0,0,0,0,0,0.65,0.00
+1023,Miroslav Klose,2012-2013,34,Lazio,QF,2. Europa Lg,4,1,156,0,0,0,0,1,0,0.00,0.00
+1024,Miroslav Klose,2013-2014,35,Lazio,R32,2. Europa Lg,3,1,111,1,0,0,0,0,0,0.81,0.00
+1025,Miroslav Klose,2015-2016,37,Lazio,R16,,4,2,164,1,0,0,0,0,0,0.55,0.00
+1026,Florent Malouda,2003-2004,23,Lyon,QF,1. Champions Lg,10,7,704,0,2,0,0,2,0,0.00,0.26
+1027,Florent Malouda,2004-2005,24,Lyon,QF,1. Champions Lg,10,9,836,3,2,0,0,1,0,0.32,0.22
+1028,Florent Malouda,2005-2006,25,Lyon,QF,1. Champions Lg,9,9,772,0,0,0,0,0,0,0.00,0.00
+1029,Florent Malouda,2006-2007,26,Lyon,R16,1. Champions Lg,7,7,630,2,0,0,0,3,0,0.29,0.00
+1030,Florent Malouda,2007-2008,27,Chelsea,F,1. Champions Lg,11,9,757,1,2,0,0,0,0,0.12,0.24
+1031,Florent Malouda,2008-2009,28,Chelsea,SF,1. Champions Lg,10,9,718,1,2,0,0,1,0,0.13,0.25
+1032,Florent Malouda,2009-2010,29,Chelsea,R16,1. Champions Lg,8,7,645,0,3,0,0,2,0,0.00,0.42
+1033,Florent Malouda,2010-2011,30,Chelsea,QF,1. Champions Lg,9,7,650,1,1,0,0,2,0,0.14,0.14
+1034,Florent Malouda,2011-2012,31,Chelsea,W,1. Champions Lg,9,5,533,0,2,0,0,1,0,0.00,0.34
+1035,Florent Malouda,2013-2014,33,Trabzonspor,R32,2. Europa Lg,7,7,604,1,2,0,0,1,0,0.15,0.30
+1036,Shunsuke Nakamura,2006-2007,28,Celtic,R16,1. Champions Lg,8,7,663,2,3,0,0,1,0,0.27,0.41
+1037,Shunsuke Nakamura,2007-2008,29,Celtic,R16,1. Champions Lg,4,3,251,0,0,0,0,0,0,0.00,0.00
+1038,Shunsuke Nakamura,2008-2009,30,Celtic,GR,1. Champions Lg,5,5,407,0,0,0,0,0,0,0.00,0.00
+1039,Ricardo Quaresma,2001-2002,17,Sporting CP,Rd3,2. UEFA Cup,2,0,38,0,,0,,0,0,0.00,
+1040,Ricardo Quaresma,2002-2003,18,Sporting CP,Rd1,2. UEFA Cup,2,2,210,0,,0,,2,0,0.00,
+1041,Ricardo Quaresma,2003-2004,19,Barcelona,Rd4,2. UEFA Cup,4,3,224,0,,0,,0,0,0.00,
+1042,Ricardo Quaresma,2004-2005,20,Porto,R16,1. Champions Lg,8,5,466,0,1,0,0,1,0,0.00,0.19
+1043,Ricardo Quaresma,2005-2006,21,Porto,GR,1. Champions Lg,6,5,449,0,1,0,0,2,0,0.00,0.20
+1044,Ricardo Quaresma,2006-2007,22,Porto,R16,1. Champions Lg,8,8,679,2,1,0,0,2,0,0.27,0.13
+1045,Ricardo Quaresma,2007-2008,23,Porto,R16,1. Champions Lg,8,8,750,1,1,0,0,2,0,0.12,0.12
+1046,Ricardo Quaresma,2008-2009,24,Inter,R16,1. Champions Lg,6,3,331,0,0,0,0,0,0,0.00,0.00
+1047,Ricardo Quaresma,2009-2010,25,Inter,W,1. Champions Lg,2,0,35,0,0,0,0,0,0,0.00,0.00
+1048,Ricardo Quaresma,2010-2011,26,Beşiktaş,R32,2. Europa Lg,4,3,221,2,0,0,0,1,1,0.81,0.00
+1049,Ricardo Quaresma,2011-2012,27,Beşiktaş,R16,2. Europa Lg,8,8,648,2,2,0,0,2,0,0.28,0.28
+1050,Ricardo Quaresma,2013-2014,29,Porto,QF,2. Europa Lg,6,6,531,3,2,0,0,1,0,0.51,0.34
+1051,Ricardo Quaresma,2014-2015,30,Porto,QF,1. Champions Lg,9,5,470,3,0,1,1,1,0,0.57,0.00
+1052,Ricardo Quaresma,2015-2016,31,Beşiktaş,GR,2. Europa Lg,6,4,416,1,2,0,0,1,0,0.22,0.43
+1053,Ricardo Quaresma,2016-2017,32,Beşiktaş,GR,1. Champions Lg,6,6,520,3,2,2,2,0,0,0.52,0.35
+1054,Ricardo Quaresma,2016-2017,32,Beşiktaş,QF,2. Europa Lg,5,5,441,0,1,0,0,0,0,0.00,0.20
+1055,Ricardo Quaresma,2017-2018,33,Beşiktaş,R16,1. Champions Lg,7,7,613,0,3,0,0,2,0,0.00,0.44
+1056,Ricardo Quaresma,2018-2019,34,Beşiktaş,GR,2. Europa Lg,4,3,265,1,0,0,0,0,1,0.34,0.00
+1057,Raúl,1995-1996,18,Real Madrid,QF,1. Champions Lg,8,8,720,6,,0,,0,0,0.75,
+1058,Raúl,1997-1998,20,Real Madrid,W,1. Champions Lg,11,11,925,2,,0,,1,0,0.19,
+1059,Raúl,1998-1999,21,Real Madrid,QF,1. Champions Lg,8,8,711,3,,0,,1,0,0.38,
+1060,Raúl,1999-2000,22,Real Madrid,W,1. Champions Lg,15,15,"1,350",10,4,1,1,2,0,0.67,0.27
+1061,Raúl,2000-2001,23,Real Madrid,SF,1. Champions Lg,9,9,725,7,2,0,0,0,0,0.87,0.25
+1062,Raúl,2001-2002,24,Real Madrid,W,1. Champions Lg,12,12,"1,080",6,3,0,0,3,0,0.50,0.25
+1063,Raúl,2002-2003,25,Real Madrid,SF,1. Champions Lg,12,12,"1,057",9,6,0,0,0,0,0.77,0.51
+1064,Raúl,2003-2004,26,Real Madrid,QF,1. Champions Lg,9,8,727,2,1,0,0,1,0,0.25,0.12
+1065,Raúl,2004-2005,27,Real Madrid,R16,1. Champions Lg,8,8,718,4,0,0,0,1,0,0.50,0.00
+1066,Raúl,2005-2006,28,Real Madrid,R16,1. Champions Lg,6,5,460,2,0,0,0,0,0,0.39,0.00
+1067,Raúl,2006-2007,29,Real Madrid,R16,1. Champions Lg,7,7,603,5,0,0,0,1,0,0.75,0.00
+1068,Raúl,2007-2008,30,Real Madrid,R16,1. Champions Lg,8,8,696,5,2,0,0,0,0,0.65,0.26
+1069,Raúl,2008-2009,31,Real Madrid,R16,1. Champions Lg,7,7,597,3,1,0,0,0,0,0.45,0.15
+1070,Raúl,2009-2010,32,Real Madrid,R16,1. Champions Lg,7,3,308,2,2,0,0,1,0,0.58,0.58
+1071,Raúl,2010-2011,33,Schalke 04,SF,1. Champions Lg,12,12,"1,077",5,2,0,0,2,0,0.42,0.17
+1072,Raúl,2011-2012,34,Schalke 04,QF,2. Europa Lg,10,10,864,4,1,0,0,0,0,0.42,0.10
+1073,Paul Scholes,1994-1995,19,Manchester Utd,GR,1. Champions Lg,2,0,34,0,,0,,0,0,0.00,
+1074,Paul Scholes,1995-1996,20,Manchester Utd,Rd1,3. UEFA Cup,2,1,136,1,,0,,0,0,0.66,
+1075,Paul Scholes,1996-1997,21,Manchester Utd,SF,1. Champions Lg,4,1,97,0,,0,,0,0,0.00,
+1076,Paul Scholes,1997-1998,22,Manchester Utd,QF,1. Champions Lg,7,6,534,2,,0,,1,0,0.34,
+1077,Paul Scholes,1998-1999,23,Manchester Utd,W,1. Champions Lg,10,8,732,4,,0,,3,0,0.49,
+1078,Paul Scholes,1999-2000,24,Manchester Utd,QF,1. Champions Lg,11,11,938,3,1,1,1,4,0,0.29,0.10
+1079,Paul Scholes,2000-2001,25,Manchester Utd,QF,1. Champions Lg,12,12,"1,042",6,1,1,1,4,0,0.52,0.09
+1080,Paul Scholes,2001-2002,26,Manchester Utd,SF,1. Champions Lg,13,13,"1,095",1,0,0,0,4,0,0.08,0.00
+1081,Paul Scholes,2002-2003,27,Manchester Utd,QF,1. Champions Lg,9,8,713,1,3,0,0,4,0,0.13,0.38
+1082,Paul Scholes,2003-2004,28,Manchester Utd,R16,1. Champions Lg,5,5,439,1,0,0,0,3,0,0.21,0.00
+1083,Paul Scholes,2004-2005,29,Manchester Utd,R16,1. Champions Lg,6,6,519,0,0,0,0,1,0,0.00,0.00
+1084,Paul Scholes,2005-2006,30,Manchester Utd,GR,1. Champions Lg,5,5,423,1,0,0,0,2,1,0.21,0.00
+1085,Paul Scholes,2006-2007,31,Manchester Utd,SF,1. Champions Lg,11,10,828,1,1,0,0,3,1,0.11,0.11
+1086,Paul Scholes,2007-2008,32,Manchester Utd,W,1. Champions Lg,7,7,589,1,1,0,0,1,0,0.15,0.15
+1087,Paul Scholes,2008-2009,33,Manchester Utd,F,1. Champions Lg,6,3,229,0,0,0,0,1,0,0.00,0.00
+1088,Paul Scholes,2009-2010,34,Manchester Utd,QF,1. Champions Lg,7,7,594,3,1,0,0,2,0,0.45,0.15
+1089,Paul Scholes,2010-2011,35,Manchester Utd,F,1. Champions Lg,7,4,368,0,1,0,0,1,0,0.00,0.24
+1090,Paul Scholes,2011-2012,36,Manchester Utd,R16,2. Europa Lg,2,0,59,0,0,0,0,0,0,0.00,0.00
+1091,Paul Scholes,2012-2013,37,Manchester Utd,R16,1. Champions Lg,2,1,124,0,0,0,0,1,0,0.00,0.00
+1092,Luca Toni,2007-2008,30,Bayern Munich,SF,2. UEFA Cup,11,10,857,10,,0,,6,0,1.05,
+1093,Luca Toni,2008-2009,31,Bayern Munich,QF,1. Champions Lg,8,8,680,3,3,0,0,0,0,0.40,0.40
+1094,Luca Toni,2009-2010,32,Bayern Munich,F,1. Champions Lg,2,2,168,0,0,0,0,0,0,0.00,0.00
+1095,Kolo Touré,2002-2003,21,Arsenal,GR2,1. Champions Lg,7,3,221,0,0,0,0,2,1,0.00,0.00
+1096,Kolo Touré,2003-2004,22,Arsenal,QF,1. Champions Lg,10,10,900,0,0,0,0,1,0,0.00,0.00
+1097,Kolo Touré,2004-2005,23,Arsenal,R16,1. Champions Lg,8,8,720,1,0,0,0,1,0,0.12,0.00
+1098,Kolo Touré,2005-2006,24,Arsenal,F,1. Champions Lg,12,12,"1,080",1,1,0,0,2,0,0.08,0.08
+1099,Kolo Touré,2006-2007,25,Arsenal,R16,1. Champions Lg,7,7,568,0,0,0,0,0,0,0.00,0.00
+1100,Kolo Touré,2007-2008,26,Arsenal,QF,1. Champions Lg,7,7,547,0,1,0,0,1,0,0.00,0.16
+1101,Kolo Touré,2008-2009,27,Arsenal,SF,1. Champions Lg,9,9,840,0,0,0,0,1,0,0.00,0.00
+1102,Kolo Touré,2010-2011,29,Manchester City,R16,2. Europa Lg,4,4,351,0,0,0,0,1,0,0.00,0.00
+1103,Kolo Touré,2011-2012,30,Manchester City,GR,1. Champions Lg,1,1,90,0,0,0,0,1,0,0.00,0.00
+1104,Kolo Touré,2011-2012,30,Manchester City,R16,2. Europa Lg,2,2,180,0,0,0,0,0,0,0.00,0.00
+1105,Kolo Touré,2014-2015,33,Liverpool,GR,,2,2,180,0,0,0,0,0,0,0.00,0.00
+1106,Kolo Touré,2014-2015,33,Liverpool,R32,1. Champions Lg,1,1,120,0,0,0,0,0,0,0.00,0.00
+1107,Kolo Touré,2015-2016,34,Liverpool,F,2. Europa Lg,8,8,636,0,0,0,0,1,0,0.00,0.00
+1108,Kolo Touré,2016-2017,35,Celtic,GR,2. Europa Lg,3,3,270,0,0,0,0,0,0,0.00,0.00
+1109,Fernando Torres,2007-2008,23,Liverpool,SF,1. Champions Lg,10,9,874,6,0,0,0,1,0,0.62,0.00
+1110,Fernando Torres,2008-2009,24,Liverpool,QF,1. Champions Lg,7,7,560,2,1,0,0,1,0,0.32,0.16
+1111,Fernando Torres,2009-2010,25,Liverpool,GR,1. Champions Lg,4,3,292,0,0,0,0,0,0,0.00,0.00
+1112,Fernando Torres,2009-2010,25,Liverpool,SF,2. Europa Lg,4,4,348,4,0,0,0,2,0,1.03,0.00
+1113,Fernando Torres,2010-2011,26,Chelsea,QF,1. Champions Lg,4,3,248,0,0,0,0,2,0,0.00,0.00
+1114,Fernando Torres,2010-2011,26,Liverpool,R16,2. Europa Lg,1,1,90,0,0,0,0,0,0,0.00,0.00
+1115,Fernando Torres,2011-2012,27,Chelsea,W,1. Champions Lg,10,6,635,3,4,0,0,2,0,0.43,0.57
+1116,Fernando Torres,2012-2013,28,Chelsea,GR,1. Champions Lg,6,5,450,3,0,0,0,0,0,0.60,0.00
+1117,Fernando Torres,2012-2013,28,Chelsea,W,2. Europa Lg,9,9,810,6,0,0,1,0,0,0.67,0.00
+1118,Fernando Torres,2013-2014,29,Chelsea,SF,1. Champions Lg,9,5,418,4,0,0,0,0,0,0.86,0.00
+1119,Fernando Torres,2014-2015,30,Atlético Madrid,QF,1. Champions Lg,3,0,70,0,0,0,0,2,0,0.00,0.00
+1120,Fernando Torres,2015-2016,31,Atlético Madrid,F,1. Champions Lg,12,6,675,1,1,0,0,1,1,0.13,0.13
+1121,Fernando Torres,2016-2017,32,Atlético Madrid,SF,1. Champions Lg,9,5,469,1,1,0,0,1,0,0.19,0.19
+1122,Fernando Torres,2017-2018,33,Atlético Madrid,GR,1. Champions Lg,5,2,207,0,1,1,1,1,0,0.00,0.43
+1123,Fernando Torres,2017-2018,33,Atlético Madrid,W,2. Europa Lg,7,2,245,2,0,0,0,1,0,0.73,0.00
+1124,David Villa,2004-2005,22,Zaragoza,R16,2. UEFA Cup,10,10,821,3,,0,,0,0,0.33,
+1125,David Villa,2006-2007,24,Valencia,QF,1. Champions Lg,9,9,699,4,3,0,0,1,0,0.52,0.39
+1126,David Villa,2007-2008,25,Valencia,GR,1. Champions Lg,5,5,409,2,0,0,0,1,0,0.44,0.00
+1127,David Villa,2008-2009,26,Valencia,R32,2. UEFA Cup,5,1,174,1,,1,,2,0,0.52,
+1128,David Villa,2009-2010,27,Valencia,QF,2. Europa Lg,10,7,709,6,0,1,2,2,1,0.76,0.00
+1129,David Villa,2010-2011,28,Barcelona,W,1. Champions Lg,12,12,943,4,1,1,1,0,0,0.38,0.10
+1130,David Villa,2011-2012,29,Barcelona,SF,1. Champions Lg,4,4,330,3,1,0,0,1,0,0.82,0.27
+1131,David Villa,2012-2013,30,Barcelona,SF,1. Champions Lg,10,5,484,1,1,0,0,0,0,0.19,0.19
+1132,David Villa,2013-2014,31,Atlético Madrid,F,1. Champions Lg,7,5,454,0,0,0,0,1,0,0.00,0.00
+1133,Paulo Dybala,2015-2016,21,Juventus,R16,1. Champions Lg,7,5,419,1,0,0,0,1,0,0.21,0.00
+1134,Paulo Dybala,2016-2017,22,Juventus,F,1. Champions Lg,11,10,797,4,0,1,1,1,0,0.45,0.00
+1135,Paulo Dybala,2017-2018,23,Juventus,QF,1. Champions Lg,8,8,661,1,0,0,0,0,2,0.14,0.00
+1136,Paulo Dybala,2018-2019,24,Juventus,QF,1. Champions Lg,9,6,518,5,0,0,0,1,0,0.87,0.00
+1137,Paulo Dybala,2019-2020,25,Juventus,R16,1. Champions Lg,8,3,311,3,3,0,0,0,0,0.87,0.87
+1138,Paulo Dybala,2020-2021,26,Juventus,R16,1. Champions Lg,5,2,216,1,0,0,0,0,0,0.42,0.00
+1139,Toni Kroos,2007-2008,17,Bayern Munich,SF,2. UEFA Cup,6,2,174,1,,0,,1,0,0.52,
+1140,Toni Kroos,2008-2009,18,Bayern Munich,QF,1. Champions Lg,1,0,13,0,0,0,0,0,0,0.00,0.00
+1141,Toni Kroos,2010-2011,20,Bayern Munich,R16,1. Champions Lg,7,6,485,0,0,0,0,2,0,0.00,0.00
+1142,Toni Kroos,2011-2012,21,Bayern Munich,F,1. Champions Lg,12,12,"1,072",2,5,0,0,2,0,0.17,0.42
+1143,Toni Kroos,2012-2013,22,Bayern Munich,W,1. Champions Lg,9,8,591,3,0,0,0,0,0,0.46,0.00
+1144,Toni Kroos,2013-2014,23,Bayern Munich,SF,1. Champions Lg,12,11,986,1,2,0,0,1,0,0.09,0.18
+1145,Toni Kroos,2014-2015,24,Real Madrid,SF,1. Champions Lg,12,11,968,0,3,0,0,2,0,0.00,0.28
+1146,Toni Kroos,2014-2015,24,Real Madrid,1st,Super Cup,1,1,90,0,0,0,0,1,0,0.00,0.00
+1147,Toni Kroos,2015-2016,25,Real Madrid,W,1. Champions Lg,12,11,995,0,1,0,0,0,0,0.00,0.09
+1148,Toni Kroos,2016-2017,26,Real Madrid,W,1. Champions Lg,12,11,"1,027",1,2,0,0,3,0,0.09,0.18
+1149,Toni Kroos,2017-2018,27,Real Madrid,W,1. Champions Lg,12,10,952,0,1,0,0,0,0,0.00,0.09
+1150,Toni Kroos,2017-2018,27,Real Madrid,1st,Super Cup,1,1,90,0,0,0,0,0,0,0.00,0.00
+1151,Toni Kroos,2018-2019,28,Real Madrid,R16,1. Champions Lg,8,7,645,1,1,0,0,1,0,0.14,0.14
+1152,Toni Kroos,2018-2019,28,Real Madrid,2nd,Super Cup,1,1,101,0,0,0,0,0,0,0.00,0.00
+1153,Toni Kroos,2019-2020,29,Real Madrid,R16,1. Champions Lg,6,6,540,1,1,0,0,1,0,0.17,0.17
+1154,Toni Kroos,2020-2021,30,Real Madrid,R16,1. Champions Lg,6,5,438,0,1,0,0,0,0,0.00,0.21
+1155,David de Gea,2009-2010,18,Atlético Madrid,GR,1. Champions Lg,1,0,64,2,2.81,4,2,.500,0,0,1
+1156,David de Gea,2009-2010,18,Atlético Madrid,W,2. Europa Lg,8,8,761,8,0.95,28,20,.714,2,4,1
+1157,David de Gea,2010-2011,19,Atlético Madrid,GR,2. Europa Lg,5,5,450,7,1.40,22,15,.682,1,2,2
+1158,David de Gea,2011-2012,20,Manchester Utd,GR,1. Champions Lg,4,4,360,7,1.75,16,9,.563,0,2,1
+1159,David de Gea,2011-2012,20,Manchester Utd,R16,2. Europa Lg,4,4,360,7,1.75,18,11,.611,1,0,3
+1160,David de Gea,2012-2013,21,Manchester Utd,R16,1. Champions Lg,7,7,630,8,1.14,22,14,.636,3,1,3
+1161,David de Gea,2013-2014,22,Manchester Utd,QF,1. Champions Lg,10,10,900,9,0.90,31,22,.710,5,3,2
+1162,David de Gea,2015-2016,24,Manchester Utd,GR,1. Champions Lg,6,6,540,7,1.17,28,21,.750,2,2,2
+1163,David de Gea,2015-2016,24,Manchester Utd,R16,2. Europa Lg,2,2,180,3,1.50,18,15,.833,0,1,1
+1164,David de Gea,2016-2017,25,Manchester Utd,W,2. Europa Lg,3,3,270,4,1.33,10,6,.600,1,0,2
+1165,David de Gea,2017-2018,26,Manchester Utd,R16,1. Champions Lg,6,6,540,3,0.50,25,22,.880,4,1,1
+1166,David de Gea,2017-2018,26,Manchester Utd,2nd,Super Cup,1,1,90,2,2.00,6,4,.667,0,0,1
+1167,David de Gea,2018-2019,27,Manchester Utd,QF,1. Champions Lg,9,9,810,9,1.00,31,23,.710,4,1,4
+1168,David de Gea,2019-2020,28,Manchester Utd,SF,2. Europa Lg,2,2,180,2,1.00,7,5,.714,0,1,1
+1169,David de Gea,2020-2021,29,Manchester Utd,GR,1. Champions Lg,5,5,450,8,1.60,20,13,.600,3,0,2
+1170,Leonardo Bonucci,2010-2011,23,Juventus,GR,2. Europa Lg,4,4,360,0,0,0,0,0,0,0.00,0.00
+1171,Leonardo Bonucci,2012-2013,25,Juventus,QF,1. Champions Lg,10,10,900,1,0,0,0,2,0,0.10,0.00
+1172,Leonardo Bonucci,2013-2014,26,Juventus,GR,1. Champions Lg,6,5,468,0,0,0,0,1,0,0.00,0.00
+1173,Leonardo Bonucci,2013-2014,26,Juventus,SF,2. Europa Lg,7,7,613,1,0,0,0,1,0,0.15,0.00
+1174,Leonardo Bonucci,2014-2015,27,Juventus,F,1. Champions Lg,13,13,"1,170",0,0,0,0,2,0,0.00,0.00
+1175,Leonardo Bonucci,2015-2016,28,Juventus,R16,1. Champions Lg,8,8,750,0,0,0,0,1,0,0.00,0.00
+1176,Leonardo Bonucci,2016-2017,29,Juventus,F,1. Champions Lg,11,11,968,1,0,0,0,3,0,0.09,0.00
+1177,Leonardo Bonucci,2017-2018,30,Milan,R16,2. Europa Lg,9,8,726,0,1,0,0,1,0,0.00,0.12
+1178,Leonardo Bonucci,2018-2019,31,Juventus,QF,1. Champions Lg,10,10,900,0,2,0,0,0,0,0.00,0.20
+1179,Leonardo Bonucci,2019-2020,32,Juventus,R16,1. Champions Lg,7,7,630,0,0,0,0,1,0,0.00,0.00
+1180,Leonardo Bonucci,2020-2021,33,Juventus,R16,1. Champions Lg,5,5,421,0,0,0,0,0,0,0.00,0.00
+1181,Radamel Falcao,2009-2010,23,Porto,R16,1. Champions Lg,8,7,640,4,1,0,0,1,0,0.56,0.14
+1182,Radamel Falcao,2010-2011,24,Porto,W,2. Europa Lg,14,14,"1,097",17,3,2,3,1,0,1.39,0.25
+1183,Radamel Falcao,2011-2012,25,Atlético Madrid,W,2. Europa Lg,15,13,"1,215",12,2,1,1,2,0,0.89,0.15
+1184,Radamel Falcao,2012-2013,26,Atlético Madrid,R32,2. Europa Lg,2,2,180,1,0,0,0,1,0,0.50,0.00
+1185,Radamel Falcao,2015-2016,29,Chelsea,R16,1. Champions Lg,0,0,,,,,,,,,
+1186,Radamel Falcao,2016-2017,30,Monaco,SF,1. Champions Lg,8,8,666,5,0,0,2,3,0,0.68,0.00
+1187,Radamel Falcao,2017-2018,31,Monaco,GR,1. Champions Lg,5,4,383,3,0,0,0,0,0,0.70,0.00
+1188,Radamel Falcao,2018-2019,32,Monaco,GR,1. Champions Lg,5,4,339,0,0,0,1,2,0,0.00,0.00
+1189,Radamel Falcao,2019-2020,33,Galatasaray,GR,1. Champions Lg,3,2,209,0,0,0,0,1,0,0.00,0.00
+1190,Mats Hummels,2008-2009,19,Dortmund,Rd1,2. UEFA Cup,1,1,23,0,,0,,0,0,0.00,
+1191,Mats Hummels,2010-2011,21,Dortmund,GR,2. Europa Lg,6,6,540,1,0,0,0,2,0,0.17,0.00
+1192,Mats Hummels,2011-2012,22,Dortmund,GR,1. Champions Lg,6,6,540,1,0,1,1,1,0,0.17,0.00
+1193,Mats Hummels,2012-2013,23,Dortmund,F,1. Champions Lg,11,10,888,1,1,0,1,1,0,0.10,0.10
+1194,Mats Hummels,2013-2014,24,Dortmund,QF,1. Champions Lg,6,6,495,0,0,0,0,1,0,0.00,0.00
+1195,Mats Hummels,2014-2015,25,Dortmund,R16,1. Champions Lg,4,3,257,0,0,0,0,0,0,0.00,0.00
+1196,Mats Hummels,2015-2016,26,Dortmund,QF,2. Europa Lg,10,10,829,1,1,0,0,2,0,0.11,0.11
+1197,Mats Hummels,2016-2017,27,Bayern Munich,QF,1. Champions Lg,9,7,681,0,0,0,0,2,0,0.00,0.00
+1198,Mats Hummels,2017-2018,28,Bayern Munich,SF,1. Champions Lg,9,8,679,1,0,0,0,1,0,0.13,0.00
+1199,Mats Hummels,2018-2019,29,Bayern Munich,R16,1. Champions Lg,6,6,539,1,0,0,0,1,0,0.17,0.00
+1200,Mats Hummels,2019-2020,30,Dortmund,R16,1. Champions Lg,8,8,720,0,0,0,0,2,0,0.00,0.00
+1201,Mats Hummels,2020-2021,31,Dortmund,R16,1. Champions Lg,5,5,431,0,0,0,0,0,0,0.00,0.00
+1202,Edin Džeko,2003-2004,17,Željezničar Sarajevo,Rd1,2. UEFA Cup,1,0,27,0,,0,,0,0,0.00,
+1203,Edin Džeko,2008-2009,22,Wolfsburg,R32,2. UEFA Cup,8,8,720,4,,0,,1,0,0.50,
+1204,Edin Džeko,2009-2010,23,Wolfsburg,GR,1. Champions Lg,6,6,540,4,0,0,0,0,0,0.67,0.00
+1205,Edin Džeko,2009-2010,23,Wolfsburg,QF,2. Europa Lg,6,6,570,1,2,0,0,1,0,0.16,0.32
+1206,Edin Džeko,2010-2011,24,Manchester City,R16,2. Europa Lg,4,3,278,2,0,0,0,1,0,0.65,0.00
+1207,Edin Džeko,2011-2012,25,Manchester City,GR,1. Champions Lg,5,5,385,0,2,0,0,0,0,0.00,0.47
+1208,Edin Džeko,2011-2012,25,Manchester City,R16,2. Europa Lg,3,1,127,1,1,0,0,0,0,0.71,0.71
+1209,Edin Džeko,2012-2013,26,Manchester City,GR,1. Champions Lg,6,4,385,1,0,0,0,1,0,0.23,0.00
+1210,Edin Džeko,2013-2014,27,Manchester City,R16,1. Champions Lg,7,4,396,2,1,0,0,1,0,0.45,0.23
+1211,Edin Džeko,2014-2015,28,Manchester City,R16,1. Champions Lg,6,5,373,0,1,0,0,2,0,0.00,0.24
+1212,Edin Džeko,2015-2016,29,Roma,R16,1. Champions Lg,7,5,481,2,1,0,1,0,0,0.37,0.19
+1213,Edin Džeko,2016-2017,30,Roma,R16,2. Europa Lg,9,6,613,8,0,0,0,0,0,1.17,0.00
+1214,Edin Džeko,2017-2018,31,Roma,SF,1. Champions Lg,12,12,"1,078",8,2,0,0,1,0,0.67,0.17
+1215,Edin Džeko,2018-2019,32,Roma,R16,1. Champions Lg,6,6,570,5,3,0,0,2,0,0.79,0.47
+1216,Edin Džeko,2019-2020,33,Roma,R16,2. Europa Lg,8,8,684,3,2,0,0,0,0,0.39,0.26
+1217,Edin Džeko,2020-2021,34,Roma,R32,2. Europa Lg,4,0,111,1,1,0,0,1,0,0.81,0.81
+1218,Philippe Coutinho,2010-2011,18,Inter,QF,1. Champions Lg,6,2,284,0,1,0,0,0,0,0.00,0.32
+1219,Philippe Coutinho,2011-2012,19,Inter,R16,1. Champions Lg,3,1,80,0,0,0,0,0,0,0.00,0.00
+1220,Philippe Coutinho,2012-2013,20,Inter,R16,2. Europa Lg,5,5,376,1,0,0,0,0,0,0.24,0.00
+1221,Philippe Coutinho,2014-2015,22,Liverpool,GR,1. Champions Lg,5,3,237,0,0,0,0,0,0,0.00,0.00
+1222,Philippe Coutinho,2014-2015,22,Liverpool,R32,2. Europa Lg,1,1,63,0,0,0,0,0,0,0.00,0.00
+1223,Philippe Coutinho,2015-2016,23,Liverpool,F,2. Europa Lg,13,11,959,2,2,0,0,2,0,0.19,0.19
+1224,Philippe Coutinho,2017-2018,25,Liverpool,F,,5,4,347,5,2,1,1,0,0,1.30,0.52
+1225,Philippe Coutinho,2018-2019,26,Barcelona,SF,1. Champions Lg,12,11,852,3,3,0,0,0,0,0.32,0.32
+1226,Philippe Coutinho,2019-2020,27,Bayern Munich,W,1. Champions Lg,11,5,519,3,3,0,0,0,0,0.52,0.52
+1227,Philippe Coutinho,2020-2021,28,Barcelona,R16,1. Champions Lg,2,2,133,1,0,0,0,0,0,0.68,0.00
+1228,Dries Mertens,2010-2011,23,Utrecht,GR,2. Europa Lg,6,6,539,1,2,0,0,1,0,0.17,0.33
+1229,Dries Mertens,2011-2012,24,PSV Eindhoven,R16,2. Europa Lg,9,9,754,3,4,2,2,4,0,0.36,0.48
+1230,Dries Mertens,2012-2013,25,PSV Eindhoven,GR,2. Europa Lg,5,5,434,1,2,0,0,0,0,0.21,0.41
+1231,Dries Mertens,2013-2014,26,Napoli,GR,1. Champions Lg,6,4,385,0,2,0,0,1,0,0.00,0.47
+1232,Dries Mertens,2013-2014,26,Napoli,R16,2. Europa Lg,4,1,137,0,0,0,0,0,0,0.00,0.00
+1233,Dries Mertens,2014-2015,27,Napoli,SF,2. Europa Lg,13,11,936,4,1,0,0,2,0,0.38,0.10
+1234,Dries Mertens,2015-2016,28,Napoli,R32,2. Europa Lg,5,5,417,5,1,0,0,0,0,1.08,0.22
+1235,Dries Mertens,2016-2017,29,Napoli,R16,1. Champions Lg,8,6,571,5,2,0,0,1,0,0.79,0.32
+1236,Dries Mertens,2017-2018,30,Napoli,GR,1. Champions Lg,6,5,480,2,3,0,0,3,0,0.37,0.56
+1237,Dries Mertens,2017-2018,30,Napoli,R32,2. Europa Lg,1,1,90,0,0,0,0,0,0,0.00,0.00
+1238,Dries Mertens,2018-2019,31,Napoli,GR,1. Champions Lg,6,4,374,3,0,0,0,1,0,0.72,0.00
+1239,Dries Mertens,2018-2019,31,Napoli,QF,2. Europa Lg,5,4,358,0,2,0,0,0,0,0.00,0.50
+1240,Dries Mertens,2019-2020,32,Napoli,R16,1. Champions Lg,8,7,583,6,1,1,1,0,0,0.93,0.15
+1241,Dries Mertens,2020-2021,33,Napoli,R32,2. Europa Lg,6,4,366,1,1,0,0,1,0,0.25,0.25
+1242,Jamie Vardy,2016-2017,29,Leicester City,QF,1. Champions Lg,9,9,772,2,0,0,0,2,0,0.23,0.00
+1243,Jamie Vardy,2020-2021,33,Leicester City,R32,2. Europa Lg,2,1,98,2,0,1,1,0,0,1.84,0.00
+1244,Pepe,2001-2002,18,Barcelona,SF,1. Champions Lg,4,3,277,4,1.30,13,9,.692,1,1,1
+1245,Pepe,2005-2006,22,Liverpool,R16,1. Champions Lg,8,8,720,4,0.50,26,22,.846,3,3,2
+1246,Pepe,2006-2007,23,Liverpool,F,1. Champions Lg,12,12,"1,110",7,0.57,41,34,.829,8,1,3
+1247,Pepe,2007-2008,24,Liverpool,SF,1. Champions Lg,12,12,"1,110",12,0.97,44,32,.727,6,3,3
+1248,Pepe,2008-2009,25,Liverpool,QF,1. Champions Lg,9,9,810,11,1.22,41,30,.732,5,3,1
+1249,Pepe,2009-2010,26,Liverpool,GR,1. Champions Lg,5,5,450,5,1.00,21,16,.762,2,1,2
+1250,Pepe,2009-2010,26,Liverpool,SF,2. Europa Lg,8,8,750,7,0.84,33,26,.788,5,0,3
+1251,Pepe,2010-2011,27,Liverpool,R16,2. Europa Lg,9,9,810,4,0.44,24,20,.833,3,5,1
+1252,Pepe,2012-2013,29,Liverpool,R32,2. Europa Lg,5,5,630,8,1.14,21,13,.619,2,1,2
+1253,Pepe,2013-2014,30,Napoli,GR,1. Champions Lg,5,5,450,9,1.80,27,18,.667,3,0,2
+1254,Pepe,2013-2014,30,Napoli,R16,2. Europa Lg,4,3,314,4,1.15,16,12,.750,1,2,1
+1255,Pepe,2015-2016,32,Napoli,R32,2. Europa Lg,5,5,450,3,0.60,18,15,.833,3,1,1
+1256,Pepe,2016-2017,33,Napoli,R16,1. Champions Lg,8,8,720,14,1.75,24,10,.458,3,2,3
+1257,Pepe,2017-2018,34,Napoli,GR,1. Champions Lg,6,6,540,11,1.83,30,19,.633,2,0,4
+1258,Pepe,2017-2018,34,Napoli,R32,2. Europa Lg,2,2,180,3,1.50,8,5,.625,1,0,1
+1259,Pepe,2018-2019,35,Milan,GR,2. Europa Lg,6,6,540,9,1.50,18,11,.556,3,1,2
+1260,Pepe,2020-2021,37,Lazio,R16,,5,5,450,6,1.20,16,11,.688,1,4,0
+1261,Rui Patrício,2007-2008,19,Sporting CP,GR,1. Champions Lg,2,2,180,2,1.00,10,8,.800,0,1,1
+1262,Rui Patrício,2008-2009,20,Sporting CP,R16,1. Champions Lg,6,6,521,15,2.59,35,20,.571,3,0,3
+1263,Rui Patrício,2009-2010,21,Sporting CP,R16,2. Europa Lg,10,10,900,10,1.00,44,34,.773,4,4,2
+1264,Rui Patrício,2010-2011,22,Sporting CP,R32,2. Europa Lg,4,4,360,3,0.75,13,10,.769,2,2,0
+1265,Rui Patrício,2011-2012,23,Sporting CP,SF,2. Europa Lg,11,11,990,12,1.09,51,39,.765,7,2,2
+1266,Rui Patrício,2012-2013,24,Sporting CP,GR,2. Europa Lg,6,6,540,10,1.67,25,15,.600,1,2,3
+1267,Rui Patrício,2014-2015,26,Sporting CP,GR,1. Champions Lg,6,6,540,12,2.00,27,15,.556,2,1,3
+1268,Rui Patrício,2014-2015,26,Sporting CP,R32,2. Europa Lg,2,2,180,2,1.00,11,9,.818,0,1,1
+1269,Rui Patrício,2015-2016,27,Sporting CP,R32,2. Europa Lg,7,7,557,11,1.78,36,25,.694,2,1,3
+1270,Rui Patrício,2016-2017,28,Sporting CP,GR,1. Champions Lg,6,6,540,8,1.33,19,11,.579,1,0,5
+1271,Rui Patrício,2017-2018,29,Sporting CP,GR,1. Champions Lg,6,6,540,9,1.50,28,19,.679,2,1,3
+1272,Rui Patrício,2017-2018,29,Sporting CP,QF,2. Europa Lg,6,6,570,8,1.26,25,17,.680,3,1,2
+1273,Rui Patrício,2019-2020,31,Wolves,QF,,10,10,900,10,1.00,33,24,.727,5,2,3
+1274,Arturo Vidal,2007-2008,20,Leverkusen,QF,2. UEFA Cup,9,8,703,0,,0,,1,0,0.00,
+1275,Arturo Vidal,2010-2011,23,Leverkusen,R16,2. Europa Lg,7,4,406,1,0,0,0,3,0,0.22,0.00
+1276,Arturo Vidal,2012-2013,25,Juventus,QF,,9,9,738,3,2,0,0,3,0,0.37,0.24
+1277,Arturo Vidal,2013-2014,26,Juventus,GR,1. Champions Lg,6,6,533,5,0,4,4,2,0,0.84,0.00
+1278,Arturo Vidal,2013-2014,26,Juventus,SF,1. Champions Lg,6,5,447,2,0,0,0,1,0,0.40,0.00
+1279,Arturo Vidal,2014-2015,27,Juventus,F,2. Europa Lg,12,12,"1,045",1,0,1,2,4,0,0.09,0.00
+1280,Arturo Vidal,2015-2016,28,Bayern Munich,SF,1. Champions Lg,11,9,857,2,1,0,0,3,0,0.21,0.11
+1281,Arturo Vidal,2016-2017,29,Bayern Munich,QF,1. Champions Lg,8,8,714,3,0,0,0,2,2,0.38,0.00
+1282,Arturo Vidal,2017-2018,30,Bayern Munich,SF,1. Champions Lg,8,6,475,0,0,0,0,1,0,0.00,0.00
+1283,Arturo Vidal,2018-2019,31,Barcelona,SF,1. Champions Lg,11,3,363,0,0,0,0,1,0,0.00,0.00
+1284,Arturo Vidal,2019-2020,32,Barcelona,QF,1. Champions Lg,7,4,422,0,1,0,0,4,1,0.00,0.21
+1285,Arturo Vidal,2020-2021,33,Inter,GR,1. Champions Lg,4,4,286,0,0,0,0,4,1,0.00,0.00
+1286,Dimitri Payet,2008-2009,21,Saint-Étienne,R16,2. UEFA Cup,10,8,654,3,,0,,0,0,0.41,
+1287,Dimitri Payet,2011-2012,24,Lille,GR,1. Champions Lg,4,1,138,0,0,0,0,0,0,0.00,0.00
+1288,Dimitri Payet,2012-2013,25,Lille,GR,1. Champions Lg,6,3,302,0,1,0,0,1,0,0.00,0.30
+1289,Dimitri Payet,2013-2014,26,Marseille,GR,1. Champions Lg,5,4,285,0,1,0,0,3,1,0.00,0.32
+1290,Dimitri Payet,2017-2018,30,Marseille,F,,12,9,812,3,7,0,0,2,0,0.33,0.78
+1291,Dimitri Payet,2018-2019,31,Marseille,GR,2. Europa Lg,5,4,365,2,0,0,0,2,0,0.49,0.00
+1292,Dimitri Payet,2020-2021,33,Marseille,GR,2. Europa Lg,6,4,340,2,0,2,3,1,0,0.53,0.00
+1293,Gonzalo Higuaín,2006-2007,18,Real Madrid,R16,1. Champions Lg,2,2,99,0,0,0,0,0,0,0.00,0.00
+1294,Gonzalo Higuaín,2007-2008,19,Real Madrid,R16,1. Champions Lg,5,1,154,0,0,0,0,0,0,0.00,0.00
+1295,Gonzalo Higuaín,2008-2009,20,Real Madrid,R16,1. Champions Lg,7,5,459,0,0,0,0,0,0,0.00,0.00
+1296,Gonzalo Higuaín,2009-2010,21,Real Madrid,R16,1. Champions Lg,7,6,469,2,1,0,0,1,0,0.38,0.19
+1297,Gonzalo Higuaín,2010-2011,22,Real Madrid,SF,1. Champions Lg,6,5,410,2,0,0,0,0,0,0.44,0.00
+1298,Gonzalo Higuaín,2011-2012,23,Real Madrid,SF,1. Champions Lg,12,5,526,3,2,0,0,2,0,0.51,0.34
+1299,Gonzalo Higuaín,2012-2013,24,Real Madrid,SF,1. Champions Lg,9,6,479,1,2,0,0,1,0,0.19,0.38
+1300,Gonzalo Higuaín,2013-2014,25,Napoli,GR,1. Champions Lg,5,5,406,4,2,0,0,1,0,0.89,0.44
+1301,Gonzalo Higuaín,2013-2014,25,Napoli,R16,2. Europa Lg,4,4,335,1,2,0,0,0,0,0.27,0.54
+1302,Gonzalo Higuaín,2014-2015,26,Napoli,SF,2. Europa Lg,14,10,834,7,3,2,2,0,0,0.76,0.32
+1303,Gonzalo Higuaín,2015-2016,27,Napoli,R32,2. Europa Lg,5,2,224,2,0,0,0,0,0,0.80,0.00
+1304,Gonzalo Higuaín,2016-2017,28,Juventus,F,1. Champions Lg,12,12,"1,039",5,1,1,1,1,0,0.43,0.09
+1305,Gonzalo Higuaín,2017-2018,29,Juventus,QF,1. Champions Lg,10,9,830,5,1,1,2,1,0,0.54,0.11
+1306,Gonzalo Higuaín,2018-2019,30,Milan,GR,2. Europa Lg,5,5,450,2,1,0,0,1,0,0.40,0.20
+1307,Gonzalo Higuaín,2018-2019,30,Chelsea,W,2. Europa Lg,1,0,25,0,0,0,0,0,0,0.00,0.00
+1308,Gonzalo Higuaín,2019-2020,31,Juventus,R16,1. Champions Lg,8,5,510,2,2,0,0,0,0,0.35,0.35
+1309,Andrés Iniesta,2002-2003,18,Barcelona,QF,1. Champions Lg,3,1,135,0,0,0,0,0,0,0.00,0.00
+1310,Andrés Iniesta,2003-2004,19,Barcelona,Rd4,2. UEFA Cup,3,0,64,0,,0,,0,0,0.00,
+1311,Andrés Iniesta,2004-2005,20,Barcelona,R16,1. Champions Lg,8,2,312,0,2,0,1,0,0,0.00,0.58
+1312,Andrés Iniesta,2005-2006,21,Barcelona,W,1. Champions Lg,10,5,519,1,2,0,0,2,0,0.17,0.35
+1313,Andrés Iniesta,2006-2007,22,Barcelona,R16,1. Champions Lg,8,5,482,2,0,0,0,0,0,0.37,0.00
+1314,Andrés Iniesta,2007-2008,23,Barcelona,SF,1. Champions Lg,11,9,812,1,1,0,0,0,0,0.11,0.11
+1315,Andrés Iniesta,2008-2009,24,Barcelona,W,1. Champions Lg,10,10,862,1,2,0,0,2,0,0.10,0.21
+1316,Andrés Iniesta,2009-2010,25,Barcelona,SF,1. Champions Lg,9,7,591,0,1,0,0,1,0,0.00,0.15
+1317,Andrés Iniesta,2010-2011,26,Barcelona,W,1. Champions Lg,10,10,898,1,6,0,0,3,0,0.10,0.60
+1318,Andrés Iniesta,2011-2012,27,Barcelona,SF,1. Champions Lg,8,8,572,3,1,0,0,1,0,0.47,0.16
+1319,Andrés Iniesta,2012-2013,28,Barcelona,SF,1. Champions Lg,10,9,803,1,1,0,0,1,0,0.11,0.11
+1320,Andrés Iniesta,2013-2014,29,Barcelona,QF,1. Champions Lg,9,9,779,0,3,0,0,2,0,0.00,0.35
+1321,Andrés Iniesta,2014-2015,30,Barcelona,W,1. Champions Lg,11,10,787,0,5,0,0,0,0,0.00,0.57
+1322,Andrés Iniesta,2015-2016,31,Barcelona,QF,1. Champions Lg,7,7,553,0,0,0,0,1,0,0.00,0.00
+1323,Andrés Iniesta,2015-2016,31,Barcelona,1st,Super Cup,1,1,62,0,0,0,0,0,0,0.00,0.00
+1324,Andrés Iniesta,2016-2017,32,Barcelona,QF,1. Champions Lg,8,7,593,1,3,0,0,2,0,0.15,0.46
+1325,Andrés Iniesta,2017-2018,33,Barcelona,QF,1. Champions Lg,8,8,624,0,3,0,0,0,0,0.00,0.43
+1326,Koke,2011-2012,19,Atlético Madrid,W,2. Europa Lg,12,8,639,0,2,0,0,1,0,0.00,0.28
+1327,Koke,2012-2013,20,Atlético Madrid,R32,2. Europa Lg,7,3,343,0,0,0,0,0,0,0.00,0.00
+1328,Koke,2013-2014,21,Atlético Madrid,F,1. Champions Lg,13,12,"1,093",1,2,0,0,3,0,0.08,0.16
+1329,Koke,2014-2015,22,Atlético Madrid,QF,1. Champions Lg,9,9,833,2,4,0,0,2,0,0.22,0.43
+1330,Koke,2015-2016,23,Atlético Madrid,F,1. Champions Lg,11,11,"1,038",0,1,0,0,2,0,0.00,0.09
+1331,Koke,2016-2017,24,Atlético Madrid,SF,1. Champions Lg,12,12,"1,044",0,1,0,0,2,0,0.00,0.09
+1332,Koke,2017-2018,25,Atlético Madrid,GR,1. Champions Lg,4,4,333,0,0,0,0,0,0,0.00,0.00
+1333,Koke,2017-2018,25,Atlético Madrid,W,2. Europa Lg,9,9,756,2,3,0,0,1,0,0.24,0.36
+1334,Koke,2018-2019,26,Atlético Madrid,R16,1. Champions Lg,7,7,561,2,1,0,0,0,0,0.32,0.16
+1335,Koke,2018-2019,26,Atlético Madrid,1st,Super Cup,1,1,120,1,0,0,0,0,0,0.75,0.00
+1336,Koke,2019-2020,27,Atlético Madrid,QF,1. Champions Lg,9,9,796,0,1,0,0,1,0,0.00,0.11
+1337,Koke,2020-2021,28,Atlético Madrid,R16,1. Champions Lg,6,5,483,0,0,0,0,1,0,0.00,0.00
+1338,Thomas Müller,2008-2009,18,Bayern Munich,QF,1. Champions Lg,1,0,18,1,0,0,0,0,0,5.00,0.00
+1339,Thomas Müller,2009-2010,19,Bayern Munich,F,1. Champions Lg,12,12,934,2,3,0,0,1,1,0.19,0.29
+1340,Thomas Müller,2010-2011,20,Bayern Munich,R16,1. Champions Lg,8,7,620,3,2,0,0,0,0,0.44,0.29
+1341,Thomas Müller,2011-2012,21,Bayern Munich,F,1. Champions Lg,12,8,716,2,1,0,0,2,0,0.25,0.13
+1342,Thomas Müller,2012-2013,22,Bayern Munich,W,1. Champions Lg,13,12,"1,045",8,2,1,1,1,0,0.69,0.17
+1343,Thomas Müller,2013-2014,23,Bayern Munich,SF,1. Champions Lg,12,8,708,5,1,1,2,0,0,0.64,0.13
+1344,Thomas Müller,2014-2015,24,Bayern Munich,SF,1. Champions Lg,10,10,778,7,3,4,4,0,0,0.81,0.35
+1345,Thomas Müller,2015-2016,25,Bayern Munich,SF,1. Champions Lg,12,9,925,8,3,1,0,1,0,0.78,0.29
+1346,Thomas Müller,2016-2017,26,Bayern Munich,QF,1. Champions Lg,9,5,462,3,0,0,0,0,0,0.58,0.00
+1347,Thomas Müller,2017-2018,27,Bayern Munich,SF,1. Champions Lg,10,8,734,3,2,0,0,1,0,0.37,0.25
+1348,Thomas Müller,2018-2019,28,Bayern Munich,R16,1. Champions Lg,6,4,353,0,0,0,0,0,1,0.00,0.00
+1349,Thomas Müller,2019-2020,29,Bayern Munich,W,1. Champions Lg,10,7,711,4,3,0,0,1,0,0.51,0.38
+1350,Thomas Müller,2020-2021,30,Bayern Munich,R16,1. Champions Lg,6,5,380,1,2,1,1,1,0,0.24,0.47
+1351,Thomas Müller,2020-2021,30,Bayern Munich,1st,Super Cup,1,1,120,0,0,0,0,0,0,0.00,0.00
+1352,Manuel Neuer,2007-2008,21,Schalke 04,QF,1. Champions Lg,10,10,930,7,0.68,48,41,.854,3,2,5
+1353,Manuel Neuer,2010-2011,24,Schalke 04,SF,1. Champions Lg,12,12,"1,080",14,1.17,64,50,.781,7,2,3
+1354,Manuel Neuer,2011-2012,25,Bayern Munich,F,1. Champions Lg,12,12,"1,140",9,0.71,35,26,.743,8,2,2
+1355,Manuel Neuer,2012-2013,26,Bayern Munich,W,1. Champions Lg,13,13,"1,170",11,0.85,33,22,.667,10,1,2
+1356,Manuel Neuer,2013-2014,27,Bayern Munich,SF,1. Champions Lg,12,12,"1,080",13,1.08,44,31,.705,7,2,3
+1357,Manuel Neuer,2014-2015,28,Bayern Munich,SF,1. Champions Lg,12,12,"1,080",13,1.08,36,23,.639,8,1,3
+1358,Manuel Neuer,2015-2016,29,Bayern Munich,SF,1. Champions Lg,11,11,"1,020",11,0.97,61,50,.820,7,2,2
+1359,Manuel Neuer,2016-2017,30,Bayern Munich,QF,1. Champions Lg,9,9,840,11,1.18,48,37,.771,6,0,3
+1360,Manuel Neuer,2017-2018,31,Bayern Munich,SF,1. Champions Lg,1,1,90,0,0.00,1,1,1.000,1,0,0
+1361,Manuel Neuer,2018-2019,32,Bayern Munich,R16,1. Champions Lg,8,8,720,8,1.00,29,22,.759,4,3,1
+1362,Manuel Neuer,2019-2020,33,Bayern Munich,W,1. Champions Lg,11,11,990,8,0.73,33,27,.788,11,0,0
+1363,Manuel Neuer,2020-2021,34,Bayern Munich,R16,1. Champions Lg,5,5,450,4,0.80,31,27,.871,5,0,0
+1364,Manuel Neuer,2020-2021,34,Bayern Munich,1st,Super Cup,1,1,120,1,0.75,4,4,1.000,1,0,0
+1365,Xavi,1998-1999,18,Barcelona,GR,1. Champions Lg,6,4,424,0,,0,,0,0,0.00,
+1366,Xavi,1999-2000,19,Barcelona,SF,1. Champions Lg,10,8,534,1,0,0,0,0,0,0.17,0.00
+1367,Xavi,2000-2001,20,Barcelona,GR1,1. Champions Lg,3,3,262,0,0,0,0,0,0,0.00,0.00
+1368,Xavi,2000-2001,20,Barcelona,SF,2. UEFA Cup,6,1,190,0,,0,,0,0,0.00,
+1369,Xavi,2001-2002,21,Barcelona,SF,1. Champions Lg,14,11,969,0,4,0,0,2,0,0.00,0.37
+1370,Xavi,2002-2003,22,Barcelona,QF,1. Champions Lg,12,12,"1,034",1,3,0,0,1,0,0.09,0.26
+1371,Xavi,2003-2004,23,Barcelona,Rd4,2. UEFA Cup,7,7,630,1,,0,,0,0,0.14,
+1372,Xavi,2004-2005,24,Barcelona,R16,1. Champions Lg,8,8,720,0,1,0,0,1,0,0.00,0.12
+1373,Xavi,2005-2006,25,Barcelona,W,1. Champions Lg,4,4,313,0,0,0,0,1,0,0.00,0.00
+1374,Xavi,2006-2007,26,Barcelona,R16,1. Champions Lg,7,4,395,0,1,0,0,1,0,0.00,0.23
+1375,Xavi,2007-2008,27,Barcelona,SF,1. Champions Lg,12,11,975,1,1,0,0,1,0,0.09,0.09
+1376,Xavi,2008-2009,28,Barcelona,W,1. Champions Lg,12,11,972,2,6,0,0,1,0,0.19,0.56
+1377,Xavi,2009-2010,29,Barcelona,SF,1. Champions Lg,11,11,990,1,3,0,0,1,0,0.09,0.27
+1378,Xavi,2010-2011,30,Barcelona,W,1. Champions Lg,12,11,952,2,3,0,0,0,0,0.19,0.28
+1379,Xavi,2011-2012,31,Barcelona,SF,1. Champions Lg,9,9,712,1,1,0,0,0,0,0.13,0.13
+1380,Xavi,2012-2013,32,Barcelona,SF,1. Champions Lg,11,11,947,1,4,1,1,0,0,0.10,0.38
+1381,Xavi,2013-2014,33,Barcelona,QF,1. Champions Lg,10,9,811,1,3,1,1,0,0,0.11,0.33
+1382,Xavi,2014-2015,34,Barcelona,W,1. Champions Lg,10,2,333,0,0,0,0,0,0,0.00,0.00
+1383,Andrey Arshavin,2002-2003,21,Zenit,Rd1,2. UEFA Cup,2,2,172,0,,0,,0,0,0.00,
+1384,Andrey Arshavin,2004-2005,23,Zenit,GR,2. UEFA Cup,6,6,522,4,,0,,1,0,0.69,
+1385,Andrey Arshavin,2005-2006,24,Zenit,QF,2. UEFA Cup,11,11,926,5,,0,,3,1,0.49,
+1386,Andrey Arshavin,2007-2008,26,Zenit,W,,14,14,"1,212",4,,0,,3,0,0.30,
+1387,Andrey Arshavin,2008-2009,27,Zenit,GR,2. UEFA Cup,6,6,465,0,1,0,0,1,0,0.00,0.19
+1388,Andrey Arshavin,2009-2010,28,Arsenal,QF,1. Champions Lg,6,6,448,1,4,0,0,1,0,0.20,0.80
+1389,Andrey Arshavin,2010-2011,29,Arsenal,R16,1. Champions Lg,6,3,275,3,2,0,1,1,0,0.98,0.65
+1390,Andrey Arshavin,2011-2012,30,Arsenal,R16,1. Champions Lg,4,3,264,0,0,0,0,0,0,0.00,0.00
+1391,Andrey Arshavin,2012-2013,31,Arsenal,R16,1. Champions Lg,2,0,51,0,0,0,0,0,0,0.00,0.00
+1392,Andrey Arshavin,2013-2014,32,Zenit,R16,1. Champions Lg,7,2,197,0,0,0,0,0,0,0.00,0.00
+1393,Andrey Arshavin,2014-2015,33,Zenit,GR,1. Champions Lg,3,0,10,0,0,0,0,0,0,0.00,0.00
+1394,Andrey Arshavin,2014-2015,33,Zenit,QF,1. Champions Lg,1,0,,0,0,0,0,0,0,,
+1395,Marcos Senna,2004-2005,28,Villarreal,QF,2. UEFA Cup,7,6,584,0,,0,,0,0,0.00,
+1396,Marcos Senna,2005-2006,29,Villarreal,SF,1. Champions Lg,12,11,"1,035",1,0,0,0,2,0,0.09,0.00
+1397,Marcos Senna,2007-2008,31,Villarreal,R32,2. UEFA Cup,4,4,268,1,,0,,0,0,0.34,
+1398,Marcos Senna,2008-2009,32,Villarreal,QF,1. Champions Lg,8,8,632,2,0,0,0,2,0,0.28,0.00
+1399,Marcos Senna,2009-2010,33,Villarreal,R32,2. Europa Lg,5,3,312,2,1,0,0,0,0,0.58,0.29
+1400,Marcos Senna,2010-2011,34,Villarreal,SF,2. Europa Lg,5,3,275,0,0,0,0,1,1,0.00,0.00
+1401,Marcos Senna,2011-2012,35,Villarreal,GR,1. Champions Lg,4,3,222,0,0,0,0,0,0,0.00,0.00
+1402,Emmanuel Adebayor,2003-2004,19,Monaco,F,1. Champions Lg,10,2,279,0,0,0,0,0,0,0.00,0.00
+1403,Emmanuel Adebayor,2004-2005,20,Monaco,R16,1. Champions Lg,8,5,480,1,2,0,0,0,0,0.19,0.37
+1404,Emmanuel Adebayor,2005-2006,21,Monaco,R32,2. UEFA Cup,5,5,431,3,,0,,0,0,0.63,
+1405,Emmanuel Adebayor,2006-2007,22,Arsenal,R16,1. Champions Lg,6,4,391,0,0,0,0,0,0,0.00,0.00
+1406,Emmanuel Adebayor,2007-2008,23,Arsenal,QF,1. Champions Lg,8,6,609,3,1,0,0,2,0,0.44,0.15
+1407,Emmanuel Adebayor,2008-2009,24,Arsenal,SF,1. Champions Lg,7,7,612,5,2,1,1,2,0,0.74,0.29
+1408,Emmanuel Adebayor,2010-2011,26,Real Madrid,SF,1. Champions Lg,6,3,324,2,0,0,0,3,0,0.56,0.00
+1409,Emmanuel Adebayor,2010-2011,26,Manchester City,R16,2. Europa Lg,4,3,273,4,0,0,0,0,0,1.32,0.00
+1410,Emmanuel Adebayor,2012-2013,28,Tottenham,QF,,8,8,780,3,0,0,0,1,0,0.35,0.00
+1411,Emmanuel Adebayor,2013-2014,29,Tottenham,R16,2. Europa Lg,2,2,180,2,0,0,0,0,0,1.00,0.00
+1412,Emmanuel Adebayor,2014-2015,30,Tottenham,R32,2. Europa Lg,2,1,88,0,0,0,0,0,0,0.00,0.00
+1413,Emmanuel Adebayor,2017-2018,33,Başakşehir,GR,2. Europa Lg,1,1,65,0,0,0,0,0,0,0.00,0.00
+1414,Emmanuel Adebayor,2020,35,Olimpia,GR,,2,1,82,0,0,0,0,0,1,0.00,0.00
+1415,Frank Lampard,1999-2000,21,West Ham,Rd2,2. UEFA Cup,4,4,360,1,,0,,0,0,0.25,
+1416,Frank Lampard,2001-2002,23,Chelsea,Rd2,2. UEFA Cup,4,4,360,1,,0,,0,0,0.25,
+1417,Frank Lampard,2002-2003,24,Chelsea,Rd1,2. UEFA Cup,2,1,134,1,,0,,0,0,0.67,
+1418,Frank Lampard,2003-2004,25,Chelsea,SF,1. Champions Lg,12,11,"1,035",4,0,0,0,0,0,0.35,0.00
+1419,Frank Lampard,2004-2005,26,Chelsea,SF,1. Champions Lg,12,12,"1,053",4,3,0,0,1,0,0.34,0.26
+1420,Frank Lampard,2005-2006,27,Chelsea,R16,1. Champions Lg,8,8,720,2,2,1,1,2,0,0.25,0.25
+1421,Frank Lampard,2006-2007,28,Chelsea,SF,1. Champions Lg,11,11,"1,019",1,2,0,0,3,0,0.09,0.18
+1422,Frank Lampard,2007-2008,29,Chelsea,F,1. Champions Lg,11,10,892,4,2,1,1,1,0,0.40,0.20
+1423,Frank Lampard,2008-2009,30,Chelsea,SF,1. Champions Lg,11,11,967,3,5,0,0,1,1,0.28,0.47
+1424,Frank Lampard,2009-2010,31,Chelsea,R16,1. Champions Lg,7,6,604,1,1,0,0,0,0,0.15,0.15
+1425,Frank Lampard,2010-2011,32,Chelsea,QF,1. Champions Lg,4,4,360,0,1,0,0,0,0,0.00,0.25
+1426,Frank Lampard,2011-2012,33,Chelsea,W,1. Champions Lg,12,8,843,3,3,2,2,2,0,0.32,0.32
+1427,Frank Lampard,2012-2013,34,Chelsea,GR,1. Champions Lg,3,3,198,0,1,0,0,0,0,0.00,0.45
+1428,Frank Lampard,2012-2013,34,Chelsea,W,2. Europa Lg,7,7,620,0,4,0,0,0,0,0.00,0.58
+1429,Frank Lampard,2013-2014,35,Chelsea,SF,1. Champions Lg,11,9,799,1,2,0,0,3,0,0.11,0.23
+1430,Frank Lampard,2014-2015,36,Manchester City,R16,1. Champions Lg,3,1,126,0,0,0,0,0,0,0.00,0.00
+1431,Michael Ballack,1998-1999,21,Kaiserslautern,QF,1. Champions Lg,6,6,466,0,,0,,1,0,0.00,
+1432,Michael Ballack,1999-2000,22,Leverkusen,Rd3,2. UEFA Cup,2,2,172,2,,0,,0,0,1.05,
+1433,Michael Ballack,2000-2001,23,Leverkusen,GR1,1. Champions Lg,5,5,435,2,0,0,0,1,0,0.41,0.00
+1434,Michael Ballack,2001-2002,24,Leverkusen,F,1. Champions Lg,15,15,"1,346",6,3,0,0,3,0,0.40,0.20
+1435,Michael Ballack,2002-2003,25,Bayern Munich,GR1,1. Champions Lg,5,5,412,0,0,0,0,1,0,0.00,0.00
+1436,Michael Ballack,2003-2004,26,Bayern Munich,R16,1. Champions Lg,8,8,720,0,0,0,0,2,0,0.00,0.00
+1437,Michael Ballack,2004-2005,27,Bayern Munich,QF,1. Champions Lg,9,9,810,2,2,1,1,2,0,0.22,0.22
+1438,Michael Ballack,2005-2006,28,Bayern Munich,R16,1. Champions Lg,6,6,532,1,0,0,0,1,0,0.17,0.00
+1439,Michael Ballack,2006-2007,29,Chelsea,SF,1. Champions Lg,10,10,885,2,0,1,1,2,0,0.20,0.00
+1440,Michael Ballack,2007-2008,30,Chelsea,F,1. Champions Lg,7,7,683,2,0,0,0,1,0,0.26,0.00
+1441,Michael Ballack,2008-2009,31,Chelsea,SF,1. Champions Lg,10,9,829,0,0,0,0,3,0,0.00,0.00
+1442,Michael Ballack,2009-2010,32,Chelsea,R16,1. Champions Lg,6,5,431,0,0,0,0,1,0,0.00,0.00
+1443,Michael Ballack,2010-2011,33,Leverkusen,R16,2. Europa Lg,2,1,127,1,0,0,0,0,0,0.71,0.00
+1444,Michael Ballack,2011-2012,34,Leverkusen,R16,1. Champions Lg,6,5,436,1,2,0,0,2,0,0.21,0.41
+1445,Nemanja Vidić,2002-2003,20,Red Star,Rd2,2. UEFA Cup,4,4,360,0,,0,,1,0,0.00,
+1446,Nemanja Vidić,2003-2004,21,Red Star,Rd2,2. UEFA Cup,4,4,360,2,,0,,1,0,0.50,
+1447,Nemanja Vidić,2006-2007,24,Manchester Utd,SF,1. Champions Lg,8,8,676,1,0,0,0,1,0,0.13,0.00
+1448,Nemanja Vidić,2007-2008,25,Manchester Utd,W,1. Champions Lg,9,9,783,0,0,0,0,1,0,0.00,0.00
+1449,Nemanja Vidić,2008-2009,26,Manchester Utd,F,1. Champions Lg,9,9,810,1,0,0,0,2,0,0.11,0.00
+1450,Nemanja Vidić,2009-2010,27,Manchester Utd,QF,1. Champions Lg,7,7,630,0,0,0,0,2,0,0.00,0.00
+1451,Nemanja Vidić,2010-2011,28,Manchester Utd,F,1. Champions Lg,9,9,810,0,0,0,0,1,0,0.00,0.00
+1452,Nemanja Vidić,2011-2012,29,Manchester Utd,GR,1. Champions Lg,2,2,110,0,0,0,0,0,1,0.00,0.00
+1453,Nemanja Vidić,2012-2013,30,Manchester Utd,R16,1. Champions Lg,2,2,180,0,0,0,0,1,0,0.00,0.00
+1454,Nemanja Vidić,2013-2014,31,Manchester Utd,QF,1. Champions Lg,6,6,540,1,0,0,0,2,0,0.17,0.00
+1455,Nemanja Vidić,2014-2015,32,Inter,R16,2. Europa Lg,0,0,,,,,,,,,
+1456,Nemanja Vidić,2014-2015,32,Inter,R16,2. Europa Lg,4,3,302,0,0,0,0,1,0,0.00,0.00
+1457,Edwin van der Sar,2000-2001,29,Juventus,GR1,1. Champions Lg,6,6,505,12,2.14,25,13,.520,1,2,2
+1458,Edwin van der Sar,2005-2006,34,Manchester Utd,GR,1. Champions Lg,6,6,540,4,0.67,21,17,.810,1,3,2
+1459,Edwin van der Sar,2006-2007,35,Manchester Utd,SF,1. Champions Lg,12,12,"1,080",13,1.08,45,32,.711,8,0,4
+1460,Edwin van der Sar,2007-2008,36,Manchester Utd,W,1. Champions Lg,10,10,877,4,0.41,41,37,.902,7,3,0
+1461,Edwin van der Sar,2008-2009,37,Manchester Utd,F,1. Champions Lg,10,10,900,5,0.50,38,33,.868,6,3,1
+1462,Edwin van der Sar,2009-2010,38,Manchester Utd,QF,1. Champions Lg,6,6,540,9,1.50,34,25,.735,4,1,1
+1463,Edwin van der Sar,2010-2011,39,Manchester Utd,F,1. Champions Lg,10,10,900,6,0.60,46,40,.870,8,1,1
+1464,Rafael van der Vaart,2000-2001,17,Ajax,Rd2,2. UEFA Cup,4,3,264,2,,0,,0,0,0.68,
+1465,Rafael van der Vaart,2001-2002,18,Ajax,Rd2,2. UEFA Cup,3,3,270,1,,0,,0,0,0.33,
+1466,Rafael van der Vaart,2002-2003,19,Ajax,QF,1. Champions Lg,6,5,485,2,2,0,0,2,0,0.37,0.37
+1467,Rafael van der Vaart,2003-2004,20,Ajax,GR,1. Champions Lg,5,5,386,1,0,0,0,3,0,0.23,0.00
+1468,Rafael van der Vaart,2004-2005,21,Ajax,GR,1. Champions Lg,6,5,447,1,0,0,0,1,0,0.20,0.00
+1469,Rafael van der Vaart,2004-2005,21,Ajax,R32,2. UEFA Cup,1,1,78,0,,0,,0,0,0.00,
+1470,Rafael van der Vaart,2005-2006,22,Hamburger SV,R16,2. UEFA Cup,8,7,656,5,,1,,1,0,0.69,
+1471,Rafael van der Vaart,2006-2007,23,Hamburger SV,GR,1. Champions Lg,3,3,270,3,1,0,0,2,0,1.00,0.33
+1472,Rafael van der Vaart,2007-2008,24,Hamburger SV,R16,2. UEFA Cup,8,8,639,3,,0,,1,0,0.42,
+1473,Rafael van der Vaart,2008-2009,25,Real Madrid,R16,1. Champions Lg,7,4,320,0,0,0,0,0,0,0.00,0.00
+1474,Rafael van der Vaart,2009-2010,26,Real Madrid,R16,1. Champions Lg,3,1,132,0,0,0,0,1,0,0.00,0.00
+1475,Rafael van der Vaart,2010-2011,27,Tottenham,QF,1. Champions Lg,7,7,420,2,1,0,1,1,1,0.43,0.21
+1476,Yuri Zhirkov,2004-2005,20,CSKA Moscow,GR,1. Champions Lg,6,6,540,0,0,0,0,2,0,0.00,0.00
+1477,Yuri Zhirkov,2004-2005,20,CSKA Moscow,W,2. UEFA Cup,8,8,720,1,,0,,1,0,0.12,
+1478,Yuri Zhirkov,2005-2006,21,CSKA Moscow,GR,2. UEFA Cup,4,3,309,0,,0,,0,0,0.00,
+1479,Yuri Zhirkov,2006-2007,22,CSKA Moscow,GR,1. Champions Lg,6,6,540,1,0,0,0,2,0,0.17,0.00
+1480,Yuri Zhirkov,2006-2007,22,CSKA Moscow,R32,2. UEFA Cup,2,2,180,0,,0,,0,0,0.00,
+1481,Yuri Zhirkov,2007-2008,23,CSKA Moscow,GR,1. Champions Lg,6,6,540,0,1,0,0,3,0,0.00,0.17
+1482,Yuri Zhirkov,2008-2009,24,CSKA Moscow,R16,2. UEFA Cup,9,8,716,2,,0,,3,0,0.25,
+1483,Yuri Zhirkov,2009-2010,25,Chelsea,R16,1. Champions Lg,4,3,271,0,1,0,0,1,0,0.00,0.33
+1484,Yuri Zhirkov,2010-2011,26,Chelsea,QF,1. Champions Lg,7,6,493,1,0,0,0,2,0,0.18,0.00
+1485,Yuri Zhirkov,2012-2013,28,Anzhi,R16,2. Europa Lg,8,7,703,0,1,0,0,4,0,0.00,0.13
+1486,Yuri Zhirkov,2014-2015,30,Dynamo Mosc,R16,,8,4,441,2,1,0,0,0,0,0.41,0.20
+1487,Yuri Zhirkov,2015-2016,31,Zenit,R16,2. Europa Lg,2,1,99,0,1,0,0,0,0,0.00,0.91
+1488,Yuri Zhirkov,2016-2017,32,Zenit,R32,1. Champions Lg,6,5,436,0,0,0,0,0,0,0.00,0.00
+1489,Yuri Zhirkov,2017-2018,33,Zenit,R16,2. Europa Lg,4,2,216,0,0,0,0,0,0,0.00,0.00
+1490,Yuri Zhirkov,2019-2020,35,Zenit,GR,2. Europa Lg,2,1,73,0,1,0,0,0,0,0.00,1.23
+1491,Yuri Zhirkov,2020-2021,36,Zenit,GR,,3,2,166,0,0,0,0,0,0,0.00,0.00
+1492,Luís Fabiano,2004-2005,23,Porto,R16,1. Champions Lg,4,2,223,0,0,0,0,1,0,0.00,0.00
+1493,Luís Fabiano,2005-2006,24,Sevilla,W,2. UEFA Cup,12,10,751,2,,0,,2,0,0.24,
+1494,Luís Fabiano,2006-2007,25,Sevilla,W,2. UEFA Cup,10,7,623,4,,0,,5,0,0.58,
+1495,Luís Fabiano,2007-2008,26,Sevilla,R16,1. Champions Lg,8,8,494,4,1,0,0,0,0,0.73,0.18
+1496,Luís Fabiano,2008-2009,27,Sevilla,GR,2. UEFA Cup,4,4,342,2,,1,,0,0,0.53,
+1497,Luís Fabiano,2009-2010,28,Sevilla,R16,1. Champions Lg,6,5,422,2,4,0,0,1,0,0.43,0.85
+1498,Luís Fabiano,2010-2011,29,Sevilla,R32,2. Europa Lg,6,4,387,1,0,0,0,1,0,0.23,0.00
+1499,Luís Fabiano,2014,33,São Paulo,SF,2. Sudamericana,3,3,231,0,0,0,0,1,1,0.00,0.00
+1500,Luís Fabiano,2015,34,São Paulo,R16,1. Libertadores,6,4,418,1,0,0,0,3,1,0.22,0.00
+1501,Diego Forlán,2001-2002,22,Manchester Utd,SF,1. Champions Lg,5,1,148,0,0,0,0,0,0,0.00,0.00
+1502,Diego Forlán,2002-2003,23,Manchester Utd,QF,1. Champions Lg,11,5,456,1,0,1,1,0,0,0.20,0.00
+1503,Diego Forlán,2003-2004,24,Manchester Utd,R16,1. Champions Lg,4,2,185,2,0,0,0,0,0,0.97,0.00
+1504,Diego Forlán,2005-2006,26,Villarreal,SF,1. Champions Lg,12,12,"1,028",3,0,0,0,2,0,0.26,0.00
+1505,Diego Forlán,2007-2008,28,Atlético Madrid,R32,,8,7,636,4,,1,,0,0,0.57,
+1506,Diego Forlán,2008-2009,29,Atlético Madrid,R16,2. UEFA Cup,7,5,443,1,1,0,0,0,0,0.20,0.20
+1507,Diego Forlán,2009-2010,30,Atlético Madrid,GR,1. Champions Lg,6,6,537,0,0,0,0,0,0,0.00,0.00
+1508,Diego Forlán,2009-2010,30,Atlético Madrid,W,1. Champions Lg,9,7,688,6,0,0,0,2,0,0.78,0.00
+1509,Diego Forlán,2010-2011,31,Atlético Madrid,GR,2. Europa Lg,6,5,387,1,0,0,0,0,0,0.23,0.00
+1510,Diego Forlán,2011-2012,32,Inter,R16,2. Europa Lg,2,2,148,0,0,0,0,0,0,0.00,0.00
+1511,Diego Forlán,2016,36,Peñarol,2S,1. Champions Lg,3,3,251,0,0,0,0,0,0,0.00,0.00
+1512,Yoann Gourcuff,2005-2006,19,Rennes,GR,2. UEFA Cup,5,2,252,0,,0,,0,0,0.00,
+1513,Yoann Gourcuff,2006-2007,20,Milan,W,1. Champions Lg,7,4,357,1,0,0,0,0,0,0.25,0.00
+1514,Yoann Gourcuff,2007-2008,21,Milan,R16,1. Champions Lg,3,0,95,0,0,0,0,0,0,0.00,0.00
+1515,Yoann Gourcuff,2008-2009,22,Bordeaux,GR,1. Champions Lg,6,6,540,2,1,0,0,2,0,0.33,0.17
+1516,Yoann Gourcuff,2008-2009,22,Bordeaux,R32,2. UEFA Cup,1,1,90,0,,0,,0,0,0.00,
+1517,Yoann Gourcuff,2009-2010,23,Bordeaux,QF,1. Champions Lg,8,8,675,2,2,0,1,1,0,0.27,0.27
+1518,Yoann Gourcuff,2010-2011,24,Lyon,R16,1. Champions Lg,7,7,542,1,1,0,0,1,0,0.17,0.17
+1519,Yoann Gourcuff,2011-2012,25,Lyon,R16,1. Champions Lg,5,4,355,0,0,0,0,0,0,0.00,0.00
+1520,Yoann Gourcuff,2012-2013,26,Lyon,R32,2. Europa Lg,3,3,205,1,1,0,0,1,0,0.44,0.44
+1521,Yoann Gourcuff,2013-2014,27,Lyon,QF,2. Europa Lg,4,3,300,0,1,0,0,0,0,0.00,0.30
+1522,Júlio César,2005-2006,25,Inter,QF,1. Champions Lg,5,5,450,3,0.60,19,16,.842,4,0,1
+1523,Júlio César,2006-2007,26,Inter,R16,1. Champions Lg,6,6,540,5,0.83,26,21,.808,3,2,1
+1524,Júlio César,2007-2008,27,Inter,R16,1. Champions Lg,8,8,720,7,0.87,29,22,.759,5,0,3
+1525,Júlio César,2008-2009,28,Inter,R16,1. Champions Lg,7,7,630,9,1.29,50,41,.820,1,3,3
+1526,Júlio César,2009-2010,29,Inter,W,1. Champions Lg,13,13,"1,170",9,0.69,49,40,.816,8,3,2
+1527,Júlio César,2010-2011,30,Inter,QF,1. Champions Lg,7,7,586,15,2.30,35,20,.571,2,1,3
+1528,Júlio César,2011-2012,31,Inter,R16,1. Champions Lg,6,6,540,6,1.00,25,19,.760,3,1,2
+1529,Júlio César,2014-2015,34,Benfica,GR,1. Champions Lg,3,3,270,3,1.00,17,14,.824,1,0,2
+1530,Júlio César,2015-2016,35,Benfica,QF,1. Champions Lg,7,7,630,8,1.14,30,22,.733,4,1,2
+1531,Júlio César,2017-2018,37,Benfica,GR,1. Champions Lg,1,1,90,5,5.00,8,3,.500,0,0,1
+1532,Maicon,2004-2005,23,Monaco,R16,1. Champions Lg,7,7,630,1,0,0,0,1,0,0.14,0.00
+1533,Maicon,2005-2006,24,Monaco,R32,2. UEFA Cup,5,5,450,1,,0,,0,0,0.20,
+1534,Maicon,2006-2007,25,Inter,R16,1. Champions Lg,8,8,720,1,0,0,0,2,0,0.12,0.00
+1535,Maicon,2007-2008,26,Inter,R16,1. Champions Lg,4,4,360,0,0,0,0,0,0,0.00,0.00
+1536,Maicon,2008-2009,27,Inter,R16,1. Champions Lg,8,8,720,1,1,0,0,2,0,0.12,0.12
+1537,Maicon,2009-2010,28,Inter,W,1. Champions Lg,13,13,"1,153",1,1,0,0,2,0,0.08,0.08
+1538,Maicon,2010-2011,29,Inter,QF,1. Champions Lg,8,8,720,0,0,0,0,1,0,0.00,0.00
+1539,Maicon,2011-2012,30,Inter,R16,1. Champions Lg,3,3,226,0,0,0,0,0,0,0.00,0.00
+1540,Maicon,2012-2013,31,Manchester City,GR,1. Champions Lg,3,3,254,0,0,0,0,1,0,0.00,0.00
+1541,Maicon,2014-2015,33,Roma,GR,1. Champions Lg,3,3,257,1,0,0,0,1,0,0.35,0.00
+1542,Maicon,2015-2016,34,Roma,R16,1. Champions Lg,3,1,114,0,0,0,0,0,0,0.00,0.00
+1543,John Terry,2001-2002,20,Chelsea,Rd2,2. UEFA Cup,4,4,360,1,,0,,1,0,0.25,
+1544,John Terry,2002-2003,21,Chelsea,Rd1,2. UEFA Cup,1,1,90,1,,0,,0,0,1.00,
+1545,John Terry,2003-2004,22,Chelsea,SF,1. Champions Lg,11,11,990,0,0,0,0,2,0,0.00,0.00
+1546,John Terry,2004-2005,23,Chelsea,SF,1. Champions Lg,11,11,990,4,0,0,0,0,0,0.36,0.00
+1547,John Terry,2005-2006,24,Chelsea,R16,1. Champions Lg,8,8,720,0,0,0,0,2,0,0.00,0.00
+1548,John Terry,2006-2007,25,Chelsea,SF,1. Champions Lg,10,10,853,0,1,0,0,3,0,0.00,0.11
+1549,John Terry,2007-2008,26,Chelsea,F,1. Champions Lg,10,10,960,0,0,0,0,2,0,0.00,0.00
+1550,John Terry,2008-2009,27,Chelsea,SF,1. Champions Lg,11,11,990,2,0,0,0,3,0,0.18,0.00
+1551,John Terry,2009-2010,28,Chelsea,R16,1. Champions Lg,8,8,720,0,0,0,0,2,0,0.00,0.00
+1552,John Terry,2010-2011,29,Chelsea,QF,1. Champions Lg,8,8,702,1,0,0,0,2,0,0.13,0.00
+1553,John Terry,2011-2012,30,Chelsea,W,1. Champions Lg,8,8,645,1,0,0,0,0,1,0.14,0.00
+1554,John Terry,2012-2013,31,Chelsea,GR,1. Champions Lg,2,2,180,0,0,0,0,0,0,0.00,0.00
+1555,John Terry,2012-2013,31,Chelsea,W,2. Europa Lg,6,6,540,1,0,0,0,1,0,0.17,0.00
+1556,John Terry,2013-2014,32,Chelsea,SF,1. Champions Lg,11,11,972,0,0,0,0,1,0,0.00,0.00
+1557,John Terry,2014-2015,33,Chelsea,R16,1. Champions Lg,7,7,660,2,1,0,0,1,0,0.27,0.14
+1558,John Terry,2015-2016,34,Chelsea,R16,1. Champions Lg,4,4,342,0,0,0,0,0,0,0.00,0.00
+1559,Yaya Touré,2004-2005,21,Met Donetsk,Rd1,2. UEFA Cup,2,2,180,0,,0,,0,0,0.00,
+1560,Yaya Touré,2005-2006,22,Olympiacos,GR,1. Champions Lg,6,6,539,0,1,0,0,1,0,0.00,0.17
+1561,Yaya Touré,2007-2008,24,Barcelona,SF,1. Champions Lg,9,9,761,1,0,0,0,3,0,0.12,0.00
+1562,Yaya Touré,2008-2009,25,Barcelona,W,1. Champions Lg,10,9,802,0,0,0,0,1,0,0.00,0.00
+1563,Yaya Touré,2009-2010,26,Barcelona,SF,1. Champions Lg,8,7,605,0,2,0,0,1,0,0.00,0.30
+1564,Yaya Touré,2010-2011,27,Manchester City,R16,2. Europa Lg,7,6,556,1,1,0,0,1,0,0.16,0.16
+1565,Yaya Touré,2011-2012,28,Manchester City,GR,1. Champions Lg,6,6,515,3,0,0,0,1,0,0.52,0.00
+1566,Yaya Touré,2011-2012,28,Manchester City,R16,2. Europa Lg,3,3,270,0,0,0,0,3,0,0.00,0.00
+1567,Yaya Touré,2012-2013,29,Manchester City,GR,1. Champions Lg,5,5,450,1,1,0,0,3,0,0.20,0.20
+1568,Yaya Touré,2013-2014,30,Manchester City,R16,1. Champions Lg,7,6,556,1,0,0,0,3,0,0.16,0.00
+1569,Yaya Touré,2014-2015,31,Manchester City,R16,1. Champions Lg,5,5,424,1,0,0,0,1,1,0.21,0.00
+1570,Yaya Touré,2015-2016,32,Manchester City,SF,1. Champions Lg,10,9,743,1,2,0,0,0,0,0.12,0.24
+1571,Yaya Touré,2016-2017,33,Manchester City,R16,1. Champions Lg,1,1,90,0,0,0,0,0,0,0.00,0.00
+1572,Yaya Touré,2017-2018,34,Manchester City,QF,1. Champions Lg,3,3,255,0,0,0,0,0,0,0.00,0.00
+1573,Yaya Touré,2018-2019,35,Olympiacos,R32,2. Europa Lg,2,1,110,0,0,0,0,0,0,0.00,0.00
+1574,Arjen Robben,2002-2003,18,PSV Eindhoven,GR1,1. Champions Lg,4,2,239,1,0,0,0,0,0,0.38,0.00
+1575,Arjen Robben,2003-2004,19,PSV Eindhoven,GR,1. Champions Lg,6,5,479,2,2,0,0,2,0,0.38,0.38
+1576,Arjen Robben,2003-2004,19,PSV Eindhoven,QF,2. UEFA Cup,2,2,125,0,,0,,0,0,0.00,
+1577,Arjen Robben,2004-2005,20,Chelsea,SF,1. Champions Lg,5,2,227,1,0,0,0,0,0,0.40,0.00
+1578,Arjen Robben,2005-2006,21,Chelsea,R16,1. Champions Lg,6,6,439,0,1,0,0,2,0,0.00,0.21
+1579,Arjen Robben,2006-2007,22,Chelsea,SF,1. Champions Lg,8,3,351,1,1,0,0,2,0,0.26,0.26
+1580,Arjen Robben,2007-2008,23,Real Madrid,R16,1. Champions Lg,5,2,221,0,0,0,0,0,0,0.00,0.00
+1581,Arjen Robben,2008-2009,24,Real Madrid,R16,1. Champions Lg,6,5,405,1,1,0,0,0,0,0.22,0.22
+1582,Arjen Robben,2009-2010,25,Bayern Munich,F,1. Champions Lg,10,8,690,4,0,1,1,0,0,0.52,0.00
+1583,Arjen Robben,2010-2011,26,Bayern Munich,R16,1. Champions Lg,2,2,158,0,0,0,0,0,0,0.00,0.00
+1584,Arjen Robben,2011-2012,27,Bayern Munich,F,1. Champions Lg,8,7,668,4,1,1,2,2,0,0.54,0.13
+1585,Arjen Robben,2012-2013,28,Bayern Munich,W,1. Champions Lg,9,7,731,4,2,0,0,1,0,0.49,0.25
+1586,Arjen Robben,2013-2014,29,Bayern Munich,SF,1. Champions Lg,10,10,877,4,4,0,0,0,0,0.41,0.41
+1587,Arjen Robben,2014-2015,30,Bayern Munich,SF,1. Champions Lg,7,5,428,2,1,0,0,0,0,0.42,0.21
+1588,Arjen Robben,2015-2016,31,Bayern Munich,SF,1. Champions Lg,3,2,159,2,1,0,0,0,0,1.13,0.57
+1589,Arjen Robben,2016-2017,32,Bayern Munich,QF,1. Champions Lg,8,7,634,3,0,0,0,1,0,0.43,0.00
+1590,Arjen Robben,2017-2018,33,Bayern Munich,SF,1. Champions Lg,9,6,494,0,1,0,0,0,0,0.00,0.18
+1591,Arjen Robben,2018-2019,34,Bayern Munich,R16,1. Champions Lg,4,4,312,2,1,0,0,1,0,0.58,0.29
+1592,Philipp Lahm,2002-2003,18,Bayern Munich,GR1,1. Champions Lg,1,0,1,0,0,0,0,0,0,0.00,0.00
+1593,Philipp Lahm,2003-2004,19,Stuttgart,R16,1. Champions Lg,7,7,611,0,1,0,0,0,0,0.00,0.15
+1594,Philipp Lahm,2004-2005,20,Stuttgart,R32,2. UEFA Cup,6,6,540,2,,0,,0,0,0.33,
+1595,Philipp Lahm,2005-2006,21,Bayern Munich,R16,1. Champions Lg,3,2,208,0,0,0,0,0,0,0.00,0.00
+1596,Philipp Lahm,2006-2007,22,Bayern Munich,QF,1. Champions Lg,9,9,810,0,1,0,0,0,0,0.00,0.11
+1597,Philipp Lahm,2007-2008,23,Bayern Munich,SF,2. UEFA Cup,10,9,874,1,,0,,2,0,0.10,
+1598,Philipp Lahm,2008-2009,24,Bayern Munich,QF,1. Champions Lg,8,8,676,0,0,0,0,1,0,0.00,0.00
+1599,Philipp Lahm,2009-2010,25,Bayern Munich,F,1. Champions Lg,13,13,"1,170",0,1,0,0,1,0,0.00,0.08
+1600,Philipp Lahm,2010-2011,26,Bayern Munich,R16,1. Champions Lg,8,8,720,0,0,0,0,0,0,0.00,0.00
+1601,Philipp Lahm,2011-2012,27,Bayern Munich,F,1. Champions Lg,12,12,"1,140",0,1,0,0,2,0,0.00,0.08
+1602,Philipp Lahm,2012-2013,28,Bayern Munich,W,1. Champions Lg,12,12,"1,067",0,4,0,0,2,0,0.00,0.34
+1603,Philipp Lahm,2013-2014,29,Bayern Munich,SF,1. Champions Lg,12,12,991,0,4,0,0,0,0,0.00,0.36
+1604,Philipp Lahm,2014-2015,30,Bayern Munich,SF,1. Champions Lg,8,8,696,0,0,0,0,2,0,0.00,0.00
+1605,Philipp Lahm,2015-2016,31,Bayern Munich,SF,1. Champions Lg,12,12,"1,110",0,0,0,0,0,0,0.00,0.00
+1606,Philipp Lahm,2016-2017,32,Bayern Munich,QF,1. Champions Lg,7,7,660,0,1,0,0,3,0,0.00,0.14
+1607,James Rodríguez,2010-2011,19,Porto,W,2. Europa Lg,9,4,369,1,3,0,0,1,0,0.24,0.73
+1608,James Rodríguez,2011-2012,20,Porto,GR,1. Champions Lg,6,5,407,1,1,0,0,2,0,0.22,0.22
+1609,James Rodríguez,2011-2012,20,Porto,R32,2. Europa Lg,2,2,170,0,0,0,0,0,0,0.00,0.00
+1610,James Rodríguez,2012-2013,21,Porto,R16,1. Champions Lg,8,6,614,1,1,0,0,1,0,0.15,0.15
+1611,James Rodríguez,2014-2015,23,Real Madrid,SF,1. Champions Lg,9,8,705,1,2,0,0,3,0,0.13,0.26
+1612,James Rodríguez,2014-2015,23,Real Madrid,1st,Super Cup,1,1,71,0,0,0,0,0,0,0.00,0.00
+1613,James Rodríguez,2015-2016,24,Real Madrid,W,1. Champions Lg,5,3,265,1,0,0,0,0,0,0.34,0.00
+1614,James Rodríguez,2016-2017,25,Real Madrid,W,1. Champions Lg,6,4,318,0,2,0,0,0,0,0.00,0.57
+1615,James Rodríguez,2016-2017,25,Real Madrid,1st,Super Cup,1,0,48,0,0,0,0,1,0,0.00,0.00
+1616,James Rodríguez,2017-2018,26,Bayern Munich,SF,1. Champions Lg,12,8,779,1,2,0,0,1,0,0.12,0.23
+1617,James Rodríguez,2018-2019,27,Bayern Munich,R16,1. Champions Lg,5,4,333,0,1,0,0,1,0,0.00,0.27
+1618,James Rodríguez,2019-2020,28,Real Madrid,R16,1. Champions Lg,2,1,81,0,0,0,0,0,0,0.00,0.00
+1619,Ángel Di María,2007-2008,19,Benfica,GR,1. Champions Lg,6,3,293,0,1,0,0,1,0,0.00,0.31
+1620,Ángel Di María,2007-2008,19,Benfica,R16,2. UEFA Cup,4,1,133,1,,0,,0,0,0.68,
+1621,Ángel Di María,2008-2009,20,Benfica,GR,2. UEFA Cup,5,4,341,1,,0,,2,0,0.26,
+1622,Ángel Di María,2009-2010,21,Benfica,QF,2. Europa Lg,12,11,972,3,6,0,0,1,0,0.28,0.56
+1623,Ángel Di María,2010-2011,22,Real Madrid,SF,1. Champions Lg,10,8,724,3,3,0,0,2,0,0.37,0.37
+1624,Ángel Di María,2011-2012,23,Real Madrid,SF,1. Champions Lg,7,5,455,2,1,0,0,1,0,0.40,0.20
+1625,Ángel Di María,2012-2013,24,Real Madrid,SF,1. Champions Lg,11,9,796,0,4,0,0,0,0,0.00,0.45
+1626,Ángel Di María,2013-2014,25,Real Madrid,W,1. Champions Lg,11,9,822,3,6,0,1,1,0,0.33,0.66
+1627,Ángel Di María,2015-2016,27,Paris S-G,QF,1. Champions Lg,10,9,767,3,3,0,0,0,0,0.35,0.35
+1628,Ángel Di María,2016-2017,28,Paris S-G,R16,1. Champions Lg,7,6,540,4,1,0,0,0,0,0.67,0.17
+1629,Ángel Di María,2017-2018,29,Paris S-G,R16,1. Champions Lg,5,1,143,1,1,0,0,0,0,0.63,0.63
+1630,Ángel Di María,2018-2019,30,Paris S-G,R16,1. Champions Lg,8,8,656,2,3,0,0,1,0,0.27,0.41
+1631,Ángel Di María,2019-2020,31,Paris S-G,F,1. Champions Lg,9,9,744,3,6,0,0,3,0,0.36,0.73
+1632,Ángel Di María,2020-2021,32,Paris S-G,R16,1. Champions Lg,5,4,355,1,2,0,1,0,0,0.25,0.51
+1633,Diego Costa,2006-2007,17,Braga,R16,2. UEFA Cup,2,0,40,1,,0,,1,0,2.25,
+1634,Diego Costa,2010-2011,21,Atlético Madrid,GR,2. Europa Lg,6,3,355,1,0,0,0,0,0,0.25,0.00
+1635,Diego Costa,2012-2013,23,Atlético Madrid,R32,2. Europa Lg,5,5,377,2,1,0,0,1,1,0.48,0.24
+1636,Diego Costa,2013-2014,24,Atlético Madrid,F,1. Champions Lg,9,9,581,8,1,1,2,2,0,1.24,0.15
+1637,Diego Costa,2014-2015,25,Chelsea,R16,1. Champions Lg,7,5,507,0,1,0,0,1,0,0.00,0.18
+1638,Diego Costa,2015-2016,26,Chelsea,R16,1. Champions Lg,8,7,663,2,1,0,0,1,0,0.27,0.14
+1639,Diego Costa,2017-2018,28,Atlético Madrid,W,,5,5,387,2,1,0,0,1,0,0.47,0.23
+1640,Diego Costa,2018-2019,29,Atlético Madrid,R16,2. Europa Lg,4,4,305,1,1,0,0,3,0,0.30,0.30
+1641,Diego Costa,2018-2019,29,Atlético Madrid,1st,1. Champions Lg,1,1,108,2,0,0,0,1,0,1.67,0.00
+1642,Diego Costa,2019-2020,30,Atlético Madrid,QF,Super Cup,7,6,456,0,1,0,0,1,0,0.00,0.20
+1643,Mario Götze,2010-2011,18,Dortmund,GR,2. Europa Lg,4,3,311,2,0,0,0,0,0,0.58,0.00
+1644,Mario Götze,2011-2012,19,Dortmund,GR,1. Champions Lg,6,6,403,0,2,0,0,0,0,0.00,0.45
+1645,Mario Götze,2012-2013,20,Dortmund,F,1. Champions Lg,11,11,887,2,5,0,0,1,0,0.20,0.51
+1646,Mario Götze,2013-2014,21,Bayern Munich,SF,1. Champions Lg,11,6,528,3,1,0,0,0,0,0.51,0.17
+1647,Mario Götze,2014-2015,22,Bayern Munich,SF,1. Champions Lg,11,9,747,4,1,0,0,0,0,0.48,0.12
+1648,Mario Götze,2015-2016,23,Bayern Munich,SF,1. Champions Lg,4,1,106,2,0,0,0,0,0,1.70,0.00
+1649,Mario Götze,2016-2017,24,Dortmund,QF,1. Champions Lg,4,4,292,1,1,0,0,1,0,0.31,0.31
+1650,Mario Götze,2017-2018,25,Dortmund,GR,1. Champions Lg,5,4,370,0,1,0,0,0,0,0.00,0.24
+1651,Mario Götze,2017-2018,25,Dortmund,R16,2. Europa Lg,4,3,226,0,2,0,0,0,0,0.00,0.80
+1652,Mario Götze,2018-2019,26,Dortmund,R16,1. Champions Lg,6,5,437,0,0,0,0,0,0,0.00,0.00
+1653,Mario Götze,2019-2020,27,Dortmund,R16,1. Champions Lg,4,1,74,0,1,0,0,0,0,0.00,1.22
+1654,Mario Götze,2020-2021,28,PSV Eindhoven,R32,2. Europa Lg,4,4,307,1,0,0,0,1,0,0.29,0.00
+1655,Bastian Schweinsteiger,2002-2003,17,Bayern Munich,GR1,1. Champions Lg,1,0,12,0,0,0,0,0,0,0.00,0.00
+1656,Bastian Schweinsteiger,2003-2004,18,Bayern Munich,R16,1. Champions Lg,3,0,83,0,0,0,0,0,0,0.00,0.00
+1657,Bastian Schweinsteiger,2004-2005,19,Bayern Munich,QF,1. Champions Lg,7,4,405,1,1,0,0,1,0,0.22,0.22
+1658,Bastian Schweinsteiger,2005-2006,20,Bayern Munich,R16,1. Champions Lg,7,4,478,0,3,0,0,1,0,0.00,0.56
+1659,Bastian Schweinsteiger,2006-2007,21,Bayern Munich,QF,1. Champions Lg,8,8,665,2,0,0,0,2,1,0.27,0.00
+1660,Bastian Schweinsteiger,2007-2008,22,Bayern Munich,SF,2. UEFA Cup,12,11,867,0,,0,,1,0,0.00,
+1661,Bastian Schweinsteiger,2008-2009,23,Bayern Munich,QF,1. Champions Lg,9,9,729,2,1,0,0,0,0,0.25,0.12
+1662,Bastian Schweinsteiger,2009-2010,24,Bayern Munich,F,1. Champions Lg,12,12,"1,069",0,0,0,0,3,0,0.00,0.00
+1663,Bastian Schweinsteiger,2010-2011,25,Bayern Munich,R16,1. Champions Lg,7,7,604,2,2,1,1,3,0,0.30,0.30
+1664,Bastian Schweinsteiger,2011-2012,26,Bayern Munich,F,1. Champions Lg,9,7,664,0,2,0,0,4,0,0.00,0.27
+1665,Bastian Schweinsteiger,2012-2013,27,Bayern Munich,W,1. Champions Lg,12,11,938,2,4,0,0,4,0,0.19,0.38
+1666,Bastian Schweinsteiger,2013-2014,28,Bayern Munich,SF,1. Champions Lg,8,7,588,3,0,0,0,0,1,0.46,0.00
+1667,Bastian Schweinsteiger,2014-2015,29,Bayern Munich,SF,1. Champions Lg,6,5,456,0,3,0,0,1,0,0.00,0.59
+1668,Bastian Schweinsteiger,2015-2016,30,Manchester Utd,GR,1. Champions Lg,6,6,424,0,0,0,0,1,0,0.00,0.00
+1669,Bastian Schweinsteiger,2015-2016,30,Manchester Utd,R16,2. Europa Lg,2,0,31,0,0,0,0,1,0,0.00,0.00
+1670,Bastian Schweinsteiger,2016-2017,31,Manchester Utd,W,2. Europa Lg,1,0,28,0,0,0,0,0,0,0.00,0.00
+1671,Javier Mascherano,2006-2007,22,Liverpool,F,1. Champions Lg,4,4,376,0,0,0,0,3,0,0.00,0.00
+1672,Javier Mascherano,2006-2007,22,West Ham,Rd1,2. UEFA Cup,2,2,158,0,,0,,0,0,0.00,
+1673,Javier Mascherano,2007-2008,23,Liverpool,SF,1. Champions Lg,11,11,"1,004",0,1,0,0,0,0,0.00,0.09
+1674,Javier Mascherano,2008-2009,24,Liverpool,QF,1. Champions Lg,8,8,686,0,1,0,0,3,0,0.00,0.13
+1675,Javier Mascherano,2009-2010,25,Liverpool,GR,1. Champions Lg,5,4,358,0,0,0,0,0,0,0.00,0.00
+1676,Javier Mascherano,2009-2010,25,Liverpool,SF,2. Europa Lg,8,8,740,1,1,0,0,2,0,0.12,0.12
+1677,Javier Mascherano,2010-2011,26,Barcelona,W,1. Champions Lg,11,10,880,0,0,0,0,1,0,0.00,0.00
+1678,Javier Mascherano,2011-2012,27,Barcelona,SF,1. Champions Lg,10,10,900,0,0,0,0,2,0,0.00,0.00
+1679,Javier Mascherano,2012-2013,28,Barcelona,SF,1. Champions Lg,8,7,613,0,0,0,0,3,0,0.00,0.00
+1680,Javier Mascherano,2013-2014,29,Barcelona,QF,1. Champions Lg,9,9,810,0,0,0,0,2,0,0.00,0.00
+1681,Javier Mascherano,2014-2015,30,Barcelona,W,1. Champions Lg,12,12,"1,079",0,1,0,0,1,0,0.00,0.08
+1682,Javier Mascherano,2015-2016,31,Barcelona,QF,1. Champions Lg,8,7,655,0,0,0,0,2,0,0.00,0.00
+1683,Javier Mascherano,2015-2016,31,Barcelona,1st,Super Cup,1,1,92,0,0,0,0,0,0,0.00,0.00
+1684,Javier Mascherano,2016-2017,32,Barcelona,QF,1. Champions Lg,8,7,642,0,0,0,0,1,0,0.00,0.00
+1685,Javier Mascherano,2017-2018,33,Barcelona,QF,1. Champions Lg,2,1,134,0,0,0,0,0,0,0.00,0.00
+1686,David Luiz,2006-2007,19,Benfica,QF,2. UEFA Cup,4,3,327,0,,0,,0,0,0.00,
+1687,David Luiz,2007-2008,20,Benfica,GR,1. Champions Lg,2,2,178,0,0,0,0,0,0,0.00,0.00
+1688,David Luiz,2007-2008,20,Benfica,R16,2. UEFA Cup,1,0,5,0,,0,,0,0,0.00,
+1689,David Luiz,2008-2009,21,Benfica,GR,2. UEFA Cup,2,2,180,1,,0,,1,0,0.50,
+1690,David Luiz,2009-2010,22,Benfica,QF,2. Europa Lg,11,11,990,0,0,0,0,2,0,0.00,0.00
+1691,David Luiz,2010-2011,23,Benfica,GR,1. Champions Lg,6,6,540,0,0,0,0,1,0,0.00,0.00
+1692,David Luiz,2011-2012,24,Chelsea,W,1. Champions Lg,11,11,"1,015",1,0,0,1,3,0,0.09,0.00
+1693,David Luiz,2012-2013,25,Chelsea,GR,1. Champions Lg,6,6,540,2,0,1,1,3,0,0.33,0.00
+1694,David Luiz,2012-2013,25,Chelsea,W,2. Europa Lg,7,7,622,2,1,0,0,1,0,0.29,0.14
+1695,David Luiz,2013-2014,26,Chelsea,SF,1. Champions Lg,8,7,636,0,1,0,0,2,0,0.00,0.14
+1696,David Luiz,2014-2015,27,Paris S-G,QF,1. Champions Lg,10,9,909,2,0,0,0,2,0,0.20,0.00
+1697,David Luiz,2015-2016,28,Paris S-G,QF,1. Champions Lg,7,7,630,1,0,0,0,5,0,0.14,0.00
+1698,David Luiz,2017-2018,30,Chelsea,R16,1. Champions Lg,4,4,327,1,0,0,0,1,0,0.28,0.00
+1699,David Luiz,2018-2019,31,Chelsea,W,2. Europa Lg,6,6,570,0,0,1,1,1,0,0.00,0.00
+1700,David Luiz,2019-2020,32,Arsenal,R32,2. Europa Lg,5,5,420,0,0,0,0,0,0,0.00,0.00
+1701,David Luiz,2020-2021,33,Arsenal,R32,2. Europa Lg,3,3,225,1,0,0,0,1,0,0.40,0.00
+1702,Alexis Sánchez,2008-2009,19,Udinese,QF,2. UEFA Cup,9,7,557,0,,0,,3,0,0.00,
+1703,Alexis Sánchez,2011-2012,22,Barcelona,SF,1. Champions Lg,6,4,356,2,0,0,0,0,0,0.51,0.00
+1704,Alexis Sánchez,2012-2013,23,Barcelona,SF,1. Champions Lg,9,5,521,1,2,0,0,1,0,0.17,0.35
+1705,Alexis Sánchez,2013-2014,24,Barcelona,QF,1. Champions Lg,9,5,467,0,2,0,0,3,0,0.00,0.39
+1706,Alexis Sánchez,2014-2015,25,Arsenal,R16,1. Champions Lg,7,7,602,3,1,0,0,1,0,0.45,0.15
+1707,Alexis Sánchez,2015-2016,26,Arsenal,R16,1. Champions Lg,7,7,622,3,5,0,0,2,0,0.43,0.72
+1708,Alexis Sánchez,2016-2017,27,Arsenal,R16,1. Champions Lg,8,8,665,3,3,0,1,1,0,0.41,0.41
+1709,Alexis Sánchez,2017-2018,28,Manchester Utd,R16,1. Champions Lg,2,2,165,0,0,0,0,1,0,0.00,0.00
+1710,Alexis Sánchez,2017-2018,28,Arsenal,SF,2. Europa Lg,1,1,90,1,0,0,0,0,0,1.00,0.00
+1711,Alexis Sánchez,2018-2019,29,Manchester Utd,QF,1. Champions Lg,4,2,210,0,0,0,0,0,0,0.00,0.00
+1712,Alexis Sánchez,2019-2020,30,Inter,GR,1. Champions Lg,1,1,65,0,1,0,0,1,0,0.00,1.38
+1713,Alexis Sánchez,2019-2020,30,Inter,F,2. Europa Lg,5,2,241,0,0,0,0,0,0,0.00,0.00
+1714,Alexis Sánchez,2020-2021,31,Inter,GR,1. Champions Lg,5,1,121,0,0,0,0,0,0,0.00,0.00
+1715,Mesut Özil,2006-2007,17,Schalke 04,Rd1,2. UEFA Cup,1,1,77,0,,0,,0,0,0.00,
+1716,Mesut Özil,2007-2008,18,Schalke 04,QF,1. Champions Lg,4,3,265,0,0,0,0,1,0,0.00,0.00
+1717,Mesut Özil,2007-2008,18,Werder Bremen,R16,2. UEFA Cup,2,1,74,0,,0,,0,0,0.00,
+1718,Mesut Özil,2008-2009,19,Werder Bremen,GR,1. Champions Lg,6,6,531,0,3,0,0,1,0,0.00,0.51
+1719,Mesut Özil,2008-2009,19,Werder Bremen,F,2. UEFA Cup,8,8,736,0,,0,,1,0,0.00,
+1720,Mesut Özil,2009-2010,20,Werder Bremen,R16,2. Europa Lg,8,8,662,0,6,0,0,0,0,0.00,0.82
+1721,Mesut Özil,2010-2011,21,Real Madrid,SF,1. Champions Lg,11,9,804,1,6,0,0,0,0,0.11,0.67
+1722,Mesut Özil,2011-2012,22,Real Madrid,SF,1. Champions Lg,10,10,807,2,3,0,0,0,0,0.22,0.33
+1723,Mesut Özil,2012-2013,23,Real Madrid,SF,1. Champions Lg,10,8,723,1,4,0,0,1,0,0.12,0.50
+1724,Mesut Özil,2013-2014,24,Arsenal,R16,1. Champions Lg,8,8,668,1,2,0,2,1,0,0.13,0.27
+1725,Mesut Özil,2014-2015,25,Arsenal,R16,1. Champions Lg,4,4,319,0,1,0,0,2,0,0.00,0.28
+1726,Mesut Özil,2015-2016,26,Arsenal,R16,1. Champions Lg,8,8,720,2,0,0,0,2,0,0.25,0.00
+1727,Mesut Özil,2016-2017,27,Arsenal,R16,1. Champions Lg,8,7,627,4,3,0,0,0,0,0.57,0.43
+1728,Mesut Özil,2017-2018,28,Arsenal,SF,2. Europa Lg,7,7,609,1,4,0,0,0,0,0.15,0.59
+1729,Mesut Özil,2018-2019,29,Arsenal,F,2. Europa Lg,10,8,646,1,1,0,0,1,0,0.14,0.14
+1730,Mesut Özil,2019-2020,30,Arsenal,R32,2. Europa Lg,2,1,151,0,0,0,0,0,0,0.00,0.00
+1731,Thiago Silva,2009-2010,24,Milan,R16,1. Champions Lg,7,7,560,0,0,0,0,0,0,0.00,0.00
+1732,Thiago Silva,2010-2011,25,Milan,R16,1. Champions Lg,6,6,540,0,0,0,0,0,0,0.00,0.00
+1733,Thiago Silva,2011-2012,26,Milan,QF,1. Champions Lg,7,6,590,1,0,0,0,0,0,0.15,0.00
+1734,Thiago Silva,2012-2013,27,Paris S-G,QF,1. Champions Lg,9,9,801,2,0,0,0,3,0,0.22,0.00
+1735,Thiago Silva,2013-2014,28,Paris S-G,QF,1. Champions Lg,7,6,568,0,0,0,0,0,0,0.00,0.00
+1736,Thiago Silva,2014-2015,29,Paris S-G,QF,1. Champions Lg,6,6,501,1,0,0,0,0,0,0.18,0.00
+1737,Thiago Silva,2015-2016,30,Paris S-G,QF,1. Champions Lg,9,9,810,0,0,0,0,1,0,0.00,0.00
+1738,Thiago Silva,2016-2017,31,Paris S-G,R16,1. Champions Lg,7,7,586,0,0,0,0,0,0,0.00,0.00
+1739,Thiago Silva,2017-2018,32,Paris S-G,R16,1. Champions Lg,6,6,522,0,0,0,0,0,0,0.00,0.00
+1740,Thiago Silva,2018-2019,33,Paris S-G,R16,1. Champions Lg,7,7,615,0,0,0,0,0,0,0.00,0.00
+1741,Thiago Silva,2019-2020,34,Paris S-G,F,1. Champions Lg,9,9,810,0,0,0,0,2,0,0.00,0.00
+1742,Thiago Silva,2020-2021,35,Chelsea,R16,1. Champions Lg,3,3,247,0,0,0,0,0,0,0.00,0.00
+1743,Xabi Alonso,2003-2004,21,Real Sociedad,R16,1. Champions Lg,8,8,694,1,1,0,0,2,0,0.13,0.13
+1744,Xabi Alonso,2004-2005,22,Liverpool,W,1. Champions Lg,8,7,661,1,0,0,1,3,0,0.14,0.00
+1745,Xabi Alonso,2005-2006,23,Liverpool,R16,1. Champions Lg,6,6,540,0,0,0,0,3,0,0.00,0.00
+1746,Xabi Alonso,2006-2007,24,Liverpool,F,1. Champions Lg,13,11,927,0,0,0,0,1,0,0.00,0.00
+1747,Xabi Alonso,2007-2008,25,Liverpool,SF,1. Champions Lg,4,4,377,0,1,0,0,1,0,0.00,0.24
+1748,Xabi Alonso,2008-2009,26,Liverpool,QF,1. Champions Lg,8,8,676,1,1,1,1,0,0,0.13,0.13
+1749,Xabi Alonso,2009-2010,27,Real Madrid,R16,1. Champions Lg,7,7,587,0,0,0,0,3,0,0.00,0.00
+1750,Xabi Alonso,2010-2011,28,Real Madrid,SF,1. Champions Lg,11,11,966,0,0,0,0,2,1,0.00,0.00
+1751,Xabi Alonso,2011-2012,29,Real Madrid,SF,1. Champions Lg,10,9,827,0,1,0,0,4,0,0.00,0.11
+1752,Xabi Alonso,2012-2013,30,Real Madrid,SF,1. Champions Lg,10,10,861,0,2,0,0,3,0,0.00,0.21
+1753,Xabi Alonso,2013-2014,31,Real Madrid,W,1. Champions Lg,9,8,659,0,1,0,0,3,0,0.00,0.14
+1754,Xabi Alonso,2014-2015,32,Bayern Munich,SF,1. Champions Lg,10,10,841,2,1,0,0,3,1,0.21,0.11
+1755,Xabi Alonso,2015-2016,33,Bayern Munich,SF,1. Champions Lg,8,8,657,1,0,0,0,0,0,0.14,0.00
+1756,Xabi Alonso,2016-2017,34,Bayern Munich,QF,1. Champions Lg,7,7,589,0,1,0,0,2,0,0.00,0.15
+1757,Sergio Busquets,2008-2009,20,Barcelona,W,1. Champions Lg,8,7,621,2,1,0,0,2,0,0.29,0.14
+1758,Sergio Busquets,2009-2010,21,Barcelona,SF,1. Champions Lg,10,8,692,0,0,0,0,1,0,0.00,0.00
+1759,Sergio Busquets,2010-2011,22,Barcelona,W,1. Champions Lg,12,12,"1,080",0,3,0,0,1,0,0.00,0.25
+1760,Sergio Busquets,2011-2012,23,Barcelona,SF,1. Champions Lg,10,10,875,1,0,0,0,1,0,0.10,0.00
+1761,Sergio Busquets,2012-2013,24,Barcelona,SF,1. Champions Lg,8,8,718,0,0,0,0,1,1,0.00,0.00
+1762,Sergio Busquets,2013-2014,25,Barcelona,QF,1. Champions Lg,9,9,793,1,1,0,0,2,0,0.11,0.11
+1763,Sergio Busquets,2014-2015,26,Barcelona,W,1. Champions Lg,10,9,788,0,0,0,0,0,0,0.00,0.00
+1764,Sergio Busquets,2015-2016,27,Barcelona,QF,1. Champions Lg,9,9,724,0,0,0,0,2,0,0.00,0.00
+1765,Sergio Busquets,2015-2016,27,Barcelona,1st,Super Cup,1,1,120,0,1,0,0,1,0,0.00,0.75
+1766,Sergio Busquets,2016-2017,28,Barcelona,QF,1. Champions Lg,8,8,691,0,0,0,0,3,0,0.00,0.00
+1767,Sergio Busquets,2017-2018,29,Barcelona,QF,1. Champions Lg,10,9,768,0,0,0,0,1,0,0.00,0.00
+1768,Sergio Busquets,2018-2019,30,Barcelona,SF,1. Champions Lg,12,11,"1,033",0,0,0,0,3,0,0.00,0.00
+1769,Sergio Busquets,2019-2020,31,Barcelona,QF,1. Champions Lg,7,7,504,0,0,0,0,3,0,0.00,0.00
+1770,Sergio Busquets,2020-2021,32,Barcelona,R16,1. Champions Lg,4,2,178,0,0,0,0,1,0,0.00,0.00
+1771,Gerard Piqué,2004-2005,17,Manchester Utd,R16,1. Champions Lg,1,0,26,0,0,0,0,0,0,0.00,0.00
+1772,Gerard Piqué,2007-2008,20,Manchester Utd,W,1. Champions Lg,3,3,253,2,0,0,0,0,0,0.71,0.00
+1773,Gerard Piqué,2008-2009,21,Barcelona,W,1. Champions Lg,12,12,"1,080",1,0,0,0,2,0,0.08,0.00
+1774,Gerard Piqué,2009-2010,22,Barcelona,SF,1. Champions Lg,11,11,988,2,1,0,0,4,0,0.18,0.09
+1775,Gerard Piqué,2010-2011,23,Barcelona,W,1. Champions Lg,12,12,"1,024",1,0,0,0,3,0,0.09,0.00
+1776,Gerard Piqué,2011-2012,24,Barcelona,SF,1. Champions Lg,5,5,371,0,1,0,0,0,0,0.00,0.24
+1777,Gerard Piqué,2012-2013,25,Barcelona,SF,1. Champions Lg,10,8,684,0,0,0,0,3,0,0.00,0.00
+1778,Gerard Piqué,2013-2014,26,Barcelona,QF,1. Champions Lg,9,9,722,2,0,0,0,1,0,0.25,0.00
+1779,Gerard Piqué,2014-2015,27,Barcelona,W,1. Champions Lg,11,11,990,1,0,0,0,2,0,0.09,0.00
+1780,Gerard Piqué,2015-2016,28,Barcelona,QF,1. Champions Lg,7,7,596,1,0,0,0,3,0,0.15,0.00
+1781,Gerard Piqué,2015-2016,28,Barcelona,1st,Super Cup,1,1,120,0,0,0,0,0,0,0.00,0.00
+1782,Gerard Piqué,2016-2017,29,Barcelona,QF,1. Champions Lg,8,8,651,1,0,0,0,2,0,0.14,0.00
+1783,Gerard Piqué,2017-2018,30,Barcelona,QF,1. Champions Lg,9,9,736,1,0,0,0,2,2,0.12,0.00
+1784,Gerard Piqué,2018-2019,31,Barcelona,SF,1. Champions Lg,11,11,990,2,0,0,0,1,0,0.18,0.00
+1785,Gerard Piqué,2019-2020,32,Barcelona,QF,1. Champions Lg,7,7,629,0,0,0,0,3,0,0.00,0.00
+1786,Gerard Piqué,2020-2021,33,Barcelona,R16,1. Champions Lg,2,2,157,1,0,0,0,0,1,0.57,0.00
+1787,Mario Balotelli,2008-2009,17,Inter,R16,1. Champions Lg,6,3,299,1,2,0,0,1,0,0.30,0.60
+1788,Mario Balotelli,2009-2010,18,Inter,W,1. Champions Lg,8,2,269,1,1,0,0,2,1,0.33,0.33
+1789,Mario Balotelli,2010-2011,19,Manchester City,R16,2. Europa Lg,5,4,267,2,0,0,0,1,1,0.67,0.00
+1790,Mario Balotelli,2011-2012,20,Manchester City,GR,1. Champions Lg,3,2,181,2,0,1,1,2,0,0.99,0.00
+1791,Mario Balotelli,2011-2012,20,Manchester City,R16,2. Europa Lg,3,2,187,1,0,1,1,1,0,0.48,0.00
+1792,Mario Balotelli,2012-2013,21,Manchester City,GR,1. Champions Lg,4,0,92,1,1,1,1,1,0,0.98,0.98
+1793,Mario Balotelli,2013-2014,22,Milan,R16,1. Champions Lg,8,6,598,2,0,1,1,3,0,0.30,0.00
+1794,Mario Balotelli,2014-2015,23,Liverpool,GR,1. Champions Lg,3,3,226,1,0,0,0,1,0,0.40,0.00
+1795,Mario Balotelli,2014-2015,23,Liverpool,R32,2. Europa Lg,2,1,109,1,0,1,1,1,0,0.83,0.00
+1796,Mario Balotelli,2016-2017,25,Nice,GR,2. Europa Lg,4,4,272,1,0,0,0,3,0,0.33,0.00
+1797,Mario Balotelli,2017-2018,26,Nice,R32,2. Europa Lg,7,6,528,6,1,2,2,3,0,1.02,0.17
+1798,Wesley Sneijder,2002-2003,18,Ajax,QF,1. Champions Lg,1,0,1,0,0,0,0,0,0,0.00,0.00
+1799,Wesley Sneijder,2003-2004,19,Ajax,GR,1. Champions Lg,5,3,350,0,2,0,0,0,0,0.00,0.51
+1800,Wesley Sneijder,2004-2005,20,Ajax,GR,1. Champions Lg,6,5,433,0,3,0,1,2,0,0.00,0.62
+1801,Wesley Sneijder,2004-2005,20,Ajax,R32,2. UEFA Cup,1,1,79,0,,0,,1,0,0.00,
+1802,Wesley Sneijder,2005-2006,21,Ajax,R16,1. Champions Lg,5,4,448,2,1,0,0,0,0,0.40,0.20
+1803,Wesley Sneijder,2006-2007,22,Ajax,R32,2. UEFA Cup,7,7,569,1,,0,,3,0,0.16,
+1804,Wesley Sneijder,2007-2008,23,Real Madrid,R16,1. Champions Lg,5,5,396,0,1,0,0,0,0,0.00,0.23
+1805,Wesley Sneijder,2008-2009,24,Real Madrid,R16,1. Champions Lg,4,4,335,0,0,0,0,0,0,0.00,0.00
+1806,Wesley Sneijder,2009-2010,25,Inter,W,1. Champions Lg,11,11,948,3,6,0,0,0,0,0.28,0.57
+1807,Wesley Sneijder,2010-2011,26,Inter,QF,1. Champions Lg,9,9,796,3,2,0,0,1,0,0.34,0.23
+1808,Wesley Sneijder,2011-2012,27,Inter,R16,1. Champions Lg,5,5,372,0,1,0,0,0,0,0.00,0.24
+1809,Wesley Sneijder,2012-2013,28,Galatasaray,QF,1. Champions Lg,4,4,252,1,1,0,0,1,0,0.36,0.36
+1810,Wesley Sneijder,2013-2014,29,Galatasaray,R16,1. Champions Lg,7,6,541,2,1,0,0,1,0,0.33,0.17
+1811,Wesley Sneijder,2014-2015,30,Galatasaray,GR,1. Champions Lg,6,6,540,1,1,0,0,1,0,0.17,0.17
+1812,Wesley Sneijder,2015-2016,31,Galatasaray,GR,1. Champions Lg,6,6,540,0,1,0,0,0,0,0.00,0.17
+1813,Wesley Sneijder,2015-2016,31,Galatasaray,R32,2. Europa Lg,2,2,179,0,0,0,0,0,0,0.00,0.00
+1814,Wesley Sneijder,2017-2018,33,Nice,R32,2. Europa Lg,2,2,156,0,1,0,0,0,0,0.00,0.58
+1815,Nani,2005-2006,18,Sporting CP,Rd1,2. UEFA Cup,1,0,13,0,,0,,0,0,0.00,
+1816,Nani,2006-2007,19,Sporting CP,GR,1. Champions Lg,6,4,423,1,0,0,0,1,0,0.21,0.00
+1817,Nani,2007-2008,20,Manchester Utd,W,1. Champions Lg,11,7,638,0,3,0,0,2,0,0.00,0.42
+1818,Nani,2008-2009,21,Manchester Utd,F,1. Champions Lg,7,6,512,0,0,0,0,1,0,0.00,0.00
+1819,Nani,2009-2010,22,Manchester Utd,QF,1. Champions Lg,8,8,638,2,4,0,0,0,0,0.28,0.56
+1820,Nani,2010-2011,23,Manchester Utd,F,1. Champions Lg,12,9,751,1,0,0,0,1,0,0.12,0.00
+1821,Nani,2011-2012,24,Manchester Utd,GR,1. Champions Lg,6,4,401,0,2,0,0,0,0,0.00,0.45
+1822,Nani,2011-2012,24,Manchester Utd,R16,2. Europa Lg,3,2,192,0,0,0,0,0,0,0.00,0.00
+1823,Nani,2012-2013,25,Manchester Utd,R16,1. Champions Lg,4,3,263,0,0,0,1,0,1,0.00,0.00
+1824,Nani,2013-2014,26,Manchester Utd,QF,1. Champions Lg,1,1,90,1,0,0,0,0,0,1.00,0.00
+1825,Nani,2014-2015,27,Sporting CP,GR,1. Champions Lg,5,5,449,4,0,2,2,1,0,0.80,0.00
+1826,Nani,2014-2015,27,Sporting CP,R32,2. Europa Lg,2,2,180,0,0,0,0,0,0,0.00,0.00
+1827,Nani,2015-2016,28,Fenerbahçe,R16,2. Europa Lg,9,8,681,1,1,0,0,3,0,0.13,0.13
+1828,Nani,2017-2018,30,Lazio,QF,2. Europa Lg,6,4,246,0,0,0,0,0,0,0.00,0.00
+1829,Nani,2018-2019,31,Sporting CP,R32,2. Europa Lg,5,5,428,1,1,0,0,0,0,0.21,0.21
+1830,Carles Puyol,1999-2000,21,Barcelona,SF,1. Champions Lg,8,7,490,0,0,0,0,0,1,0.00,0.00
+1831,Carles Puyol,2000-2001,22,Barcelona,GR1,1. Champions Lg,3,3,270,0,0,0,0,0,0,0.00,0.00
+1832,Carles Puyol,2000-2001,22,Barcelona,SF,2. UEFA Cup,2,2,180,0,,0,,0,0,0.00,
+1833,Carles Puyol,2001-2002,23,Barcelona,SF,1. Champions Lg,14,14,"1,219",0,1,0,0,5,0,0.00,0.07
+1834,Carles Puyol,2002-2003,24,Barcelona,QF,1. Champions Lg,12,12,"1,069",0,0,0,0,1,0,0.00,0.00
+1835,Carles Puyol,2003-2004,25,Barcelona,Rd4,2. UEFA Cup,7,7,574,0,,0,,0,0,0.00,
+1836,Carles Puyol,2004-2005,26,Barcelona,R16,1. Champions Lg,8,8,676,0,0,0,0,1,0,0.00,0.00
+1837,Carles Puyol,2005-2006,27,Barcelona,W,1. Champions Lg,12,12,"1,080",0,0,0,0,4,0,0.00,0.00
+1838,Carles Puyol,2006-2007,28,Barcelona,R16,1. Champions Lg,8,8,704,1,0,0,0,1,0,0.13,0.00
+1839,Carles Puyol,2007-2008,29,Barcelona,SF,1. Champions Lg,10,9,862,1,0,0,0,3,0,0.10,0.00
+1840,Carles Puyol,2008-2009,30,Barcelona,W,1. Champions Lg,9,8,757,0,0,0,0,3,0,0.00,0.00
+1841,Carles Puyol,2009-2010,31,Barcelona,SF,1. Champions Lg,9,9,804,0,0,0,0,3,1,0.00,0.00
+1842,Carles Puyol,2010-2011,32,Barcelona,W,1. Champions Lg,8,7,632,0,0,0,0,1,0,0.00,0.00
+1843,Carles Puyol,2011-2012,33,Barcelona,SF,1. Champions Lg,9,8,743,0,0,0,0,2,0,0.00,0.00
+1844,Carles Puyol,2012-2013,34,Barcelona,SF,1. Champions Lg,4,3,269,0,0,0,0,0,0,0.00,0.00
+1845,Carles Puyol,2013-2014,35,Barcelona,QF,1. Champions Lg,1,1,68,0,0,0,0,0,0,0.00,0.00
