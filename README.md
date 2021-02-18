@@ -1,5 +1,5 @@
 # ballon-dor-analysis
-*Main Purpose
+* Main Purpose
 *What are the characteristics of the Ballon D'or winner and can it be predicted who will win?
 
 # Data Acquisition
